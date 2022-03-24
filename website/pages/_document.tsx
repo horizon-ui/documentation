@@ -22,9 +22,9 @@ class Document extends NextDocument {
           <GAScriptHead />
           <link
             rel="preload"
-            href="/fonts/Inter.woff2"
+            href="/fonts/PlusJakartaSans-Regular.woff"
             as="font"
-            type="font/woff2"
+            type="font/woff"
             crossOrigin="anonymous"
           />
         </Head>
