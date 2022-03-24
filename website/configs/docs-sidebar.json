@@ -5,8 +5,12 @@
       "heading": true,
       "routes": [
         {
+          "title": "Introduction",
+          "path": "/docs/introduction"
+        },
+        {
           "title": "Installation",
-          "path": "/docs/getting-started"
+          "path": "/docs/installation"
         },
         {
           "title": "Changelog",

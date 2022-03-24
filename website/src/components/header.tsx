@@ -52,7 +52,7 @@ function HeaderContent() {
               display="flex"
               alignItems="center"
               justifyContent="center"
-              aria-label="Purity UI Dashboard, Back to homepage"
+              aria-label="Horizon UI Dashboard, Back to homepage"
               minW={{ base: "0px", md: "180px" }}
             >
               <Logo display={{ base: "none", md: "block" }} />
@@ -63,7 +63,7 @@ function HeaderContent() {
                 ms="6px"
                 display={{ base: "none", md: "block" }}
               >
-                Purity UI Docs
+                Horizon UI Docs
               </Text>
               <Box minW="3rem" display={{ base: "block", md: "none" }}>
                 <LogoIcon />
@@ -111,7 +111,7 @@ function HeaderContent() {
             alignItems="center"
             as="a"
             aria-label="Free Download"
-            href="https://demos.creative-tim.com/purity-ui-dashboard/"
+            href="https://demos.creative-tim.com/horizon-ui-dashboard/"
             target="_blank"
             bg="teal.300"
             px="1em"

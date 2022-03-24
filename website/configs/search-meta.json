@@ -1250,14 +1250,14 @@
     "content": "Getting Started",
     "id": "ab94fb9e-6e08-494d-8b7c-fc14c2d23edb",
     "type": "lvl1",
-    "url": "/docs/getting-started",
+    "url": "/docs/installation",
     "hierarchy": { "lvl1": "Getting Started" }
   },
   {
     "content": "Installation",
     "id": "73de4d01-a249-4b50-a7d5-ae1469149b34",
     "type": "lvl2",
-    "url": "/docs/getting-started#installation",
+    "url": "/docs/installation#installation",
     "hierarchy": {
       "lvl1": "Getting Started",
       "lvl2": "Installation",
@@ -1268,7 +1268,7 @@
     "content": "Add custom theme (Optional)",
     "id": "ca4c7be5-c555-4071-b0f9-11236ca14c1c",
     "type": "lvl2",
-    "url": "/docs/getting-started#add-custom-theme-optional",
+    "url": "/docs/installation#add-custom-theme-optional",
     "hierarchy": {
       "lvl1": "Getting Started",
       "lvl2": "Add custom theme (Optional)",
@@ -1279,7 +1279,7 @@
     "content": "ChakraProvider Props",
     "id": "25702716-a75c-4a56-a05c-3ccfa9e076f5",
     "type": "lvl3",
-    "url": "/docs/getting-started#chakraprovider-props",
+    "url": "/docs/installation#chakraprovider-props",
     "hierarchy": {
       "lvl1": "Getting Started",
       "lvl2": "Add custom theme (Optional)",

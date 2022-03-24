@@ -1,10 +1,10 @@
 ---
 title: Changelog
-description: The changelog for Purity UI Dashboard React
+description: The changelog for Horizon UI Dashboard React
 slug: "/changelog"
 ---
 
-The Changelog gives an overview of the meaningful changes we've made to Purity
+The Changelog gives an overview of the meaningful changes we've made to Horizon
 UI Dashboard as we keep driving for better performance and best-in-class
 developer experience.
 

@@ -90,7 +90,7 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
   return (
     <>
       <SEO
-        title="Purity UI Documentation - Most trendiest, complex and innovative Dashboard Made by Creative Tim &amp; Simmmple. Check our latest Free ReactJS Dashboard based on Chakra UI."
+        title="Horizon UI Documentation - Most trendiest, complex and innovative Dashboard Made by Creative Tim &amp; Simmmple. Check our latest Free ReactJS Dashboard based on Chakra UI."
         description="Most trendiest, complex and innovative Dashboard Made by Creative Tim &amp; Simmmple. Check our latest Free ReactJS Dashboard based on Chakra UI."
       />
       <Header />
@@ -108,7 +108,7 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                 mb="16px"
                 lineHeight="1.2"
               >
-                Purity UI Dashboard
+                Horizon UI Dashboard
                 <Box
                   as="span"
                   color={useColorModeValue("teal.300", "teal.300")}
@@ -136,7 +136,7 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                 justify="center"
                 direction={{ base: "column", sm: "row" }}
               >
-                <NextLink href="/docs/getting-started" passHref>
+                <NextLink href="/docs/introduction" passHref>
                   <Button
                     borderRadius="15px"
                     bg="teal.300"
@@ -158,7 +158,7 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                   h="4rem"
                   px="40px"
                   fontSize="1.2rem"
-                  href="https://www.creative-tim.com/product/purity-ui-dashboard"
+                  href="https://www.creative-tim.com/product/horizon-ui-dashboard"
                   target="__blank"
                 >
                   Free Download

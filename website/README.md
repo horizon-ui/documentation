@@ -1,3 +1,3 @@
-# Purity UI Docs
+# Horizon UI Docs
 
-The Documentation website for Purity UI Dashboard
+The Documentation website for Horizon UI Dashboard

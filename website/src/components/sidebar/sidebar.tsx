@@ -128,7 +128,7 @@ const MainNavLink = ({ href, icon, children }) => {
 const mainNavLinks = [
   {
     icon: <DocsIcon />,
-    href: "/docs/getting-started",
+    href: "/docs/introduction",
     label: "Docs",
   },
 ]

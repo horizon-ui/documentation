@@ -54,6 +54,6 @@ customize it when you are ready for it.
 ## Learn More
 
 You can learn more in the
-[Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[Create React App documentation](https://facebook.github.io/create-react-app/docs/installation).
 
 To learn React, check out the [React documentation](https://reactjs.org/).

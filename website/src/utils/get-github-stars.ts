@@ -13,7 +13,7 @@ export async function getGithubStars() {
   try {
     const repo = await octokit.repos.get({
       owner: "creativetimofficial",
-      repo: "purity-ui-dashboard",
+      repo: "horizon-ui-dashboard",
     })
     count = repo.data.stargazers_count
   } catch (error) {

@@ -130,7 +130,7 @@ export function MobileNavContent(props: MobileNavContentProps) {
                     alignItems="center"
                     as="a"
                     aria-label="Free Download"
-                    href="https://demos.creative-tim.com/purity-ui-dashboard/"
+                    href="https://demos.creative-tim.com/horizon-ui-dashboard/"
                     target="_blank"
                     bg="teal.300"
                     px="1em"
