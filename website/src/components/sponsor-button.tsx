@@ -1,23 +1,22 @@
 import React from "react"
-import { Box, BoxProps, Icon } from "@chakra-ui/react"
+import { Box, BoxProps, Icon, useColorModeValue } from "@chakra-ui/react"
 import siteConfig from "configs/site-config"
-
-const DownloadButton = (props: BoxProps) => (
+const cacat = useColorModeValue("red", "blue");
+const DownloadButton = (props: BoxProps) => { (
   <Box
     display={{ base: "none", lg: "flex" }}
     alignItems="center"
     as="a"
-    aria-label="Free Download"
+    aria-label="Live Preview"
     href={siteConfig.freeDownload.url}
     target="_blank"
-    bg="gray.50"
     borderWidth="1px"
-    borderColor="gray.200"
-    px="1em"
-    minH="36px"
-    borderRadius="md"
+    borderColor="#1B2559"
+    px="24px"
+    minH="48px"
+    borderRadius="12px"
     fontSize="sm"
-    color="gray.800"
+    color="#1B2559"
     outline="0"
     transition="all 0.3s"
     _hover={{
@@ -33,9 +32,9 @@ const DownloadButton = (props: BoxProps) => (
     {...props}
   >
     <Box as="strong" lineHeight="inherit" fontWeight="semibold">
-      Free Download
+      Live Preview
     </Box>
   </Box>
-)
+)}
 
 export default DownloadButton

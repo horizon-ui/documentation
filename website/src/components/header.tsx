@@ -45,7 +45,7 @@ function HeaderContent() {
 
   return (
     <>
-      <Flex w="100%" h="100%" px="6" align="center" justify="space-between">
+      <Flex w="100%" h="100%" px="4" align="center" justify="space-between">
         <Flex align="center">
           <NextLink href="/" passHref>
             <chakra.a
@@ -56,15 +56,6 @@ function HeaderContent() {
               minW={{ base: "0px", md: "180px" }}
             >
               <Logo display={{ base: "none", md: "block" }} />
-              <Text
-                color={useColorModeValue("#2D3748", "#fff")}
-                fontSize="18px"
-                fontWeight="bold"
-                ms="6px"
-                display={{ base: "none", md: "block" }}
-              >
-                Horizon UI Docs
-              </Text>
               <Box minW="3rem" display={{ base: "block", md: "none" }}>
                 <LogoIcon />
               </Box>
@@ -105,18 +96,18 @@ function HeaderContent() {
             onClick={toggleMode}
             icon={<SwitchIcon />}
           />
-          <DownloadButton ml="5" mr="20px" />
+          <DownloadButton ml="5" mr="10px" />
           <Box
             display={{ base: "none", lg: "flex" }}
             alignItems="center"
             as="a"
-            aria-label="Free Download"
+            aria-label="Pricing & FAQs"
             href="https://demos.creative-tim.com/horizon-ui-dashboard/"
             target="_blank"
-            bg="teal.300"
-            px="1em"
-            minH="36px"
-            borderRadius="md"
+            bg="#4318FF"
+            px="24px"
+            minH="48px"
+            borderRadius="12px"
             fontSize="sm"
             color="white"
             outline="0"
@@ -132,7 +123,7 @@ function HeaderContent() {
             }}
           >
             <Box as="strong" lineHeight="inherit" fontWeight="semibold">
-              Live Preview
+              Pricing & FAQs
             </Box>
           </Box>
           <MobileNavButton
