@@ -29,7 +29,7 @@ const links = [
   {
     icon: DiGithubBadge,
     label: "GitHub",
-    href: "https://github.com/creativetimofficial",
+    href: "https://github.com/simmmple-web",
   },
   {
     icon: IoLogoTwitter,

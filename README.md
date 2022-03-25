@@ -2,8 +2,8 @@
 
 ![version](https://img.shields.io/badge/version-1.0.1-blue.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/horizon-ui-dashboard.svg?maxAge=2592000)](https://github.com/creativetimofficial/horizon-ui-dashboard/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/horizon-ui-dashboard.svg?maxAge=2592000)](https://github.com/creativetimofficial/horizon-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues open](https://img.shields.io/github/issues/simmmple-web/horizon-ui-dashboard.svg?maxAge=2592000)](https://github.com/simmmple-web/horizon-ui-dashboard/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/simmmple-web/horizon-ui-dashboard.svg?maxAge=2592000)](https://github.com/simmmple-web/horizon-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Product Gif](https://i.ibb.co/7NXMZQS/Cover-Horizon-Chakra-FREE-Thumbnail.png)
 
@@ -52,7 +52,7 @@ pages here</a>.
 **HELPFUL LINKS**
 
 - View
-  <a href="https://github.com/creativetimofficial/horizon-ui-dashboard" target="_blank">Github
+  <a href="https://github.com/simmmple-web/horizon-ui-dashboard" target="_blank">Github
   Repository</a>
 
 - Check
@@ -92,7 +92,7 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/horizon-ui-dashboard?ref=readme-pud)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/figma-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/horizon-ui-dashboard?ref=readme-pud)
+[<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/horizon-ui-dashboard?ref=readme-pud)[<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/figma-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/horizon-ui-dashboard?ref=readme-pud)
 
 | React                                                                                                                                                                                        | Figma                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -112,10 +112,10 @@ Let us know your thoughts below. And good luck with development!
 ## Quick Start
 
 - Clone the repo:
-  `git clone https://github.com/creativetimofficial/horizon-ui-dashboard.git`.
+  `git clone https://github.com/simmmple-web/horizon-ui-dashboard.git`.
 - `npm install`
 - `npm start`
-- [Download from Github](https://github.com/creativetimofficial/horizon-ui-dashboard/archive/main.zip).
+- [Download from Github](https://github.com/simmmple-web/horizon-ui-dashboard/archive/main.zip).
 - [Download from Creative Tim](https://www.creative-tim.com/product/horizon-ui-dashboard).
 
 ## File Structure
@@ -239,11 +239,11 @@ horizon-ui-dashboard/
 At present, we officially aim to support the last two versions of the following
 browsers:
 
-<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64">
-<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64">
-<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64">
-<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64">
-<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
+<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64">
+<img src="https://raw.githubusercontent.com/simmmple-web/public-assets/master/logos/firefox-logo.png" width="64" height="64">
+<img src="https://raw.githubusercontent.com/simmmple-web/public-assets/master/logos/edge-logo.png" width="64" height="64">
+<img src="https://raw.githubusercontent.com/simmmple-web/public-assets/master/logos/safari-logo.png" width="64" height="64">
+<img src="https://raw.githubusercontent.com/simmmple-web/public-assets/master/logos/opera-logo.png" width="64" height="64">
 
 ## Resources
 
@@ -254,7 +254,7 @@ browsers:
 - License Agreement: <https://www.creative-tim.com/license?ref=readme-pud>
 - Support: <https://www.creative-tim.com/contact-us?ref=readme-pud>
 - Issues:
-  [Github Issues Page](https://github.com/creativetimofficial/horizon-ui-dashboard/issues)
+  [Github Issues Page](https://github.com/simmmple-web/horizon-ui-dashboard/issues)
 
 ## Reporting Issues
 
@@ -263,7 +263,7 @@ Here are some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Horizon UI Dashbaord.
    Check the CHANGELOG from your dashboard on our
-   [CHANGE LOG File](https://github.com/creativetimofficial/horizon-ui-dashboard/blob/main/CHANGELOG.md?ref=readme-pud).
+   [CHANGE LOG File](https://github.com/simmmple-web/horizon-ui-dashboard/blob/main/CHANGELOG.md?ref=readme-pud).
 2. Providing us reproducible steps for the issue will shorten the time it takes
    for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you
@@ -304,7 +304,7 @@ Facebook: <https://www.facebook.com/CreativeTim>
 
 Dribbble: <https://dribbble.com/creativetim>
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
+Instagram: <https://www.instagram.com/simmmple-web>
 
 ### Social Media - Simmmple
 
