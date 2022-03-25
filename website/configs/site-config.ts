@@ -29,7 +29,7 @@ const siteConfig = {
     description:
       "Simple, Modular and Accessible UI Components for your React Applications.",
     siteUrl:
-      "https://www.creative-tim.com/product/horizon-ui-dashboard?ref=docs-pud",
+      "https://www.horizon-ui.com/?ref=docs-pud",
     twitter: {
       handle: "@simmmple",
       site: "@simmmple",

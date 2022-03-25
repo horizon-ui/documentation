@@ -129,20 +129,20 @@ export function MobileNavContent(props: MobileNavContentProps) {
                     display={{ base: "flex", lg: "none" }}
                     alignItems="center"
                     as="a"
-                    aria-label="Free Download"
-                    href="https://demos.creative-tim.com/horizon-ui-dashboard/"
+                    aria-label="See Pricing"
+                    href="https://horizon-ui.com/#pricing"
                     target="_blank"
-                    bg="brand.300"
-                    px="1em"
-                    minH="36px"
-                    borderRadius="md"
+                    bg={useColorModeValue("brand.500", "brand.400")}
+                    px="24px"
+                    minH="48px"
+                    borderRadius="12px"
                     fontSize="sm"
                     color="white"
                     outline="0"
                     transition="all 0.3s"
                     w="fit-content"
                     _hover={{
-                      bg: "brand.300",
+                      bg: useColorModeValue("brand.700", "brand.300"),
                     }}
                     _active={{
                       borderColor: "brand.200",
@@ -152,7 +152,7 @@ export function MobileNavContent(props: MobileNavContentProps) {
                     }}
                   >
                     <Box as="strong" lineHeight="inherit" fontWeight="semibold">
-                      Live Preview
+                      See Pricing
                     </Box>
                   </Box>
                 </Flex>

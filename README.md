@@ -92,11 +92,11 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/horizon-ui-dashboard?ref=readme-pud)[<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/figma-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/horizon-ui-dashboard?ref=readme-pud)
+[<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.horizon-ui.com/?ref=readme-pud)[<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/figma-logo.jpg?raw=true" width="60" height="60" />](https://www.horizon-ui.com/?ref=readme-pud)
 
 | React                                                                                                                                                                                        | Figma                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon Free ReactJS Chakra Dashboard](https://i.ibb.co/Ct9RvRZ/Cover-Horizon-Chakra-FREE-Thumbnail-React-JS.png)](https://www.creative-tim.com/product/horizon-ui-dashboard?ref=readme-pud) | [![Horizon Free Figma Chakra Dashboard](https://i.ibb.co/wRK0jbK/Cover-Horizon-Chakra-FREE-Thumbnail-Figma.png)](https://www.creative-tim.com/product/horizon-ui-dashboard?ref=readme-pud) |
+| [![Horizon Free ReactJS Chakra Dashboard](https://i.ibb.co/Ct9RvRZ/Cover-Horizon-Chakra-FREE-Thumbnail-React-JS.png)](https://www.horizon-ui.com/?ref=readme-pud) | [![Horizon Free Figma Chakra Dashboard](https://i.ibb.co/wRK0jbK/Cover-Horizon-Chakra-FREE-Thumbnail-Figma.png)](https://www.horizon-ui.com/?ref=readme-pud) |
 
 ## Demo
 
@@ -116,7 +116,7 @@ Let us know your thoughts below. And good luck with development!
 - `npm install`
 - `npm start`
 - [Download from Github](https://github.com/simmmple-web/horizon-ui-dashboard/archive/main.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/horizon-ui-dashboard).
+- [Download from Creative Tim](https://www.horizon-ui.com/).
 
 ## File Structure
 
@@ -250,7 +250,7 @@ browsers:
 - Demo:
   <https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-pud>
 - Download Page:
-  <https://www.creative-tim.com/product/horizon-ui-dashboard?ref=readme-pud>
+  <https://www.horizon-ui.com/?ref=readme-pud>
 - License Agreement: <https://www.creative-tim.com/license?ref=readme-pud>
 - Support: <https://www.creative-tim.com/contact-us?ref=readme-pud>
 - Issues:
