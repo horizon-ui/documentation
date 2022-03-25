@@ -2826,14 +2826,14 @@
     }
   },
   {
-    "content": "Teal",
+    "content": "brand",
     "id": "01e9733d-2701-4711-a7ed-aef054fdcd75",
     "type": "lvl3",
     "url": "/docs/theming/theme#teal",
     "hierarchy": {
       "lvl1": "Theme (Colors, etc)",
       "lvl2": "Green",
-      "lvl3": "Teal"
+      "lvl3": "brand"
     }
   },
   {
@@ -2843,7 +2843,7 @@
     "url": "/docs/theming/theme#blue",
     "hierarchy": {
       "lvl1": "Theme (Colors, etc)",
-      "lvl2": "Teal",
+      "lvl2": "brand",
       "lvl3": "Blue"
     }
   },

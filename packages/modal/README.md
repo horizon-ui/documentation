@@ -232,7 +232,7 @@ function DrawerExample() {
 
   return (
     <>
-      <Button ref={btnRef} colorScheme="teal" onClick={onOpen}>
+      <Button ref={btnRef} colorScheme="brand" onClick={onOpen}>
         Open
       </Button>
       <Drawer

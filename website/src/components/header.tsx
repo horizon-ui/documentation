@@ -101,10 +101,10 @@ function HeaderContent() {
             display={{ base: "none", lg: "flex" }}
             alignItems="center"
             as="a"
-            aria-label="Pricing & FAQs"
+            aria-label="See Pricing"
             href="https://demos.creative-tim.com/horizon-ui-dashboard/"
             target="_blank"
-            bg="#4318FF"
+            bg={useColorModeValue("brand.500", "brand.400")}
             px="24px"
             minH="48px"
             borderRadius="12px"
@@ -113,17 +113,17 @@ function HeaderContent() {
             outline="0"
             transition="all 0.3s"
             _hover={{
-              bg: "teal.300",
+              bg: useColorModeValue("brand.700", "brand.300"),
             }}
             _active={{
-              borderColor: "teal.200",
+              borderColor: "brand.200",
             }}
             _focus={{
               boxShadow: "outline",
             }}
           >
             <Box as="strong" lineHeight="inherit" fontWeight="semibold">
-              Pricing & FAQs
+              See Pricing
             </Box>
           </Box>
           <MobileNavButton

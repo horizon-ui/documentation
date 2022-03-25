@@ -71,7 +71,7 @@ export const withRightIcon = () => (
       <TagRightIcon w="12px" h="12px" as={AddIcon} />
     </Tag>
 
-    <Tag variant="solid" colorScheme="teal">
+    <Tag variant="solid" colorScheme="brand">
       <TagLabel>Teal</TagLabel>
       <TagRightIcon as={MdSettings} />
     </Tag>

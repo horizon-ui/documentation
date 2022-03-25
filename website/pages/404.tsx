@@ -26,7 +26,7 @@ const NotFoundPage = () => {
             as="a"
             aria-label="Back to Home"
             leftIcon={<FaHome />}
-            colorScheme="teal"
+            colorScheme="brand"
             size="lg"
           >
             Back to Home

@@ -138,7 +138,7 @@ test("should resolve props and styles", async () => {
       tabIndex={0}
       styleConfig={{
         baseStyle: {
-          fontFamily: "Inter",
+          fontFamily: "PlusJakartaSans",
           color: "red.400",
         },
         sizes: {
@@ -169,7 +169,7 @@ test("should resolve props and styles", async () => {
     <DocumentFragment>
       {
       "styles": {
-        "fontFamily": "Inter",
+        "fontFamily": "PlusJakartaSans",
         "color": "red.500",
         "fontSize": 12,
         "border": "2px solid blue.400"

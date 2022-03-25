@@ -228,7 +228,7 @@ export const FocusBug = () => {
 
   return (
     <Box textAlign="center" fontSize="xl">
-      <Button colorScheme="teal" onClick={onOpen}>
+      <Button colorScheme="brand" onClick={onOpen}>
         Open
       </Button>
       <Drawer isOpen={isOpen} placement="right" onClose={onClose}>

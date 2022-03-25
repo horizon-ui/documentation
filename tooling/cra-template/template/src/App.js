@@ -24,7 +24,7 @@ function App() {
               Edit <Code fontSize="xl">src/App.js</Code> and save to reload.
             </Text>
             <Link
-              color="teal.500"
+              color="brand.500"
               href="https://chakra-ui.com"
               fontSize="2xl"
               target="_blank"

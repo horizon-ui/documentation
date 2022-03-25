@@ -44,7 +44,7 @@ export const withHeading = () => (
     <chakra.h1
       fontSize={["50px", "80px", "100px"]}
       color="tomato"
-      sx={{ color: "teal.500" }}
+      sx={{ color: "brand.500" }}
     >
       Welcome
     </chakra.h1>

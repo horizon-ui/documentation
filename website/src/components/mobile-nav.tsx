@@ -38,12 +38,12 @@ function NavLink({ href, children }) {
         rounded="md"
         transition="0.2s all"
         fontWeight={isActive ? "semibold" : "medium"}
-        bg={isActive ? "teal.400" : undefined}
+        bg={isActive ? "brand.400" : undefined}
         borderWidth={isActive ? undefined : "1px"}
         color={isActive ? "white" : undefined}
         _hover={{
           bg: isActive
-            ? "teal.500"
+            ? "brand.500"
             : useColorModeValue("gray.100", "whiteAlpha.100"),
         }}
       >
@@ -111,7 +111,7 @@ export function MobileNavContent(props: MobileNavContentProps) {
             >
               <Box>
                 <Flex justify="space-between" px="6" pt="5" pb="4">
-                  <Logo sx={{ rect: { fill: "teal.300" } }} />
+                  <Logo sx={{ rect: { fill: "brand.300" } }} />
                   <HStack spacing="5">
                     <CloseButton ref={closeBtnRef} onClick={onClose} />
                   </HStack>
@@ -132,7 +132,7 @@ export function MobileNavContent(props: MobileNavContentProps) {
                     aria-label="Free Download"
                     href="https://demos.creative-tim.com/horizon-ui-dashboard/"
                     target="_blank"
-                    bg="teal.300"
+                    bg="brand.300"
                     px="1em"
                     minH="36px"
                     borderRadius="md"
@@ -142,10 +142,10 @@ export function MobileNavContent(props: MobileNavContentProps) {
                     transition="all 0.3s"
                     w="fit-content"
                     _hover={{
-                      bg: "teal.300",
+                      bg: "brand.300",
                     }}
                     _active={{
-                      borderColor: "teal.200",
+                      borderColor: "brand.200",
                     }}
                     _focus={{
                       boxShadow: "outline",

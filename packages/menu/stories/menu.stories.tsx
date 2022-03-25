@@ -45,7 +45,7 @@ export const Basic = () => (
       <MenuButton
         as={Button}
         variant="solid"
-        colorScheme="teal"
+        colorScheme="brand"
         size="sm"
         rightIcon={<FaUnlink />}
       >

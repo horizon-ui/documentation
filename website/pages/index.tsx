@@ -33,7 +33,7 @@ const Feature = ({ title, icon, children, ...props }) => {
         rounded="full"
         w="12"
         h="12"
-        bg="teal.500"
+        bg="brand.500"
         align="center"
         justify="center"
       >
@@ -111,7 +111,7 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                 Horizon UI Dashboard
                 <Box
                   as="span"
-                  color={useColorModeValue("teal.300", "teal.300")}
+                  color={useColorModeValue("brand.300", "brand.300")}
                 >
                   {" "}
                   Documentation
@@ -139,13 +139,13 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                 <NextLink href="/docs/introduction" passHref>
                   <Button
                     borderRadius="15px"
-                    bg="teal.300"
+                    bg="brand.300"
                     h="4rem"
                     px="40px"
                     fontSize="1.2rem"
                     as="a"
                     size="lg"
-                    colorScheme="teal"
+                    colorScheme="brand"
                     rightIcon={<FaArrowRight fontSize="0.8em" />}
                   >
                     Documentation

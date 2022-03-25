@@ -77,13 +77,13 @@ You can also use a custom spinner to render your own spinner component.
 
 ```jsx
 <Stack>
-  <Button isLoading colorScheme="teal" variant="solid">
+  <Button isLoading colorScheme="brand" variant="solid">
     Email
   </Button>
 
   <Button
     isLoading
-    colorScheme="teal"
+    colorScheme="brand"
     variant="outline"
     spinner={<BarSpinner />}
   >

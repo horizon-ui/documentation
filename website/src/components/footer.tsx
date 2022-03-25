@@ -102,7 +102,7 @@ export const Footer = () => (
       &copy; 2021, <Text as="span">Made with ❤️ by</Text>
       <Link
         // color={linkTeal}
-        color="teal.400"
+        color="brand.400"
         href="https://www.creative-tim.com?ref=creativetim-pud"
         target="_blank"
       >
@@ -112,7 +112,7 @@ export const Footer = () => (
       &
       <Link
         // color={linkTeal}
-        color="teal.400"
+        color="brand.400"
         href="https://www.simmmple.com?ref=simmmple-pud"
         target="_blank"
       >

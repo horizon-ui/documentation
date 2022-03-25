@@ -35,7 +35,7 @@ test("passes a11y test", async () => {
       <MenuButton
         as={Button}
         variant="solid"
-        colorScheme="teal"
+        colorScheme="brand"
         size="sm"
         // rightIcon={<FaUnlink />}
       >
@@ -56,7 +56,7 @@ test("does not render MenuList Items if Menu isLazy", () => {
       <MenuButton
         as={Button}
         variant="solid"
-        colorScheme="teal"
+        colorScheme="brand"
         size="sm"
         // rightIcon={<FaUnlink />}
       >
