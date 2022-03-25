@@ -92,7 +92,7 @@ export function VerticalSlider() {
 
 export function ChakraHorizontalSlider() {
   return (
-    <Slider colorScheme="blue" defaultValue={40}>
+    <Slider colorScheme="brand" defaultValue={40}>
       <SliderTrack>
         <SliderFilledTrack />
       </SliderTrack>

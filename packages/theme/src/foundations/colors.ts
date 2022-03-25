@@ -13,6 +13,7 @@ const colors = {
   white: "#FFFFFF",
 
   brand: {
+    50: "#F3F0FF",
     100: "#E9E3FF",
     200: "#B9A2FF",
     300: "#9374FF",

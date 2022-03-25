@@ -18,15 +18,15 @@ export default {
 export const Base = () => <Switch colorScheme="green" />
 
 export const Disabled = () => (
-  <Switch isDisabled size="md" colorScheme="blue" margin="20px" />
+  <Switch isDisabled size="md" colorScheme="brand" margin="20px" />
 )
 
 export const Readonly = () => (
-  <Switch isReadOnly size="md" colorScheme="blue" margin="20px" />
+  <Switch isReadOnly size="md" colorScheme="brand" margin="20px" />
 )
 
 export const Invalid = () => (
-  <Switch isInvalid size="md" colorScheme="blue" margin="20px" />
+  <Switch isInvalid size="md" colorScheme="brand" margin="20px" />
 )
 
 export const Usage = () => (
@@ -56,7 +56,7 @@ export const Controlled = () => {
       {checked ? "Checked" : "Unchecked"}
       <Switch
         isChecked={checked}
-        colorScheme="blue"
+        colorScheme="brand"
         onChange={(e) => setChecked(e.target.checked)}
       />
     </>

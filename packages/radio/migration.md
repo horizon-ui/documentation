@@ -7,14 +7,14 @@
 - Support for the `colorScheme` prop has been deprecated. Use `colorScheme` prop
   instead.
 
-For example, `<Radio colorScheme="blue">Option</Radio>`
+For example, `<Radio colorScheme="brand">Option</Radio>`
 
 ```jsx
 // before
-<Radio colorScheme="blue">Option</Radio>
+<Radio colorScheme="brand">Option</Radio>
 
 // after
-<Radio colorScheme="blue">Option</Radio>
+<Radio colorScheme="brand">Option</Radio>
 ```
 
 - Support for the `isFullWidth` prop has been deprecated. The Radio takes up the

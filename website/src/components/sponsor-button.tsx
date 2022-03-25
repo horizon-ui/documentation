@@ -20,7 +20,7 @@ const DownloadButton = (props: BoxProps) => (
     outline="0"
     transition="all 0.3s"
     _hover={{
-      bg: useColorModeValue("gray.700", "whiteAlpha.300"),
+      bg: useColorModeValue("gray.100", "whiteAlpha.300"),
     }}
     _active={{
       borderColor: "gray.200",

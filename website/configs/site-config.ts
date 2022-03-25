@@ -1,16 +1,16 @@
-const baseUrl = "https://github.com/creativetimofficial/horizon-ui-dashboard"
+const baseUrl = "https://github.com/simmmple-web/horizon-ui-dashboard"
 
 const siteConfig = {
-  copyright: `Copyright © ${new Date().getFullYear()} Creative Tim. All Rights Reserved.`,
+  copyright: `Copyright © ${new Date().getFullYear()} Horizon UI. All Rights Reserved.`,
   algolia: {
     apiKey: "655968634437471",
     indexName: "horizon-ui-dashboard",
     inputSelector: "#algolia-search",
   },
   author: {
-    name: "Creative Tim & Simmmple",
-    github: "https://github.com/creativetimofficial",
-    twitter: "https://twitter.com/creativetim",
+    name: "Simmmple",
+    github: "https://github.com/simmmple-web",
+    twitter: "https://twitter.com/simmmple_web",
     email: "",
   },
   repo: {
@@ -20,30 +20,30 @@ const siteConfig = {
   },
   freeDownload: {
     url:
-      "https://www.creative-tim.com/product/horizon-ui-dashboard?ref=docs-pud",
+      "https://www.horizon-ui.com/#pricing?ref=docs-pud",
   },
   youtube: "https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w",
   seo: {
-    title: "Horizon UI Dashboard",
-    titleTemplate: "%s - Horizon UI Dashboard",
+    title: "Horizon UI Documentation",
+    titleTemplate: "%s - Horizon UI Documentation",
     description:
       "Simple, Modular and Accessible UI Components for your React Applications.",
     siteUrl:
       "https://www.creative-tim.com/product/horizon-ui-dashboard?ref=docs-pud",
     twitter: {
-      handle: "@creativetim",
-      site: "@creativetim",
+      handle: "@simmmple",
+      site: "@simmmple",
       cardType: "summary_large_image",
     },
     openGraph: {
       type: "website",
       locale: "en_US",
-      url: "https://www.creative-tim.com?ref=docs-pud",
+      url: "https://www.horizon-ui.com?ref=docs-pud",
       title: "Horizon UI Dashboard",
       description:
         "Horizon UI Dashboard is a beautiful Chakra UI ReactJS admin dashboard with a large number of components, designed to look beautiful, clean and organized. If you are looking for a tool to manage dates about your business, this dashboard is the thing for you.",
       site_name:
-        "Most trendiest, complex and innovative Dashboard Made by Creative Tim & Simmmple. Check our latest Free ReactJS Dashboard based on Chakra UI.",
+        "Most trendiest, complex and innovative Premium Dashboard for React. Check Horizon UI Dashboard based on Chakra UI.",
       images: [
         {
           url:
@@ -51,7 +51,7 @@ const siteConfig = {
           width: 1240,
           height: 480,
           alt:
-            "Most trendiest, complex and innovative Dashboard Made by Creative Tim & Simmmple. Check our latest Free ReactJS Dashboard based on Chakra UI.",
+            "Most trendiest, complex and innovative Premium Dashboard for React. Check Horizon UI Dashboard based on Chakra UI.",
         },
         {
           url:
@@ -59,7 +59,7 @@ const siteConfig = {
           width: 1012,
           height: 506,
           alt:
-            "Most trendiest, complex and innovative Dashboard Made by Creative Tim & Simmmple. Check our latest Free ReactJS Dashboard based on Chakra UI.",
+            "Most trendiest, complex and innovative Premium Dashboard for React. Check Horizon UI Dashboard based on Chakra UI.",
         },
       ],
     },

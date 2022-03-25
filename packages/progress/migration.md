@@ -16,14 +16,14 @@ import {
 
 - Support for `color` prop has been deprecated. Use `colorScheme` prop instead.
 
-For example, `<Progress colorScheme="blue"/>`
+For example, `<Progress colorScheme="brand"/>`
 
 ```jsx
 // before
 <Progress color="blue"/>
 
 // after
-<Progress colorScheme="blue"/>
+<Progress colorScheme="brand"/>
 ```
 
 - Added Support for `isIndeterminate` prop in the `Progress` component

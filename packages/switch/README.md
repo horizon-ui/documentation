@@ -45,7 +45,7 @@ You can change the checked background color of the `switch` by passing the
 `colorScheme` prop
 
 ```jsx
-<Switch colorScheme="blue" />
+<Switch colorScheme="brand" />
 ```
 
 ## Resources

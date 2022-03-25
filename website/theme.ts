@@ -3,14 +3,15 @@ import { mode } from "@chakra-ui/theme-tools"
 
 const customTheme = extendTheme({
   fonts: {
-    heading: "Plus Jakarta Display",
-    body: "Plus Jakarta Display",
+    heading: "Plus Jakarta Display, sans-serif",
+    body: "Plus Jakarta Display, sans-serif",
   },
   colors: {
     gray: {
       700: "#1f2733",
     },
     brand: {
+      50: "#F3F0FF",
       100: "#E9E3FF",
       200: "#B9A2FF",
       300: "#9374FF",
@@ -94,12 +95,12 @@ const customTheme = extendTheme({
       fontSize: "1.125rem",
     },
     a: {
-      color: "brand.500",
+      color: "brand.400",
       fontWeight: "semibold",
       transition: "color 0.15s",
       transitionTimingFunction: "ease-out",
       _hover: {
-        color: "brand.600",
+        color: "brand.400",
       },
     },
     p: {

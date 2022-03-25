@@ -28,7 +28,7 @@ export const basic = () => (
     <Button colorScheme="gray">Button</Button>
     <Button colorScheme="red">Button</Button>
     <Button colorScheme="green">Button</Button>
-    <Button colorScheme="blue">Button</Button>
+    <Button colorScheme="brand">Button</Button>
     <Button colorScheme="brand">Button</Button>
     <Button colorScheme="pink">Button</Button>
     <Button colorScheme="purple">Button</Button>
@@ -46,7 +46,7 @@ export const outlines = () => (
     <Button variant="outline" colorScheme="green">
       Button
     </Button>
-    <Button variant="outline" colorScheme="blue">
+    <Button variant="outline" colorScheme="brand">
       Button
     </Button>
     <Button variant="outline" colorScheme="brand">
@@ -92,16 +92,16 @@ export const withVariants = () => (
 
 export const withSizes = () => (
   <HStack>
-    <Button colorScheme="blue" size="xs">
+    <Button colorScheme="brand" size="xs">
       Button
     </Button>
-    <Button colorScheme="blue" size="sm">
+    <Button colorScheme="brand" size="sm">
       Button
     </Button>
-    <Button colorScheme="blue" size="md">
+    <Button colorScheme="brand" size="md">
       Button
     </Button>
-    <Button colorScheme="blue" size="lg">
+    <Button colorScheme="brand" size="lg">
       Button
     </Button>
   </HStack>
@@ -127,7 +127,7 @@ export const withReactIcons = () => (
     <Button leftIcon={<MdBuild />} colorScheme="pink" variant="solid">
       Settings
     </Button>
-    <Button rightIcon={<MdCall />} colorScheme="blue" variant="outline">
+    <Button rightIcon={<MdCall />} colorScheme="brand" variant="outline">
       Call us
     </Button>
   </Stack>
@@ -141,7 +141,7 @@ export const WithLoading = () => (
 
     <Button
       isLoading
-      colorScheme="blue"
+      colorScheme="brand"
       spinner={<BeatLoader size={8} color="white" />}
     >
       Click me
@@ -215,7 +215,7 @@ export const iconButton = () => (
     <IconButton aria-label="Search database" icon={<SearchIcon />} />
 
     <IconButton
-      colorScheme="blue"
+      colorScheme="brand"
       aria-label="Search database"
       icon={<SearchIcon />}
     />
@@ -228,7 +228,7 @@ export const iconButton = () => (
 
 export const WithButtonGroup = () => (
   <ButtonGroup variant="outline">
-    <Button colorScheme="blue">Save</Button>
+    <Button colorScheme="brand">Save</Button>
     <Button>Cancel</Button>
   </ButtonGroup>
 )

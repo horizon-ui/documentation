@@ -13,7 +13,7 @@ test("Progress renders correctly", async () => {
       />
       <Progress
         aria-label="Account Usage"
-        colorScheme="blue"
+        colorScheme="brand"
         size="md"
         hasStripe
         value={40}

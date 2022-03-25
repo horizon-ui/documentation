@@ -23,13 +23,13 @@ import { Button, ButtonGroup } from "@chakra-ui/react"
 ## Usage
 
 ```jsx
-<Button borderRadius="12px" colorScheme="blue">
+<Button borderRadius="12px" colorScheme="brand">
   Button
 </Button>
 ```
 
 ```tsx
-<Button colorScheme="blue">Button</Button>
+<Button colorScheme="brand">Button</Button>
 ```
 
 ### Button Sizes
@@ -173,7 +173,7 @@ button.
   <Button
     borderRadius="12px"
     rightIcon={<MdCall />}
-    colorScheme="blue"
+    colorScheme="brand"
     variant="outline"
   >
     Call us
@@ -188,7 +188,7 @@ button.
   <Button leftIcon={<MdBuild />} colorScheme="pink" variant="solid">
     Settings
   </Button>
-  <Button rightIcon={<MdCall />} colorScheme="blue" variant="outline">
+  <Button rightIcon={<MdCall />} colorScheme="brand" variant="outline">
     Call us
   </Button>
 </Stack>
@@ -241,7 +241,7 @@ requirements. Pass the `spinner` prop and set it to a custom react element.
 <Button
   borderRadius="12px"
   isLoading
-  colorScheme="blue"
+  colorScheme="brand"
   spinner={<BeatLoader size={8} color="white" />}
 >
   Click me
@@ -251,7 +251,7 @@ requirements. Pass the `spinner` prop and set it to a custom react element.
 ```tsx
 <Button
   isLoading
-  colorScheme="blue"
+  colorScheme="brand"
   spinner={<BeatLoader size={8} color="white" />}
 >
   Click me
@@ -352,7 +352,7 @@ use the `ButtonGroup` component, it allows you to:
 
 ```jsx
 <ButtonGroup borderRadius="15px" variant="outline" spacing="6">
-  <Button borderRadius="15px" colorScheme="blue">
+  <Button borderRadius="15px" colorScheme="brand">
     Save
   </Button>
   <Button borderRadius="15px">Cancel</Button>
@@ -361,7 +361,7 @@ use the `ButtonGroup` component, it allows you to:
 
 ```tsx
 <ButtonGroup variant="outline" spacing="6">
-  <Button colorScheme="blue">Save</Button>
+  <Button colorScheme="brand">Save</Button>
   <Button>Cancel</Button>
 </ButtonGroup>
 ```
@@ -400,7 +400,7 @@ use the `ButtonGroup` component, it allows you to:
 
 ```jsx
 <ButtonGroup borderRadius="15px" variant="outline" spacing="6">
-  <Button borderRadius="15px" colorScheme="blue">
+  <Button borderRadius="15px" colorScheme="brand">
     Save
   </Button>
   <Button borderRadius="15px">Cancel</Button>
@@ -409,7 +409,7 @@ use the `ButtonGroup` component, it allows you to:
 
 ```tsx
 <ButtonGroup variant="outline" spacing="6">
-  <Button colorScheme="blue">Save</Button>
+  <Button colorScheme="brand">Save</Button>
   <Button>Cancel</Button>
 </ButtonGroup>
 ```
@@ -450,7 +450,7 @@ function Example() {
       _focus={{ boxShadow: "none" }}
       _hover={{ boxShadow: "none" }}
       borderRadius="15px"
-      colorScheme="blue"
+      colorScheme="brand"
       ms="0px"
       px="0px"
       me={{ sm: "2px", md: "16px" }}
@@ -465,7 +465,7 @@ function Example() {
 ```
 
 ```tsx
-<Button variant="transparent-with-icon" colorScheme="blue">
+<Button variant="transparent-with-icon" colorScheme="brand">
   Email
 </Button>
 ```

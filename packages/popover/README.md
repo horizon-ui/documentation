@@ -70,7 +70,7 @@ portal, pass the `usePortal` prop.
     <PopoverHeader>Header</PopoverHeader>
     <PopoverCloseButton />
     <PopoverBody>
-      <Button colorScheme="blue">Button</Button>
+      <Button colorScheme="brand">Button</Button>
     </PopoverBody>
     <PopoverFooter>This is the footer</PopoverFooter>
   </PopoverContent>

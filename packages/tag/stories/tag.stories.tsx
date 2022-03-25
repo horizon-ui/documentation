@@ -45,7 +45,7 @@ export const colorSchemes = () => (
     <Tag size="md" colorScheme="pink">
       Gray
     </Tag>
-    <Tag size="lg" colorScheme="blue">
+    <Tag size="lg" colorScheme="brand">
       Gray
     </Tag>
   </>

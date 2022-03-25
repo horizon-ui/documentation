@@ -90,8 +90,8 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
   return (
     <>
       <SEO
-        title="Horizon UI Documentation - Most trendiest, complex and innovative Dashboard Made by Creative Tim &amp; Simmmple. Check our latest Free ReactJS Dashboard based on Chakra UI."
-        description="Most trendiest, complex and innovative Dashboard Made by Creative Tim &amp; Simmmple. Check our latest Free ReactJS Dashboard based on Chakra UI."
+        title="Horizon UI Documentation - The official documentation for Horizon UI. The most trendiest, complex and innovative Premium Dashboard for React."
+        description="Most trendiest, complex and innovative Premium Dashboard for React. Check Horizon UI Dashboard based on Chakra UI."
       />
       <Header />
       <Box mb={20}>
@@ -111,7 +111,7 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                 Horizon UI Dashboard
                 <Box
                   as="span"
-                  color={useColorModeValue("brand.300", "brand.300")}
+                  color={useColorModeValue("brand.500", "brand.400")}
                 >
                   {" "}
                   Documentation
@@ -125,9 +125,7 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                 fontSize={{ base: "lg", lg: "xl" }}
                 mt="6"
               >
-                Most trendiest, complex and innovative Dashboard Made by
-                Creative Tim & Simmmple. Check our latest Free ReactJS Dashboard
-                based on Chakra UI.
+                Most trendiest, complex and innovative Premium Dashboard for React. Check Horizon UI Dashboard based on Chakra UI.
               </Text>
 
               <Stack
@@ -145,7 +143,9 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                     fontSize="1.2rem"
                     as="a"
                     size="lg"
+                    color="white"
                     colorScheme="brand"
+                    bg={useColorModeValue("brand.500", "brand.400")}
                     rightIcon={<FaArrowRight fontSize="0.8em" />}
                   >
                     Documentation
@@ -158,7 +158,7 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                   h="4rem"
                   px="40px"
                   fontSize="1.2rem"
-                  href="https://www.creative-tim.com/product/horizon-ui-dashboard"
+                  href="https://github.com/simmmple-web/horizon-ui-dashboard"
                   target="__blank"
                 >
                   Free Download
