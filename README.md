@@ -1,4 +1,4 @@
-# [Horizon UI Dashboard](https://demos.creative-tim.com/horizon-ui-dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fhorizon-ui-dashboard%2F&text=Check%20Horizon%20UI%20Dashboard%20made%20by%20%40CreativeTim%20%26%20%40simmmple_web)
+# [Horizon UI Dashboard](https://demos.creative-tim.com/horizon-ui-dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fhorizon-ui-dashboard%2F&text=Check%20Horizon%20UI%20Dashboard%20made%20by%20%40documentation%20%26%20%40simmmple_web)
 
 ![version](https://img.shields.io/badge/version-1.0.1-blue.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -8,8 +8,8 @@
 ![Product Gif](https://i.ibb.co/7NXMZQS/Cover-Horizon-Chakra-FREE-Thumbnail.png)
 
 Most trendiest, complex and innovative Dashboard Made by
-[Creative Tim](https://creative-tim.com/?ref=readme-pud) &
-[Simmmple](https://simmmple.com?ref=readme-pud). Check our latest Free ReactJS
+[Creative Tim](https://creative-tim.com/?ref=readme-horizon) &
+[Simmmple](https://simmmple.com?ref=readme-horizon). Check our latest Free ReactJS
 Dashboard based on Chakra UI.
 
 Designed for those who like modern UI elements and beautiful websites. Made of
@@ -32,13 +32,13 @@ with prebuilt design blocks, so the development process is seamless, switching
 from our pages to the real website is very easy to be done.
 
 Check all components
-<a href="https://demos.creative-tim.com/docs-horizon-ui-dashboard/?ref=readme-pud" target="_blank">here</a>.
+<a href="https://demos.creative-tim.com/docs-horizon-ui-dashboard/?ref=readme-horizon" target="_blank">here</a>.
 
 **Documentation built by Developers**
 
 Each element is well presented in a very complex documentation. You can read
 more about the
-<a href="https://demos.creative-tim.com/docs-horizon-ui-dashboard/?ref=readme-pud" target="_blank">documentation
+<a href="https://demos.creative-tim.com/docs-horizon-ui-dashboard/?ref=readme-horizon" target="_blank">documentation
 here</a>.
 
 **Example Pages**
@@ -46,7 +46,7 @@ here</a>.
 If you want to get inspiration or just show something directly to your clients,
 you can jump start your development with our pre-built example pages. You will
 be able to quickly set up the basic structure for your web project. View
-<a href="https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-pud" target="_blank">example
+<a href="https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-horizon" target="_blank">example
 pages here</a>.
 
 **HELPFUL LINKS**
@@ -56,7 +56,7 @@ pages here</a>.
   Repository</a>
 
 - Check
-  <a href="https://www.creative-tim.com/knowledge-center?ref=readme-pud" target="_blank">FAQ
+  <a href="https://www.creative-tim.com/knowledge-center?ref=readme-horizon" target="_blank">FAQ
   Page</a>
 
 #### Special thanks
@@ -76,7 +76,7 @@ Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
-- [Horizon UI Dashboard](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-pud)
+- [Horizon UI Dashboard](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-horizon)
 - [Table of Contents](#table-of-contents)
 - [Versions](#versions)
 - [Demo](#demo)
@@ -92,22 +92,22 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.horizon-ui.com/?ref=readme-pud)[<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/figma-logo.jpg?raw=true" width="60" height="60" />](https://www.horizon-ui.com/?ref=readme-pud)
+[<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.horizon-ui.com/?ref=readme-horizon)[<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/figma-logo.jpg?raw=true" width="60" height="60" />](https://www.horizon-ui.com/?ref=readme-horizon)
 
 | React                                                                                                                                                                                        | Figma                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon Free ReactJS Chakra Dashboard](https://i.ibb.co/Ct9RvRZ/Cover-Horizon-Chakra-FREE-Thumbnail-React-JS.png)](https://www.horizon-ui.com/?ref=readme-pud) | [![Horizon Free Figma Chakra Dashboard](https://i.ibb.co/wRK0jbK/Cover-Horizon-Chakra-FREE-Thumbnail-Figma.png)](https://www.horizon-ui.com/?ref=readme-pud) |
+| [![Horizon Free ReactJS Chakra Dashboard](https://i.ibb.co/Ct9RvRZ/Cover-Horizon-Chakra-FREE-Thumbnail-React-JS.png)](https://www.horizon-ui.com/?ref=readme-horizon) | [![Horizon Free Figma Chakra Dashboard](https://i.ibb.co/wRK0jbK/Cover-Horizon-Chakra-FREE-Thumbnail-Figma.png)](https://www.horizon-ui.com/?ref=readme-horizon) |
 
 ## Demo
 
-- [Dashboard](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-pud)
-- [Tables page](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/tables?ref=readme-pud)
-- [Billing page](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/billing?ref=readme-pud)
-- [Profile page](http://demos.creative-tim.com/horizon-ui-dashboard/#/admin/profile?ref=readme-pud)
-- [Sign in page](https://demos.creative-tim.com/horizon-ui-dashboard/#/auth/signin?ref=readme-pud)
-- [Sign up page](https://demos.creative-tim.com/horizon-ui-dashboard/#/auth/signup?ref=readme-pud)
+- [Dashboard](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-horizon)
+- [Tables page](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/tables?ref=readme-horizon)
+- [Billing page](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/billing?ref=readme-horizon)
+- [Profile page](http://demos.creative-tim.com/horizon-ui-dashboard/#/admin/profile?ref=readme-horizon)
+- [Sign in page](https://demos.creative-tim.com/horizon-ui-dashboard/#/auth/signin?ref=readme-horizon)
+- [Sign up page](https://demos.creative-tim.com/horizon-ui-dashboard/#/auth/signup?ref=readme-horizon)
 
-[View More](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-pud).
+[View More](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-horizon).
 
 ## Quick Start
 
@@ -248,11 +248,11 @@ browsers:
 ## Resources
 
 - Demo:
-  <https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-pud>
+  <https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-horizon>
 - Download Page:
-  <https://www.horizon-ui.com/?ref=readme-pud>
-- License Agreement: <https://www.creative-tim.com/license?ref=readme-pud>
-- Support: <https://www.creative-tim.com/contact-us?ref=readme-pud>
+  <https://www.horizon-ui.com/?ref=readme-horizon>
+- License Agreement: <https://www.creative-tim.com/license?ref=readme-horizon>
+- Support: <https://www.creative-tim.com/contact-us?ref=readme-horizon>
 - Issues:
   [Github Issues Page](https://github.com/simmmple-web/horizon-ui-dashboard/issues)
 
@@ -263,7 +263,7 @@ Here are some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Horizon UI Dashbaord.
    Check the CHANGELOG from your dashboard on our
-   [CHANGE LOG File](https://github.com/simmmple-web/horizon-ui-dashboard/blob/main/CHANGELOG.md?ref=readme-pud).
+   [CHANGE LOG File](https://github.com/simmmple-web/horizon-ui-dashboard/blob/main/CHANGELOG.md?ref=readme-horizon).
 2. Providing us reproducible steps for the issue will shorten the time it takes
    for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you
@@ -271,38 +271,38 @@ Here are some advices for our users that want to report an issue:
 
 ## Licensing
 
-- Copyright 2021 Creative Tim (https://www.creative-tim.com/?ref=readme-pud)
+- Copyright 2021 Creative Tim (https://www.creative-tim.com/?ref=readme-horizon)
 
 - Creative Tim License (https://www.creative-tim.com/license)
 
 ## Useful Links
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-pud)
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-horizon)
   (earn money)
-- [Blog Creative Tim](http://creative-tim.com/blog?ref=readme-pud)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-pud)
+- [Blog Creative Tim](http://creative-tim.com/blog?ref=readme-horizon)
+- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-horizon)
   from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=readme-pud)
+- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=readme-horizon)
   from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=readme-pud)
+- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=readme-horizon)
   from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=readme-pud)
+- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=readme-horizon)
   from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=readme-pud)
+- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=readme-horizon)
   from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=readme-pud)
+- [More products](https://www.creative-tim.com/bootstrap-themes?ref=readme-horizon)
   from Creative Tim
-- [More products](https://simmmple.gumroad.com?ref=readme-pud) from Simmmple
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=readme-pud)
+- [More products](https://simmmple.gumroad.com?ref=readme-horizon) from Simmmple
+- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=readme-horizon)
 
 ### Social Media - Creative Tim
 
-Twitter: <https://twitter.com/CreativeTim>
+Twitter: <https://twitter.com/documentation>
 
-Facebook: <https://www.facebook.com/CreativeTim>
+Facebook: <https://www.facebook.com/documentation>
 
-Dribbble: <https://dribbble.com/creativetim>
+Dribbble: <https://dribbble.com/documentation>
 
 Instagram: <https://www.instagram.com/simmmple-web>
 

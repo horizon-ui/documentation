@@ -1,5 +1,5 @@
 import React from "react"
-import { Box, BoxProps, Icon, useColorModeValue } from "@chakra-ui/react"
+import { Box, BoxProps, useColorModeValue } from "@chakra-ui/react"
 import siteConfig from "configs/site-config"
 
 const DownloadButton = (props: BoxProps) => (
@@ -8,7 +8,7 @@ const DownloadButton = (props: BoxProps) => (
     alignItems="center"
     as="a"
     aria-label="Live Preview"
-    href={siteConfig.freeDownload.url}
+    href={siteConfig.livePreview.url}
     target="_blank"
     borderWidth="1px"
     borderColor="gray.400"

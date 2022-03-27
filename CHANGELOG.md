@@ -15,14 +15,7 @@ To better understand the changelog, here are some legends we use:
 - 🐛 Bug fix
 - 🛠 Refactor
 
-## 13-09-2021 - Update v1.0.1
-
-**Form Control** `v1.0.1`
-
-- 🚀 Added RTL Page.
-- 🐛 Bug Fixing.
-
-## 20-08-2021 - Official Release
+## 14-04-2022 - Official Release
 
 **Form Control** `v1.0.0`
 

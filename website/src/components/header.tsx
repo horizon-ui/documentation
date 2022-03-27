@@ -122,6 +122,26 @@ function HeaderContent() {
             onClick={toggleMode}
             icon={<SwitchIcon />}
           />
+          
+          <Box
+            display={{ base: "none", lg: "flex" }}
+            alignItems="center"
+            as="a"
+            aria-label="Free Version"
+            href="https://github.com/simmmple-web/horizon-ui-dashboard/"
+            target="_blank"
+            ps="20px"
+            borderRadius="12px"
+            fontSize="sm"
+            color={useColorModeValue("gray.500", "white")}
+            outline="0"
+            transition="all 0.3s"
+          >
+            <Box as="strong" lineHeight="inherit" fontWeight="medium">
+              Free Version
+            </Box>
+          </Box>
+
           <DownloadButton ml="5" mr="10px" />
           <Box
             display={{ base: "none", lg: "flex" }}
@@ -139,7 +159,7 @@ function HeaderContent() {
             outline="0"
             transition="all 0.3s"
             _hover={{
-              bg: useColorModeValue("brand.700", "brand.300"),
+              bg: useColorModeValue("brand.600", "brand.300"),
             }}
             _active={{
               borderColor: "brand.200",

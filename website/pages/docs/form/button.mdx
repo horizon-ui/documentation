@@ -165,7 +165,7 @@ button.
   <Button
     borderRadius="12px"
     leftIcon={<MdBuild />}
-    colorScheme="pink"
+    colorScheme="brand"
     variant="solid"
   >
     Settings
@@ -185,7 +185,7 @@ button.
 // import { MdBuild , MdCall } from "react-icons/md"
 
 <Stack direction="row" spacing={4}>
-  <Button leftIcon={<MdBuild />} colorScheme="pink" variant="solid">
+  <Button leftIcon={<MdBuild />} colorScheme="brand" variant="solid">
     Settings
   </Button>
   <Button rightIcon={<MdCall />} colorScheme="brand" variant="outline">
@@ -494,8 +494,8 @@ function Example() {
   )
   let navbarBackdrop = "blur(21px)"
   let bgButton = useColorModeValue(
-    "linear-gradient(81.62deg, #313860 2.25%, #151928 79.87%)",
-    "gray.700",
+    "linear-gradient(135deg, #868CFF 0%, #4318FF 100%)",
+    "linear-gradient(135deg, #868CFF 0%, #4318FF 100%)",
   )
   let navbarPosition = "fixed"
   let colorButton = "white"
@@ -504,8 +504,8 @@ function Example() {
       _hover={{ boxShadow: "none" }}
       bg={bgButton}
       color={colorButton}
-      fontSize="xs"
-      borderRadius="35px"
+      fontSize="sm"
+      borderRadius="14px"
       px="30px"
       _active="none"
       display={{
@@ -521,24 +521,28 @@ function Example() {
 
 ```tsx
 let bgButton = useColorModeValue(
-  "linear-gradient(81.62deg, #313860 2.25%, #151928 79.87%)",
-  "gray.700",
+  "linear-gradient(135deg, #868CFF 0%, #4318FF 100%)",
+  "linear-gradient(135deg, #868CFF 0%, #4318FF 100%)",
 )
+let navbarPosition = "fixed"
 let colorButton = "white"
-;<Button
-  bg={bgButton}
-  color={colorButton}
-  fontSize="xs"
-  variant="no-hover"
-  borderRadius="35px"
-  px="30px"
-  display={{
-    sm: "none",
-    lg: "flex",
-  }}
->
-  Free Download
-</Button>
+return (
+  <Button
+    _hover={{ boxShadow: "none" }}
+    bg={bgButton}
+    color={colorButton}
+    fontSize="sm"
+    borderRadius="14px"
+    px="30px"
+    _active="none"
+    display={{
+      sm: "none",
+      lg: "flex",
+    }}
+  >
+    Free Download
+  </Button>
+)
 ```
 
 ---

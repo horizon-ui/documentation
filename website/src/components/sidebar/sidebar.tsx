@@ -79,7 +79,9 @@ export function SidebarContent(props: SidebarContentProps) {
                             lineHeight="tall"
                             fontSize="10px"
                             variant="solid"
-                            colorScheme="purple"
+                            color="white"
+                            borderRadius="4px"
+                            bg={useColorModeValue("brand.500", "brand.400")}
                           >
                             PRO
                           </Badge>

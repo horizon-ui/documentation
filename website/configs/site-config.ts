@@ -18,9 +18,9 @@ const siteConfig = {
     editUrl: `${baseUrl}/edit/main/website/pages`,
     blobUrl: `${baseUrl}/blob/main`,
   },
-  freeDownload: {
+  livePreview: {
     url:
-      "https://www.horizon-ui.com/#pricing?ref=docs-pud",
+      "https://demo.simmmple.com/horizon-ui-dashboard/",
   },
   youtube: "https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w",
   seo: {
