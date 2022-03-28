@@ -15,7 +15,7 @@ npm i @chakra-ui/counter
 
 ## Import hook
 
-```js
+```tsx
 import { useCounter } from "@chakra-ui/counter"
 ```
 

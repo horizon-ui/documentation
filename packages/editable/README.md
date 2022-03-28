@@ -16,7 +16,7 @@ npm i @chakra-ui/editable
 
 ## Import component
 
-```js
+```tsx
 import { Editable, EditableInput, EditablePreview } from "@chakra-ui/react"
 ```
 

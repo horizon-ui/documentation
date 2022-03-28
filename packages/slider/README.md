@@ -18,7 +18,7 @@ npm i @chakra-ui/slider
 
 ## Import components
 
-```js
+```tsx
 import {
   Slider,
   SliderTrack,

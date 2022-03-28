@@ -16,7 +16,7 @@ yarn add @chakra-ui/skip-nav
 
 ## Import
 
-```jsx
+```tsxx
 import { SkipNavLink, SkipNavContent } from "@chakra-ui/skip-nav"
 ```
 

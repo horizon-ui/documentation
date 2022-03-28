@@ -47,7 +47,7 @@ export function useId(idProp?: string, prefix?: string): string {
  *
  * @example
  *
- * ```js
+ * ```tsx
  * const [buttonId, menuId] = useIds("52", "button", "menu")
  *
  * // buttonId will be `button-52`

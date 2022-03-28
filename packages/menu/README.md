@@ -15,7 +15,7 @@ npm i @chakra-ui/menu
 
 ## Import components
 
-```js
+```tsx
 import {
   Menu,
   MenuButton,

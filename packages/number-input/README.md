@@ -19,7 +19,7 @@ npm i @chakra-ui/number-input
 
 ## Import components
 
-```js
+```tsx
 import {
   NumberInput,
   NumberInputField,

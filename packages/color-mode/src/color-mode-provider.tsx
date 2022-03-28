@@ -180,7 +180,7 @@ if (__DEV__) {
  *
  * @example
  *
- * ```js
+ * ```tsx
  * const Icon = useColorModeValue(MoonIcon, SunIcon)
  * ```
  */

@@ -3,11 +3,9 @@ import {
   Flex,
   Icon,
   Text,
-  Stack,
   Link,
   List,
   ListItem,
-  chakra,
   useColorModeValue,
 } from "@chakra-ui/react"
 
@@ -87,5 +85,6 @@ export const Footer = () => (
     </List>
   </Flex>
 )
+
 
 export default Footer
