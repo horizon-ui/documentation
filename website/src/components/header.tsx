@@ -6,7 +6,6 @@ import {
   Icon,
   IconButton,
   Link,
-  Text,
   useColorMode,
   useColorModeValue,
   useDisclosure,
@@ -39,6 +38,7 @@ const DiscordIcon = (props: React.ComponentProps<"svg">) => (
   </svg>
 )
 
+
 function HeaderContent() {
   const mobileNav = useDisclosure()
 
@@ -55,7 +55,7 @@ function HeaderContent() {
     <>
       <Flex w="100%" h="100%" px="4" align="center" justify="space-between">
         <Flex align="center">
-          <NextLink href="/" passHref>
+          <NextLink href="/docs/introduction" passHref>
             <chakra.a
               display="flex"
               alignItems="center"
