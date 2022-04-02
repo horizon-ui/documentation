@@ -25,7 +25,7 @@ const siteConfig = {
   youtube: "https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w",
   seo: {
     title: "Horizon UI Documentation",
-    titleTemplate: "%s - Horizon UI Documentation",
+    titleTemplate: "%s",
     description:
       "Simple, Modular and Accessible UI Components for your React Applications.",
     siteUrl:
