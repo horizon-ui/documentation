@@ -125,7 +125,8 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                 fontSize={{ base: "lg", lg: "xl" }}
                 mt="6"
               >
-                Most trendiest, complex and innovative Premium Dashboard for React. Check Horizon UI Dashboard based on Chakra UI.
+                Most trendiest, complex and innovative Premium Dashboard for
+                React. Check Horizon UI Dashboard based on Chakra UI.
               </Text>
 
               <Stack
@@ -137,7 +138,6 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                 <NextLink href="/docs/introduction" passHref>
                   <Button
                     borderRadius="15px"
-                    bg="brand.300"
                     h="4rem"
                     px="40px"
                     fontSize="1.2rem"
