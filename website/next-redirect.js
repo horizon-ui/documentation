@@ -93,6 +93,46 @@ async function redirect() {
       permanent: true,
     },
     {
+      source: "/fields",
+      destination: "/docs/components/fields",
+      permanent: true,
+    },
+    {
+      source: "/circular-slider",
+      destination: "/docs/components/circular-slider",
+      permanent: true,
+    },
+    {
+      source: "/dropzone",
+      destination: "/docs/components/dropzone",
+      permanent: true,
+    },
+    {
+      source: "/map",
+      destination: "/docs/components/map",
+      permanent: true,
+    },
+    {
+      source: "/range-slider",
+      destination: "/docs/components/range-slider",
+      permanent: true,
+    },
+    {
+      source: "/actions",
+      destination: "/docs/components/actions",
+      permanent: true,
+    },
+    {
+      source: "/data-display",
+      destination: "/docs/components/data-display",
+      permanent: true,
+    },
+    {
+      source: "/products",
+      destination: "/docs/components/products",
+      permanent: true,
+    },
+    {
       source: "/controlbox",
       // MISSING
       destination: "/docs/layout/box",
