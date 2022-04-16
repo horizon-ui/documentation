@@ -7,13 +7,14 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [14.x]
+        node-version: [16.x]
     steps:
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/checkout@main
         with:
           node-version: ${{ matrix.node-version }}
-      - run: npm install -g yarn
+      - run: npm install yarn
+      - run: yarn set version 1.16.0
       - run: yarn boot
       - run: yarn docs:deploy
       - run: mkdir ./website/.next/_next
