@@ -1,35 +1,35 @@
 [
   {
     "content": "Actions",
-    "id": "9dfc0675-a9c2-437c-83ef-199630375a03",
+    "id": "19356b00-9c57-43fe-9e56-0e2aef7493ef",
     "type": "lvl1",
     "url": "/docs/components/actions",
     "hierarchy": { "lvl1": "Actions" }
   },
   {
     "content": "Import",
-    "id": "1441ccb9-30d3-44c3-ba0d-4cdc32506b24",
+    "id": "ab84ed6c-36ae-4d3c-9467-aa9dcd0f0d40",
     "type": "lvl2",
     "url": "/docs/components/actions#import",
     "hierarchy": { "lvl1": "Actions", "lvl2": "Import", "lvl3": null }
   },
   {
     "content": "Usage",
-    "id": "d2da52d9-8f4f-4c9f-b7a9-e58964df1cca",
+    "id": "e1d9aa86-a3f1-40aa-af0b-0a19f637ea93",
     "type": "lvl2",
     "url": "/docs/components/actions#usage",
     "hierarchy": { "lvl1": "Actions", "lvl2": "Usage", "lvl3": null }
   },
   {
     "content": "Chakra UI Full Calendar - Horizon UI",
-    "id": "20a37165-3545-4819-9b71-89f1a666807a",
+    "id": "78dee252-5d13-4563-a916-2edd61a0a0e7",
     "type": "lvl1",
     "url": "/docs/components/calendar",
     "hierarchy": { "lvl1": "Chakra UI Full Calendar - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "5d84d7bd-18a2-4b5b-8ff9-1ed98cf52bd8",
+    "id": "49abe681-b8cd-46f0-8c73-13101e8cc009",
     "type": "lvl2",
     "url": "/docs/components/calendar#import",
     "hierarchy": {
@@ -40,7 +40,7 @@
   },
   {
     "content": "Usage",
-    "id": "2a51faad-5c3a-4240-a00d-8d4b94428bb4",
+    "id": "5d57d377-d78e-4522-8853-de0b0ed19bec",
     "type": "lvl2",
     "url": "/docs/components/calendar#usage",
     "hierarchy": {
@@ -51,7 +51,7 @@
   },
   {
     "content": "Data example",
-    "id": "c1e011a4-03b7-442e-9a90-f4577aafca78",
+    "id": "d0fbb2c8-2e34-43f2-9b56-8e51fdb3fb20",
     "type": "lvl2",
     "url": "/docs/components/calendar#data-example",
     "hierarchy": {
@@ -62,35 +62,35 @@
   },
   {
     "content": "Circular Slider",
-    "id": "35970c7c-981f-4e75-9e86-9597c19f3656",
+    "id": "957dcaca-2abe-4426-a73e-5e08f97f3efc",
     "type": "lvl1",
     "url": "/docs/components/circular-slider",
     "hierarchy": { "lvl1": "Circular Slider" }
   },
   {
     "content": "Import",
-    "id": "2b1c17ce-c29a-4706-9c24-6e8eee650b8e",
+    "id": "e7e61731-15a0-49b7-b0fb-090601cb4d91",
     "type": "lvl2",
     "url": "/docs/components/circular-slider#import",
     "hierarchy": { "lvl1": "Circular Slider", "lvl2": "Import", "lvl3": null }
   },
   {
     "content": "Usage",
-    "id": "c5d441c6-6f71-4dab-b25f-4614db0f0c62",
+    "id": "727eebce-d577-4eeb-8173-9958ea2af87c",
     "type": "lvl2",
     "url": "/docs/components/circular-slider#usage",
     "hierarchy": { "lvl1": "Circular Slider", "lvl2": "Usage", "lvl3": null }
   },
   {
     "content": "Chakra UI Close Button - Horizon UI",
-    "id": "cd7d2d2b-6eb1-47f9-a6b5-759ef489686c",
+    "id": "c15b14dd-c8dc-46ca-89b9-6a6028a25d91",
     "type": "lvl1",
     "url": "/docs/components/close-button",
     "hierarchy": { "lvl1": "Chakra UI Close Button - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "867c66af-c8cb-4547-806d-77c2be3e9cbd",
+    "id": "b9f101f5-75a5-4589-b3c5-d3ac7e882ab0",
     "type": "lvl2",
     "url": "/docs/components/close-button#import",
     "hierarchy": {
@@ -101,7 +101,7 @@
   },
   {
     "content": "Usage",
-    "id": "792f708e-1794-4780-a7a9-e3f3a84e1d0a",
+    "id": "3b95fa75-1920-4ef9-9e86-ecd158c8e909",
     "type": "lvl2",
     "url": "/docs/components/close-button#usage",
     "hierarchy": {
@@ -112,7 +112,7 @@
   },
   {
     "content": "Button Size",
-    "id": "1d93b118-da75-4654-977d-9f2309882a47",
+    "id": "74be31c1-0d96-45e4-9e83-7d360ef2d9fb",
     "type": "lvl3",
     "url": "/docs/components/close-button#button-size",
     "hierarchy": {
@@ -123,7 +123,7 @@
   },
   {
     "content": "Props",
-    "id": "377cc77a-e1f6-44ac-8b61-b4374b50378a",
+    "id": "8e57e433-439d-46bb-a418-c5e7242b43db",
     "type": "lvl2",
     "url": "/docs/components/close-button#props",
     "hierarchy": {
@@ -134,35 +134,35 @@
   },
   {
     "content": "Data Display",
-    "id": "fa1e65aa-1eec-4a15-a935-d40dc9eecc0e",
+    "id": "d06b74d8-9057-474f-81c6-20dcdd846453",
     "type": "lvl1",
     "url": "/docs/components/data-display",
     "hierarchy": { "lvl1": "Data Display" }
   },
   {
     "content": "Import",
-    "id": "a80428dd-dbf8-4000-b6be-04ec2e029c67",
+    "id": "d3ba2909-484f-4606-8637-b692fd02dbd9",
     "type": "lvl2",
     "url": "/docs/components/data-display#import",
     "hierarchy": { "lvl1": "Data Display", "lvl2": "Import", "lvl3": null }
   },
   {
     "content": "Usage",
-    "id": "3682aded-86af-485e-9b54-d340b42813ee",
+    "id": "9903d33b-be7d-4591-9243-a94cea505bfa",
     "type": "lvl2",
     "url": "/docs/components/data-display#usage",
     "hierarchy": { "lvl1": "Data Display", "lvl2": "Usage", "lvl3": null }
   },
   {
     "content": "Chakra UI Data Tables - Horizon UI",
-    "id": "c7348f49-2537-4e6c-afc4-4bc1c8e2a3ad",
+    "id": "c8a62879-c6d4-43f2-a771-af4e29bdeb1c",
     "type": "lvl1",
     "url": "/docs/components/data-tables",
     "hierarchy": { "lvl1": "Chakra UI Data Tables - Horizon UI" }
   },
   {
     "content": "Usage",
-    "id": "6121144a-06c2-4592-82bf-62fd19013078",
+    "id": "d0344b62-55c4-4d67-b534-4328bd30d985",
     "type": "lvl2",
     "url": "/docs/components/data-tables#usage",
     "hierarchy": {
@@ -173,7 +173,7 @@
   },
   {
     "content": "Table data example",
-    "id": "d920d68a-7e04-4493-9a81-f980b080c4c1",
+    "id": "d24b6509-960c-4073-a782-ebfa4633744e",
     "type": "lvl2",
     "url": "/docs/components/data-tables#table-data-example",
     "hierarchy": {
@@ -184,7 +184,7 @@
   },
   {
     "content": "Data example",
-    "id": "125f30f5-9057-4254-9c82-099d11444129",
+    "id": "43aefb07-745e-4c1d-bba6-36bce04f10a5",
     "type": "lvl2",
     "url": "/docs/components/data-tables#data-example",
     "hierarchy": {
@@ -195,56 +195,56 @@
   },
   {
     "content": "Dropzone",
-    "id": "0b2784fa-2d56-409c-ba27-1007fcbb2ae5",
+    "id": "a681537f-e25e-49cf-9be5-6476315a5229",
     "type": "lvl1",
     "url": "/docs/components/dropzone",
     "hierarchy": { "lvl1": "Dropzone" }
   },
   {
     "content": "Import",
-    "id": "eafd23fb-2bc6-418c-8a7b-c434a1a0221e",
+    "id": "a941b600-c9e8-4577-9851-462305169a6b",
     "type": "lvl2",
     "url": "/docs/components/dropzone#import",
     "hierarchy": { "lvl1": "Dropzone", "lvl2": "Import", "lvl3": null }
   },
   {
     "content": "Usage",
-    "id": "9bd32085-98e8-4209-953c-60f32be879eb",
+    "id": "fde0b09f-c816-45ff-8c5b-36a14ce64bb3",
     "type": "lvl2",
     "url": "/docs/components/dropzone#usage",
     "hierarchy": { "lvl1": "Dropzone", "lvl2": "Usage", "lvl3": null }
   },
   {
     "content": "Circular Slider",
-    "id": "4df1e3fb-894b-4b6e-8ce6-0f54865f8be8",
+    "id": "0125ffa7-be24-4b41-8bfe-1b62b9da92cc",
     "type": "lvl1",
     "url": "/docs/components/fields",
     "hierarchy": { "lvl1": "Circular Slider" }
   },
   {
     "content": "Import",
-    "id": "bb741df9-38f6-4b90-abf3-ec8354476636",
+    "id": "7c267167-a99a-45c4-912e-cae97e798d8a",
     "type": "lvl2",
     "url": "/docs/components/fields#import",
     "hierarchy": { "lvl1": "Circular Slider", "lvl2": "Import", "lvl3": null }
   },
   {
     "content": "Usage",
-    "id": "7e14495d-eec2-439d-85c5-bec19e6111c6",
+    "id": "aa834f39-8949-4e91-b2f0-dedf7466ab72",
     "type": "lvl2",
     "url": "/docs/components/fields#usage",
     "hierarchy": { "lvl1": "Circular Slider", "lvl2": "Usage", "lvl3": null }
   },
   {
     "content": "Chakra UI Kanban - Horizon UI",
-    "id": "7c5e5d2b-773d-4021-bbe9-9f7cef91f04c",
+    "id": "e704c5e1-c14b-445f-94c9-519e600e3e47",
     "type": "lvl1",
     "url": "/docs/components/kanban",
     "hierarchy": { "lvl1": "Chakra UI Kanban - Horizon UI" }
   },
   {
     "content": "Usage",
-    "id": "b3278be2-a557-4812-9d43-94a90a60f8e0",
+    "id": "bfeef4bd-42ca-4672-9cff-d2881c039115",
     "type": "lvl2",
     "url": "/docs/components/kanban#usage",
     "hierarchy": {
@@ -255,35 +255,35 @@
   },
   {
     "content": "Map",
-    "id": "8bf6d74c-df18-40be-a834-6472936748b9",
+    "id": "1fdf7238-67ae-4605-a7b4-06d3ec53d934",
     "type": "lvl1",
     "url": "/docs/components/map",
     "hierarchy": { "lvl1": "Map" }
   },
   {
     "content": "Import",
-    "id": "5cce2755-b78e-4527-b42e-20150bf61528",
+    "id": "5bf8b123-ce69-45cb-a775-8515f4ba1082",
     "type": "lvl2",
     "url": "/docs/components/map#import",
     "hierarchy": { "lvl1": "Map", "lvl2": "Import", "lvl3": null }
   },
   {
     "content": "Usage",
-    "id": "d0cfa5ed-32e4-4867-8ed9-f8f45f835237",
+    "id": "d7ff7791-7392-4c59-bfde-df81760f3d2e",
     "type": "lvl2",
     "url": "/docs/components/map#usage",
     "hierarchy": { "lvl1": "Map", "lvl2": "Usage", "lvl3": null }
   },
   {
     "content": "Chakra UI Portal - Horizon UI",
-    "id": "3fd1afcc-58be-482f-b056-818464f0c74f",
+    "id": "060ecced-981b-499b-8376-a2fdb68e6e56",
     "type": "lvl1",
     "url": "/docs/components/portal",
     "hierarchy": { "lvl1": "Chakra UI Portal - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "7ae2207c-d76a-49ca-9f28-aa3b4c43c7c1",
+    "id": "fa270814-1819-491e-9e55-b2337c1cf59a",
     "type": "lvl2",
     "url": "/docs/components/portal#import",
     "hierarchy": {
@@ -294,7 +294,7 @@
   },
   {
     "content": "Usage",
-    "id": "cbe3da53-0c87-40d6-abd9-a2549add3caa",
+    "id": "ce3cf914-8cc9-417f-b764-81a6f2f30157",
     "type": "lvl2",
     "url": "/docs/components/portal#usage",
     "hierarchy": {
@@ -305,7 +305,7 @@
   },
   {
     "content": "Using a custom container",
-    "id": "3c92e9db-b38b-4e79-8858-f7d3d6a5cb74",
+    "id": "70bda31f-c0cd-4c53-83ed-9b7ca34202b0",
     "type": "lvl3",
     "url": "/docs/components/portal#using-a-custom-container",
     "hierarchy": {
@@ -316,7 +316,7 @@
   },
   {
     "content": "Nesting Portals",
-    "id": "bfc92d8e-6d98-41e5-888d-82163de39202",
+    "id": "c546b265-791f-4e53-b7be-01c532455109",
     "type": "lvl3",
     "url": "/docs/components/portal#nesting-portals",
     "hierarchy": {
@@ -327,7 +327,7 @@
   },
   {
     "content": "Opting out of portal nesting",
-    "id": "f620e2e3-5036-4728-b0d1-51ed7bbd3836",
+    "id": "67b61232-2d65-4786-9e7e-c45034c59bf1",
     "type": "lvl3",
     "url": "/docs/components/portal#opting-out-of-portal-nesting",
     "hierarchy": {
@@ -338,7 +338,7 @@
   },
   {
     "content": "Props",
-    "id": "55761bac-8940-463c-8f34-9084e39fc86e",
+    "id": "e8e1bc5f-5f4f-4cb2-84ca-65faf04dc959",
     "type": "lvl2",
     "url": "/docs/components/portal#props",
     "hierarchy": {
@@ -349,35 +349,35 @@
   },
   {
     "content": "Products",
-    "id": "bc459242-9ee3-42e1-bce7-56031edf73e5",
+    "id": "da647961-4663-444d-a9cc-732fc61615b6",
     "type": "lvl1",
     "url": "/docs/components/products",
     "hierarchy": { "lvl1": "Products" }
   },
   {
     "content": "Import",
-    "id": "1432dc7b-22d9-4fc7-b849-be85653489d3",
+    "id": "dd3b79c9-d997-4e0c-9cb4-80d71ab1346c",
     "type": "lvl2",
     "url": "/docs/components/products#import",
     "hierarchy": { "lvl1": "Products", "lvl2": "Import", "lvl3": null }
   },
   {
     "content": "Usage",
-    "id": "8de6ad15-9509-41c9-bb6a-ebc4a51fdd7a",
+    "id": "2dc82f15-8454-4a6b-982b-c7492d1dd6ef",
     "type": "lvl2",
     "url": "/docs/components/products#usage",
     "hierarchy": { "lvl1": "Products", "lvl2": "Usage", "lvl3": null }
   },
   {
     "content": "Chakra UI Quill - Horizon UI",
-    "id": "335d5844-5a12-42dc-a0d1-12dc62aff254",
+    "id": "6b11de4b-d627-4a39-93b1-904c2233ea27",
     "type": "lvl1",
     "url": "/docs/components/quill",
     "hierarchy": { "lvl1": "Chakra UI Quill - Horizon UI" }
   },
   {
     "content": "Usage",
-    "id": "0723919e-8ec7-4bce-84b6-6ed996d1ee17",
+    "id": "87d85f8f-0ecc-40b3-87db-55e73cbc24c8",
     "type": "lvl2",
     "url": "/docs/components/quill#usage",
     "hierarchy": {
@@ -388,35 +388,35 @@
   },
   {
     "content": "Range Slider",
-    "id": "13d94b71-205d-4e96-ab4b-dbd4c977b434",
+    "id": "93b58ac5-3321-4c23-a429-59f503d4a71f",
     "type": "lvl1",
     "url": "/docs/components/range-slider",
     "hierarchy": { "lvl1": "Range Slider" }
   },
   {
     "content": "Import",
-    "id": "c94861bc-1a81-42ef-a016-84d76d173480",
+    "id": "0ac2db55-dd91-429f-9217-d165c97c63e3",
     "type": "lvl2",
     "url": "/docs/components/range-slider#import",
     "hierarchy": { "lvl1": "Range Slider", "lvl2": "Import", "lvl3": null }
   },
   {
     "content": "Usage",
-    "id": "5eacd97f-d4dd-410c-9198-e81519ac330f",
+    "id": "c99d1b31-3dae-4933-9d5e-f3f50d0f03b9",
     "type": "lvl2",
     "url": "/docs/components/range-slider#usage",
     "hierarchy": { "lvl1": "Range Slider", "lvl2": "Usage", "lvl3": null }
   },
   {
     "content": "Chakra UI Wizard - Horizon UI",
-    "id": "1ae37299-1062-4e3c-8f05-b205b0d58a3d",
+    "id": "fc2e0904-7d9e-49c6-840c-597cbb2d0e9c",
     "type": "lvl1",
     "url": "/docs/components/wizard",
     "hierarchy": { "lvl1": "Chakra UI Wizard - Horizon UI" }
   },
   {
     "content": "Usage",
-    "id": "93efeab1-f8a9-455a-bb1c-6ade4c241107",
+    "id": "bfa7b0c6-30e2-491a-b4eb-43dacd9ab6d0",
     "type": "lvl2",
     "url": "/docs/components/wizard#usage",
     "hierarchy": {
@@ -427,14 +427,14 @@
   },
   {
     "content": "Chakra UI Badge - Horizon UI",
-    "id": "f751722c-2f68-444e-b81d-95c892115636",
+    "id": "333043a3-07ad-403c-97d3-4cedd86bf118",
     "type": "lvl1",
     "url": "/docs/data-display/badge",
     "hierarchy": { "lvl1": "Chakra UI Badge - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "092d3a1a-6bcb-45da-943d-b31d370699d6",
+    "id": "23e1019d-dee7-46d6-8b66-983ff1573ce4",
     "type": "lvl2",
     "url": "/docs/data-display/badge#import",
     "hierarchy": {
@@ -445,7 +445,7 @@
   },
   {
     "content": "Usage",
-    "id": "d4baa925-1580-41c0-95b3-13820557af57",
+    "id": "b0605209-c90b-47d2-a21a-71ab2caa5549",
     "type": "lvl2",
     "url": "/docs/data-display/badge#usage",
     "hierarchy": {
@@ -456,7 +456,7 @@
   },
   {
     "content": "Badge Color",
-    "id": "164f131a-1ea4-413e-95bc-d3eb77d4abcb",
+    "id": "2203f42a-9f92-4b91-b660-1d0015e50ba9",
     "type": "lvl3",
     "url": "/docs/data-display/badge#badge-color",
     "hierarchy": {
@@ -467,7 +467,7 @@
   },
   {
     "content": "Badge Variants",
-    "id": "865d0d1c-b59f-42eb-9c0f-11dec5749f44",
+    "id": "6f89e491-32b5-4abd-825f-1fcef5a23c07",
     "type": "lvl3",
     "url": "/docs/data-display/badge#badge-variants",
     "hierarchy": {
@@ -478,7 +478,7 @@
   },
   {
     "content": "Composition",
-    "id": "1456f772-6d42-4e47-8fd6-6fbd47a43593",
+    "id": "c3f8efef-4281-41f8-ad16-d0ec6649c283",
     "type": "lvl2",
     "url": "/docs/data-display/badge#composition",
     "hierarchy": {
@@ -489,7 +489,7 @@
   },
   {
     "content": "Props",
-    "id": "9ad93a9a-ed9e-436d-aee6-29c61c269400",
+    "id": "ecde9f77-5b22-4e53-8877-40ad00afe169",
     "type": "lvl2",
     "url": "/docs/data-display/badge#props",
     "hierarchy": {
@@ -500,14 +500,14 @@
   },
   {
     "content": "Chakra UI Charts - Horizon UI",
-    "id": "e18222e1-b7e3-4cb0-a43b-398535a0a72f",
+    "id": "b5443152-4420-4b55-8459-27592ed429cb",
     "type": "lvl1",
     "url": "/docs/data-display/charts",
     "hierarchy": { "lvl1": "Chakra UI Charts - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "9c1e0b87-2e3f-436e-a79d-89668cd6df9a",
+    "id": "ab9eafc4-1233-45c5-bc42-c4d74e1d3d9d",
     "type": "lvl2",
     "url": "/docs/data-display/charts#import",
     "hierarchy": {
@@ -518,7 +518,7 @@
   },
   {
     "content": "Line-Chart 1",
-    "id": "534038a5-698d-410d-bf34-0f01e012e3e1",
+    "id": "ea97f191-bc5f-4e7e-bdd2-b65e7ae1c10b",
     "type": "lvl2",
     "url": "/docs/data-display/charts#line-chart-1",
     "hierarchy": {
@@ -529,7 +529,7 @@
   },
   {
     "content": "Line-Chart 2",
-    "id": "bbe944e0-3f9a-4308-89eb-859ba12669d9",
+    "id": "aecfe96c-cc51-4bfa-a651-3d8e7c6b8c0b",
     "type": "lvl2",
     "url": "/docs/data-display/charts#line-chart-2",
     "hierarchy": {
@@ -540,7 +540,7 @@
   },
   {
     "content": "Bar-Chart 1",
-    "id": "41c1c88f-8768-4634-bafb-ceb34ed4ec6f",
+    "id": "f1642473-eab3-4ef3-81dc-4088393f0fe8",
     "type": "lvl2",
     "url": "/docs/data-display/charts#bar-chart-1",
     "hierarchy": {
@@ -551,7 +551,7 @@
   },
   {
     "content": "Bar-Chart 2",
-    "id": "271c7bd3-4f28-44c3-82d6-801d48ad8c8d",
+    "id": "a95d2dc0-e853-45c7-9d4e-4613f6e1d042",
     "type": "lvl2",
     "url": "/docs/data-display/charts#bar-chart-2",
     "hierarchy": {
@@ -562,7 +562,7 @@
   },
   {
     "content": "Mixed-Chart",
-    "id": "64cd2db3-5041-4d0d-9f6b-d19a2aa24d5d",
+    "id": "a7056952-4f1f-4b91-a138-82e026b70e62",
     "type": "lvl2",
     "url": "/docs/data-display/charts#mixed-chart",
     "hierarchy": {
@@ -573,7 +573,7 @@
   },
   {
     "content": "Bubble-Chart",
-    "id": "ac1f0cfd-97ba-4fa1-ab1d-4694d573d7e1",
+    "id": "437a10c5-32e3-41b5-b669-5584671f18a8",
     "type": "lvl2",
     "url": "/docs/data-display/charts#bubble-chart",
     "hierarchy": {
@@ -584,7 +584,7 @@
   },
   {
     "content": "Donut-Chart",
-    "id": "b97b641e-c678-4632-8bc5-3fcfb61402b2",
+    "id": "9f879b88-6fff-401a-bd9c-1ed9fc7cacbb",
     "type": "lvl2",
     "url": "/docs/data-display/charts#donut-chart",
     "hierarchy": {
@@ -595,7 +595,7 @@
   },
   {
     "content": "Pie-Chart",
-    "id": "e39e4fc8-c8d4-4a42-9bfc-0a52176efe17",
+    "id": "0da8dbb1-e50f-46b4-b6f3-79f0d757edb1",
     "type": "lvl2",
     "url": "/docs/data-display/charts#pie-chart",
     "hierarchy": {
@@ -606,7 +606,7 @@
   },
   {
     "content": "Radar-Chart",
-    "id": "dd2efc5f-69a0-4a02-ad22-ef505deab3e3",
+    "id": "967edd94-6c4c-49b7-abac-94e576721f66",
     "type": "lvl2",
     "url": "/docs/data-display/charts#radar-chart",
     "hierarchy": {
@@ -617,7 +617,7 @@
   },
   {
     "content": "Polar-Chart",
-    "id": "27b8e8a0-0f28-4c41-8f6e-2ea2ffa7c8a0",
+    "id": "13f3d726-9360-4399-9a25-5edba61a4ff7",
     "type": "lvl2",
     "url": "/docs/data-display/charts#polar-chart",
     "hierarchy": {
@@ -628,14 +628,14 @@
   },
   {
     "content": "Chakra UI List - Horizon UI",
-    "id": "4a914b29-533c-41ca-8927-02fe3f6ba365",
+    "id": "6d958d5c-bf81-481b-8334-2b307387dd7d",
     "type": "lvl1",
     "url": "/docs/data-display/list",
     "hierarchy": { "lvl1": "Chakra UI List - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "0a42e224-f596-4d38-a3af-3a2149b34f12",
+    "id": "c8dce5af-a50c-4ba2-b9aa-138779674f2b",
     "type": "lvl2",
     "url": "/docs/data-display/list#import",
     "hierarchy": {
@@ -646,7 +646,7 @@
   },
   {
     "content": "Unordered List",
-    "id": "ab86c8e4-7ac4-4f68-bff9-c0cbe1192bed",
+    "id": "33cf881d-25a2-474d-8907-404a5e8112c8",
     "type": "lvl2",
     "url": "/docs/data-display/list#unordered-list",
     "hierarchy": {
@@ -657,7 +657,7 @@
   },
   {
     "content": "Ordered List",
-    "id": "8fb3ade0-2a24-41f5-aa85-5452f1dd7532",
+    "id": "8ec5fdeb-1495-42f6-bf0a-c54b30b52a27",
     "type": "lvl2",
     "url": "/docs/data-display/list#ordered-list",
     "hierarchy": {
@@ -668,7 +668,7 @@
   },
   {
     "content": "Unstyled List with icon",
-    "id": "91c9f92c-0eec-4939-ba4b-a2eff67255a8",
+    "id": "faf93249-a58a-4b66-af86-879a6dfa00d5",
     "type": "lvl2",
     "url": "/docs/data-display/list#unstyled-list-with-icon",
     "hierarchy": {
@@ -679,7 +679,7 @@
   },
   {
     "content": "Props",
-    "id": "1528a464-ae64-4968-a73d-d987991f3f9b",
+    "id": "0af9d4ab-6563-4c2a-b005-eed767e0c92d",
     "type": "lvl2",
     "url": "/docs/data-display/list#props",
     "hierarchy": {
@@ -690,7 +690,7 @@
   },
   {
     "content": "List Props",
-    "id": "842b9ba4-cfa0-4541-b3c4-4efc6e2d9362",
+    "id": "38add929-7aa2-42a9-a20b-a54d34538bd6",
     "type": "lvl3",
     "url": "/docs/data-display/list#list-props",
     "hierarchy": {
@@ -701,7 +701,7 @@
   },
   {
     "content": "List Item Props",
-    "id": "6929354a-cab2-40cb-89ae-c9e16aeb9ce6",
+    "id": "54ccf6b9-ff46-49ad-9b4f-31a689cdfd9c",
     "type": "lvl3",
     "url": "/docs/data-display/list#list-item-props",
     "hierarchy": {
@@ -712,14 +712,14 @@
   },
   {
     "content": "Chakra UI Stat - Horizon UI",
-    "id": "67c99ed7-2f6a-4b7b-a292-2db4af16cd47",
+    "id": "6311b72e-99b0-4fff-93bf-23f18b7ccfde",
     "type": "lvl1",
     "url": "/docs/data-display/stat",
     "hierarchy": { "lvl1": "Chakra UI Stat - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "230d528b-073c-4246-9333-4024f8ce0135",
+    "id": "f87a98a6-1b9a-41d0-ae52-432f0da5db89",
     "type": "lvl2",
     "url": "/docs/data-display/stat#import",
     "hierarchy": {
@@ -730,7 +730,7 @@
   },
   {
     "content": "Basic Usage",
-    "id": "da2943bf-720f-4097-8ab5-a41767840ebe",
+    "id": "30d1cbbe-40f8-43c1-a219-401d81a63e9f",
     "type": "lvl2",
     "url": "/docs/data-display/stat#basic-usage",
     "hierarchy": {
@@ -741,7 +741,7 @@
   },
   {
     "content": "Stat with Indicator",
-    "id": "599bcbdd-926d-4721-aece-95897e81b80c",
+    "id": "41f3d2f8-22bc-4e9d-bfc9-9e2ccb833e2a",
     "type": "lvl3",
     "url": "/docs/data-display/stat#stat-with-indicator",
     "hierarchy": {
@@ -752,7 +752,7 @@
   },
   {
     "content": "Props",
-    "id": "2834f063-c1e5-4de3-a636-c0fe5dab209f",
+    "id": "290126dd-5178-4daa-b6dc-ed3a28adbc28",
     "type": "lvl2",
     "url": "/docs/data-display/stat#props",
     "hierarchy": {
@@ -763,14 +763,14 @@
   },
   {
     "content": "Chakra UI Table - Horizon UI",
-    "id": "8f0df3f1-7a7d-42b4-b87d-1312b8af46ba",
+    "id": "5f9d603d-2010-4efd-a1b5-70d1976efcf8",
     "type": "lvl1",
     "url": "/docs/data-display/table",
     "hierarchy": { "lvl1": "Chakra UI Table - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "a683f0b1-6f06-40ca-8b8a-378edd17b3a7",
+    "id": "35a36e3e-68a9-49fa-9903-65f7e7ce5d6b",
     "type": "lvl2",
     "url": "/docs/data-display/table#import",
     "hierarchy": {
@@ -781,7 +781,7 @@
   },
   {
     "content": "Table Variants",
-    "id": "e8507526-add5-4ebd-85bc-84447d71011a",
+    "id": "8c53f349-06a3-430a-bb6a-fa6ed4787a19",
     "type": "lvl2",
     "url": "/docs/data-display/table#table-variants",
     "hierarchy": {
@@ -792,7 +792,7 @@
   },
   {
     "content": "Simple Table",
-    "id": "38441a84-64f9-4ef8-bda1-d1c670758a53",
+    "id": "c48eb832-5c3e-460a-bdd0-7218edea6b94",
     "type": "lvl3",
     "url": "/docs/data-display/table#simple-table",
     "hierarchy": {
@@ -803,7 +803,7 @@
   },
   {
     "content": "Striped Table",
-    "id": "9afc3848-f774-4b91-8b6e-b2ce02c6fd1a",
+    "id": "85a07a88-db6f-4f46-a4e2-d1a2bd7bb2a3",
     "type": "lvl3",
     "url": "/docs/data-display/table#striped-table",
     "hierarchy": {
@@ -814,7 +814,7 @@
   },
   {
     "content": "Table Sizing",
-    "id": "ac0fc8d6-5f53-4973-a7bd-720c245115e4",
+    "id": "18f35d3c-6ce2-4a7a-9c5f-b6dc85016641",
     "type": "lvl2",
     "url": "/docs/data-display/table#table-sizing",
     "hierarchy": {
@@ -825,7 +825,7 @@
   },
   {
     "content": "Import",
-    "id": "a6328d4d-18d9-4da8-b027-66ed330c3f84",
+    "id": "8680d395-ff7d-4163-8aa5-498a376239fb",
     "type": "lvl2",
     "url": "/docs/data-display/table#import-1",
     "hierarchy": {
@@ -836,7 +836,7 @@
   },
   {
     "content": "Import",
-    "id": "678aa892-72f7-4cdb-ae09-c9fa9a80b0d5",
+    "id": "7facd76c-969f-44c3-8d20-297fb7d12424",
     "type": "lvl2",
     "url": "/docs/data-display/table#import-2",
     "hierarchy": {
@@ -847,7 +847,7 @@
   },
   {
     "content": "Import",
-    "id": "0c699c7b-a824-4dc7-af2f-fc2f04d32d0f",
+    "id": "16fe5f4b-f813-4025-a9c5-648daa5f578d",
     "type": "lvl2",
     "url": "/docs/data-display/table#import-3",
     "hierarchy": {
@@ -858,7 +858,7 @@
   },
   {
     "content": "Import",
-    "id": "263a06e2-c031-4855-a9ba-b0783013af2e",
+    "id": "bae66fe9-65ee-4c92-a997-ecd42747396e",
     "type": "lvl2",
     "url": "/docs/data-display/table#import-4",
     "hierarchy": {
@@ -869,7 +869,7 @@
   },
   {
     "content": "Import",
-    "id": "4ddb7137-dc89-41d7-91fe-29e99ac9b2dc",
+    "id": "b2043917-f020-4cb7-a408-727e6d4746ad",
     "type": "lvl2",
     "url": "/docs/data-display/table#import-5",
     "hierarchy": {
@@ -880,7 +880,7 @@
   },
   {
     "content": "Import",
-    "id": "05429606-62ad-48f5-8f19-18facca242df",
+    "id": "7f334eb8-5e1d-4491-b7d4-eb4dc7b8cc4d",
     "type": "lvl2",
     "url": "/docs/data-display/table#import-6",
     "hierarchy": {
@@ -891,7 +891,7 @@
   },
   {
     "content": "Props",
-    "id": "66d11ebd-6720-4f80-b3e2-4c0dccad6a24",
+    "id": "fd277a6a-fc67-41f1-a4a1-8b2f8ca85b7e",
     "type": "lvl2",
     "url": "/docs/data-display/table#props",
     "hierarchy": {
@@ -902,7 +902,7 @@
   },
   {
     "content": "Table",
-    "id": "915f8881-9b5c-4416-94ae-bb7ea41e8518",
+    "id": "208bf445-f396-47e3-a3cb-74e2b24c432f",
     "type": "lvl3",
     "url": "/docs/data-display/table#table",
     "hierarchy": {
@@ -913,7 +913,7 @@
   },
   {
     "content": "Td",
-    "id": "ca734ce6-ed87-4e73-86ae-efe33cda07b0",
+    "id": "209fb788-fb1f-4821-9c75-05ea0519dcb6",
     "type": "lvl3",
     "url": "/docs/data-display/table#td",
     "hierarchy": {
@@ -924,7 +924,7 @@
   },
   {
     "content": "Th",
-    "id": "509f90dd-ca91-4f2e-ad3c-2aa62bf520f9",
+    "id": "c9ba3203-1922-4e49-ba1c-da68a6473280",
     "type": "lvl3",
     "url": "/docs/data-display/table#th",
     "hierarchy": {
@@ -935,7 +935,7 @@
   },
   {
     "content": "TableCaption",
-    "id": "37164b55-97db-478d-a897-0ef5a081ccea",
+    "id": "2079cbfc-ddc3-469f-90a2-49c8ca7d7f45",
     "type": "lvl3",
     "url": "/docs/data-display/table#tablecaption",
     "hierarchy": {
@@ -946,14 +946,14 @@
   },
   {
     "content": "Chakra UI Timeline - Horizon UI",
-    "id": "448f581f-f316-4c08-8fb8-481010efe853",
+    "id": "10dddc7b-e12e-4725-8e04-5a4dda31e6b7",
     "type": "lvl1",
     "url": "/docs/data-display/timeline",
     "hierarchy": { "lvl1": "Chakra UI Timeline - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "f07bfc75-17d5-4d32-bf6c-5eba8dba6fb9",
+    "id": "1588a7b9-f14a-4b72-a766-8555fba35fd0",
     "type": "lvl2",
     "url": "/docs/data-display/timeline#import",
     "hierarchy": {
@@ -964,7 +964,7 @@
   },
   {
     "content": "Usage",
-    "id": "5d012892-b5d8-47df-97f0-38fbaafd9fe1",
+    "id": "0ce5756f-960a-45c9-ad52-c5244ee3831a",
     "type": "lvl3",
     "url": "/docs/data-display/timeline#usage",
     "hierarchy": {
@@ -975,14 +975,14 @@
   },
   {
     "content": "Chakra UI Alerts - Horizon UI",
-    "id": "45848bb3-7dec-4873-8b38-827fc8a85057",
+    "id": "2ee8146f-2e6b-4e55-b507-89201c846b5a",
     "type": "lvl1",
     "url": "/docs/feedback/alerts",
     "hierarchy": { "lvl1": "Chakra UI Alerts - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "5ffbaedb-e4db-41e9-a264-fe6d52e5c544",
+    "id": "7c6c3762-a3bf-45bb-a654-be74ea69951b",
     "type": "lvl2",
     "url": "/docs/feedback/alerts#import",
     "hierarchy": {
@@ -993,7 +993,7 @@
   },
   {
     "content": "Usage",
-    "id": "165ee460-957c-48d8-99d7-078cc558998f",
+    "id": "2c906187-ec1e-4019-8a76-df93d9294f35",
     "type": "lvl2",
     "url": "/docs/feedback/alerts#usage",
     "hierarchy": {
@@ -1004,7 +1004,7 @@
   },
   {
     "content": "Status",
-    "id": "5327d37f-c4ee-4f6e-9cea-ca9ec7b65cb0",
+    "id": "972965a2-c4d8-48cc-b871-37270839eaf1",
     "type": "lvl3",
     "url": "/docs/feedback/alerts#status",
     "hierarchy": {
@@ -1015,7 +1015,7 @@
   },
   {
     "content": "Variant",
-    "id": "8e6e75ab-d196-4f4c-9783-06f5af71e7d6",
+    "id": "35f23d3b-5457-4675-b94c-08a11c526df5",
     "type": "lvl3",
     "url": "/docs/feedback/alerts#variant",
     "hierarchy": {
@@ -1026,7 +1026,7 @@
   },
   {
     "content": "Composition",
-    "id": "b574a53c-1fc6-47af-8573-2165621ca65c",
+    "id": "416a358d-d050-4a5e-abb7-90389ab96c43",
     "type": "lvl3",
     "url": "/docs/feedback/alerts#composition",
     "hierarchy": {
@@ -1037,7 +1037,7 @@
   },
   {
     "content": "Props",
-    "id": "29ccc132-09ce-4221-a00b-a7ab2b8ebb03",
+    "id": "91c1e6dc-7946-473c-9f5a-011e946e2be8",
     "type": "lvl2",
     "url": "/docs/feedback/alerts#props",
     "hierarchy": {
@@ -1048,7 +1048,7 @@
   },
   {
     "content": "Alert Props",
-    "id": "d8134661-d26c-4819-ae49-2c11fd4a80d9",
+    "id": "21463d45-e870-4342-a89d-6b6caa904512",
     "type": "lvl3",
     "url": "/docs/feedback/alerts#alert-props",
     "hierarchy": {
@@ -1059,7 +1059,7 @@
   },
   {
     "content": "AlertIcon Props",
-    "id": "dae07794-e501-4725-9b2f-dc2a35f9ba3a",
+    "id": "60a583be-b50a-42e1-97fb-690f4179dfb1",
     "type": "lvl3",
     "url": "/docs/feedback/alerts#alerticon-props",
     "hierarchy": {
@@ -1070,7 +1070,7 @@
   },
   {
     "content": "AlertTitle Props",
-    "id": "77575967-387f-4b7b-bbec-838eb474f9f3",
+    "id": "62af341e-a90c-4efb-bdb6-f97decf00e49",
     "type": "lvl3",
     "url": "/docs/feedback/alerts#alerttitle-props",
     "hierarchy": {
@@ -1081,7 +1081,7 @@
   },
   {
     "content": "AlertDescription Props",
-    "id": "06a739a5-b30d-48e3-8461-a4eb956cc539",
+    "id": "bbe9349d-175d-419b-afe8-922369fc1b17",
     "type": "lvl3",
     "url": "/docs/feedback/alerts#alertdescription-props",
     "hierarchy": {
@@ -1092,14 +1092,14 @@
   },
   {
     "content": "Chakra UI Progress - Horizon UI",
-    "id": "47ee6fc3-d79b-4b78-80fb-61bc1a31c319",
+    "id": "e2f6adc2-5ae4-4355-bf49-5f78c83c999d",
     "type": "lvl1",
     "url": "/docs/feedback/progress",
     "hierarchy": { "lvl1": "Chakra UI Progress - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "dcdf41ce-77e1-4db7-b6f2-c5f2e368e66a",
+    "id": "5b2ac335-8e39-4d23-8dfb-fd67a179cc37",
     "type": "lvl2",
     "url": "/docs/feedback/progress#import",
     "hierarchy": {
@@ -1110,7 +1110,7 @@
   },
   {
     "content": "Usage",
-    "id": "9a7c0b25-07c0-4018-8b15-ef209033de4b",
+    "id": "352d3c81-41f2-4f1a-9e1e-8111efb48e75",
     "type": "lvl2",
     "url": "/docs/feedback/progress#usage",
     "hierarchy": {
@@ -1121,7 +1121,7 @@
   },
   {
     "content": "Progress with Stripe",
-    "id": "7a1295a3-41e6-42ae-b2d9-ad9c2b0dce81",
+    "id": "cf0b2d6e-9490-4e6e-9b37-500297b69f6d",
     "type": "lvl3",
     "url": "/docs/feedback/progress#progress-with-stripe",
     "hierarchy": {
@@ -1132,7 +1132,7 @@
   },
   {
     "content": "Progress sizes",
-    "id": "162928ff-035c-4156-8342-bdf99f451c0a",
+    "id": "4422c558-c31d-496f-b33d-0758ec6cb4e0",
     "type": "lvl3",
     "url": "/docs/feedback/progress#progress-sizes",
     "hierarchy": {
@@ -1143,7 +1143,7 @@
   },
   {
     "content": "Progress color scheme",
-    "id": "20102135-4698-4b4b-a950-0fafd04b84c6",
+    "id": "48b15e99-ac6e-4667-8615-aebd05d0f864",
     "type": "lvl3",
     "url": "/docs/feedback/progress#progress-color-scheme",
     "hierarchy": {
@@ -1154,7 +1154,7 @@
   },
   {
     "content": "Animated Progress",
-    "id": "9c10030d-9a9e-40dd-938b-17429c14fc43",
+    "id": "f6ac7332-8723-4b24-be26-a1aecf4e9f7a",
     "type": "lvl3",
     "url": "/docs/feedback/progress#animated-progress",
     "hierarchy": {
@@ -1165,7 +1165,7 @@
   },
   {
     "content": "Accessibility",
-    "id": "1738439f-18a0-446f-a176-80fd9b1b2b4f",
+    "id": "0dce0b8c-2672-4b3f-87aa-f142b28834d6",
     "type": "lvl2",
     "url": "/docs/feedback/progress#accessibility",
     "hierarchy": {
@@ -1176,7 +1176,7 @@
   },
   {
     "content": "Props",
-    "id": "1ce14fe0-e3ab-4539-9c1d-66812eb90e0a",
+    "id": "949ebbed-d8da-4390-941d-cb31842c751a",
     "type": "lvl2",
     "url": "/docs/feedback/progress#props",
     "hierarchy": {
@@ -1187,14 +1187,14 @@
   },
   {
     "content": "Chakra UI Button - Horizon UI",
-    "id": "0734661f-5032-45e0-bd28-694a3510fe01",
+    "id": "91f31683-036e-4f5e-91cd-a03bc1e4107e",
     "type": "lvl1",
     "url": "/docs/form/button",
     "hierarchy": { "lvl1": "Chakra UI Button - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "721fa148-de92-4216-beae-681a5207ead6",
+    "id": "65723c4a-9f35-400e-a50b-a1c1f7330f8e",
     "type": "lvl2",
     "url": "/docs/form/button#import",
     "hierarchy": {
@@ -1205,7 +1205,7 @@
   },
   {
     "content": "Usage",
-    "id": "1d06cd6a-4ec3-4662-8705-a91b2c2d0249",
+    "id": "6d662218-8758-4057-998f-5acf292edc2c",
     "type": "lvl2",
     "url": "/docs/form/button#usage",
     "hierarchy": {
@@ -1216,7 +1216,7 @@
   },
   {
     "content": "Button Sizes",
-    "id": "1fbaaf5e-5da3-464a-8b40-7e2b39d6d88e",
+    "id": "e2a6bdf1-6194-40ba-b3f5-6d4362b52b3d",
     "type": "lvl3",
     "url": "/docs/form/button#button-sizes",
     "hierarchy": {
@@ -1227,7 +1227,7 @@
   },
   {
     "content": "Button variants",
-    "id": "5e4eb991-bef4-4b74-9180-cfdfce7b379e",
+    "id": "8294000d-c2cf-44fe-8a41-0208a8ba45c9",
     "type": "lvl3",
     "url": "/docs/form/button#button-variants",
     "hierarchy": {
@@ -1238,7 +1238,7 @@
   },
   {
     "content": "Button with icon",
-    "id": "d1a8ae61-3b34-4eb4-97f8-4086c33f4eda",
+    "id": "1fa04e35-b4a8-4eb3-a649-9d5d0f112f96",
     "type": "lvl3",
     "url": "/docs/form/button#button-with-icon",
     "hierarchy": {
@@ -1249,7 +1249,7 @@
   },
   {
     "content": "Button loading state",
-    "id": "bda73742-7511-4389-93d4-855942c6380c",
+    "id": "0779839e-d75a-4936-a300-d7a69fe1db82",
     "type": "lvl3",
     "url": "/docs/form/button#button-loading-state",
     "hierarchy": {
@@ -1260,7 +1260,7 @@
   },
   {
     "content": "Social Buttons",
-    "id": "297461dd-67dd-4f1a-83e4-16467cd5415b",
+    "id": "6d337f27-0cb4-4a95-a638-e4f8626ab788",
     "type": "lvl3",
     "url": "/docs/form/button#social-buttons",
     "hierarchy": {
@@ -1271,7 +1271,7 @@
   },
   {
     "content": "Grouping Buttons",
-    "id": "10644e0e-7547-4cd9-9e65-6c7c62049106",
+    "id": "112518bb-b165-4d59-a81c-e44de5ad4bdc",
     "type": "lvl3",
     "url": "/docs/form/button#grouping-buttons",
     "hierarchy": {
@@ -1282,7 +1282,7 @@
   },
   {
     "content": "Variants",
-    "id": "adbbc546-3c17-41df-80c5-7adb5d1caa55",
+    "id": "04a2811c-f62e-4795-bded-b20737e1e612",
     "type": "lvl3",
     "url": "/docs/form/button#variants",
     "hierarchy": {
@@ -1293,7 +1293,7 @@
   },
   {
     "content": "Accessibility",
-    "id": "05037f7a-ac3d-4472-a33a-98251b9f9def",
+    "id": "912b0003-c8a9-4f2c-a9c4-c61f231975ab",
     "type": "lvl2",
     "url": "/docs/form/button#accessibility",
     "hierarchy": {
@@ -1304,7 +1304,7 @@
   },
   {
     "content": "Composition",
-    "id": "155321c4-ad8a-4a1a-835b-8f8628f61a91",
+    "id": "35f3ec03-4ec1-4182-91e6-6cd2b54e7a81",
     "type": "lvl2",
     "url": "/docs/form/button#composition",
     "hierarchy": {
@@ -1315,7 +1315,7 @@
   },
   {
     "content": "Custom variants:",
-    "id": "c7d6a12c-4c69-4878-b167-4d65b5ed24c2",
+    "id": "9e3eb18d-8702-4da2-99dd-00ab05c86077",
     "type": "lvl2",
     "url": "/docs/form/button#custom-variants",
     "hierarchy": {
@@ -1326,7 +1326,7 @@
   },
   {
     "content": "Custom Button",
-    "id": "6c7f0e7d-3abd-44d5-b375-ba2367ad72bc",
+    "id": "34555f4d-5e70-4f72-8487-de224e62cdd6",
     "type": "lvl2",
     "url": "/docs/form/button#custom-button",
     "hierarchy": {
@@ -1337,7 +1337,7 @@
   },
   {
     "content": "Props",
-    "id": "73763f15-2b07-4afa-a25c-e9b3bb371a07",
+    "id": "b91c9d32-af98-453d-8d3c-37ae79054c96",
     "type": "lvl2",
     "url": "/docs/form/button#props",
     "hierarchy": {
@@ -1348,7 +1348,7 @@
   },
   {
     "content": "Button Props",
-    "id": "469a9ea1-aa09-4494-90e8-c6bb4eeca67f",
+    "id": "72519b13-65e2-4237-b5d0-5175e8bc1571",
     "type": "lvl3",
     "url": "/docs/form/button#button-props",
     "hierarchy": {
@@ -1359,7 +1359,7 @@
   },
   {
     "content": "Button Group Props",
-    "id": "2668f583-e453-4fb3-87c7-35776caf4098",
+    "id": "350e25d3-8647-4957-856e-1692cb6f8a29",
     "type": "lvl3",
     "url": "/docs/form/button#button-group-props",
     "hierarchy": {
@@ -1370,14 +1370,14 @@
   },
   {
     "content": "Chakra UI Form Control - Horizon UI",
-    "id": "152a5467-7066-473d-be03-3a93dcaeb640",
+    "id": "d6a3430a-e4c5-4537-8bff-5d0829735093",
     "type": "lvl1",
     "url": "/docs/form/form-control",
     "hierarchy": { "lvl1": "Chakra UI Form Control - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "15708b17-9768-412d-80fc-1ec25fb8519e",
+    "id": "2c33921a-09d5-4f22-a158-7aa76e5410bc",
     "type": "lvl2",
     "url": "/docs/form/form-control#import",
     "hierarchy": {
@@ -1388,7 +1388,7 @@
   },
   {
     "content": "Usage",
-    "id": "b23aba16-d149-4282-9716-693f3c8f7c72",
+    "id": "a6ec52b1-e3e4-4044-892e-e2a65b10852b",
     "type": "lvl2",
     "url": "/docs/form/form-control#usage",
     "hierarchy": {
@@ -1399,7 +1399,7 @@
   },
   {
     "content": "Sample usage for a radio or checkbox group",
-    "id": "632b6cb6-ec17-40ea-b8aa-96f2b46e31bf",
+    "id": "a04a7c43-3c3f-47b7-9a2a-f89d029ccf51",
     "type": "lvl3",
     "url": "/docs/form/form-control#sample-usage-for-a-radio-or-checkbox-group",
     "hierarchy": {
@@ -1410,7 +1410,7 @@
   },
   {
     "content": "Making a field required",
-    "id": "755bb6e9-962f-4c26-aab0-321ddbb479e2",
+    "id": "36b4d95a-c7ef-4f95-9062-8ba14f77a741",
     "type": "lvl3",
     "url": "/docs/form/form-control#making-a-field-required",
     "hierarchy": {
@@ -1421,7 +1421,7 @@
   },
   {
     "content": "Select Example",
-    "id": "c1685858-b3c8-4455-8f96-a1523934c022",
+    "id": "145555de-d21c-43e1-b616-0ac5bbf2d061",
     "type": "lvl3",
     "url": "/docs/form/form-control#select-example",
     "hierarchy": {
@@ -1432,7 +1432,7 @@
   },
   {
     "content": "Number Input Example",
-    "id": "b68f428b-fa93-4193-aab1-11e439de17d9",
+    "id": "966b69e5-d3ef-46fd-8180-c7cf89c5c6a5",
     "type": "lvl3",
     "url": "/docs/form/form-control#number-input-example",
     "hierarchy": {
@@ -1443,7 +1443,7 @@
   },
   {
     "content": "Usage with Form Libraries",
-    "id": "51d34ff4-de35-4c77-91ae-c44991be2f63",
+    "id": "3604e443-19b3-41ad-acf4-c07874d88fd5",
     "type": "lvl3",
     "url": "/docs/form/form-control#usage-with-form-libraries",
     "hierarchy": {
@@ -1454,7 +1454,7 @@
   },
   {
     "content": "Improvements from v1",
-    "id": "984fa8d7-0202-4b0e-9fca-a2cee477c518",
+    "id": "a27cb5c1-fc79-47fd-a44c-7db5fa0e8940",
     "type": "lvl2",
     "url": "/docs/form/form-control#improvements-from-v1",
     "hierarchy": {
@@ -1465,7 +1465,7 @@
   },
   {
     "content": "Props",
-    "id": "a48fc61f-2eea-4bb3-a292-0600c3d149a5",
+    "id": "2f99fd4f-ea71-4581-83f0-4d3b5c241926",
     "type": "lvl2",
     "url": "/docs/form/form-control#props",
     "hierarchy": {
@@ -1476,14 +1476,14 @@
   },
   {
     "content": "Chakra UI Icon Button - Horizon UI",
-    "id": "b1184376-d5e6-4fca-8fba-5302867e7d2d",
+    "id": "62ba7f5f-a27f-41b7-8e07-3a7ad05d5a0b",
     "type": "lvl1",
     "url": "/docs/form/icon-button",
     "hierarchy": { "lvl1": "Chakra UI Icon Button - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "54237e56-b761-43c0-adff-396e3a6da1a6",
+    "id": "6ad7de82-93d9-4746-8905-3d992176d6c4",
     "type": "lvl2",
     "url": "/docs/form/icon-button#import",
     "hierarchy": {
@@ -1494,7 +1494,7 @@
   },
   {
     "content": "Usage",
-    "id": "7eee69b2-aaf5-42d6-adff-db00ea9fa7aa",
+    "id": "5d6fc0b6-44fd-44eb-8cae-93d6d34df2c5",
     "type": "lvl2",
     "url": "/docs/form/icon-button#usage",
     "hierarchy": {
@@ -1505,7 +1505,7 @@
   },
   {
     "content": "Button Colors",
-    "id": "6a9ec994-c535-4fe4-9c98-54b25386b99d",
+    "id": "ac968c72-9836-4500-9319-90782b631bfd",
     "type": "lvl3",
     "url": "/docs/form/icon-button#button-colors",
     "hierarchy": {
@@ -1516,7 +1516,7 @@
   },
   {
     "content": "Button Sizes",
-    "id": "5d0c0add-98d4-445c-b79f-dd31f2729673",
+    "id": "aa366dbd-56bc-48b0-8ddf-95abeb794e68",
     "type": "lvl3",
     "url": "/docs/form/icon-button#button-sizes",
     "hierarchy": {
@@ -1527,7 +1527,7 @@
   },
   {
     "content": "Button Variants",
-    "id": "e391bb5e-28e7-47b3-ae33-eb6d9f71c06b",
+    "id": "ae3dbc5e-801a-433e-819e-4fc0b5fa1171",
     "type": "lvl3",
     "url": "/docs/form/icon-button#button-variants",
     "hierarchy": {
@@ -1538,7 +1538,7 @@
   },
   {
     "content": "With custom icon",
-    "id": "9ece464a-9e07-42bf-8ca6-90f16138fdf6",
+    "id": "9a0c7a05-cd45-4c6c-95ec-acb8eefdc13e",
     "type": "lvl3",
     "url": "/docs/form/icon-button#with-custom-icon",
     "hierarchy": {
@@ -1549,7 +1549,7 @@
   },
   {
     "content": "Props",
-    "id": "bf737ee3-2b8f-4bf6-89fd-ce05a092a784",
+    "id": "f9df39a6-1d7c-4a0f-97ab-b50813cca9eb",
     "type": "lvl2",
     "url": "/docs/form/icon-button#props",
     "hierarchy": {
@@ -1560,14 +1560,14 @@
   },
   {
     "content": "Chakra UI Input - Horizon UI",
-    "id": "4b889001-c477-49ef-97ac-41e0323e1c09",
+    "id": "3e0fbb9f-85a3-4442-bba2-1796b862256c",
     "type": "lvl1",
     "url": "/docs/form/input",
     "hierarchy": { "lvl1": "Chakra UI Input - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "bdce263f-f7c4-48ba-9b43-d662c6360aea",
+    "id": "feb2ea0c-a4cc-4e4f-b4f2-3278b3d89cc3",
     "type": "lvl2",
     "url": "/docs/form/input#import",
     "hierarchy": {
@@ -1578,7 +1578,7 @@
   },
   {
     "content": "Usage",
-    "id": "3da93990-6b81-46a4-a861-85ccaed47df7",
+    "id": "ad418653-7fca-4866-b7ad-1e6b7d56aca8",
     "type": "lvl2",
     "url": "/docs/form/input#usage",
     "hierarchy": {
@@ -1589,7 +1589,7 @@
   },
   {
     "content": "Changing the size of the Input",
-    "id": "ae6fdd9b-c0c9-48d7-932c-000bd520f115",
+    "id": "058260be-8ed2-47ab-a551-e558fdc05cdc",
     "type": "lvl3",
     "url": "/docs/form/input#changing-the-size-of-the-input",
     "hierarchy": {
@@ -1600,7 +1600,7 @@
   },
   {
     "content": "Changing the appearance of the input",
-    "id": "be01dd87-2a96-4ecc-8904-0871c02fbc21",
+    "id": "894e94fe-e6d7-41c6-b6df-05a48deb79ab",
     "type": "lvl3",
     "url": "/docs/form/input#changing-the-appearance-of-the-input",
     "hierarchy": {
@@ -1611,7 +1611,7 @@
   },
   {
     "content": "Left and Right Addons",
-    "id": "59f843b1-f501-4315-91b2-089df6177217",
+    "id": "1280f6c7-6051-4c7d-8074-15d263971fcb",
     "type": "lvl3",
     "url": "/docs/form/input#left-and-right-addons",
     "hierarchy": {
@@ -1622,7 +1622,7 @@
   },
   {
     "content": "Add elements inside Input",
-    "id": "72369877-0e79-4e5d-8215-d76e91be70c9",
+    "id": "40650c09-d3bb-459a-8efa-5bbbd3d0871a",
     "type": "lvl3",
     "url": "/docs/form/input#add-elements-inside-input",
     "hierarchy": {
@@ -1633,7 +1633,7 @@
   },
   {
     "content": "Password Input Example",
-    "id": "6d2452d3-b094-4956-a177-bcc872449472",
+    "id": "d2071c0c-76d2-452f-8652-9acdaba05307",
     "type": "lvl3",
     "url": "/docs/form/input#password-input-example",
     "hierarchy": {
@@ -1644,7 +1644,7 @@
   },
   {
     "content": "Controlled Input",
-    "id": "f605115b-a268-410b-98da-212559040226",
+    "id": "b279da70-1c88-4ae6-9897-dadf998ec954",
     "type": "lvl3",
     "url": "/docs/form/input#controlled-input",
     "hierarchy": {
@@ -1655,7 +1655,7 @@
   },
   {
     "content": "Changing the focus and error border colors",
-    "id": "e2eb1c1c-52c0-421c-ab4e-b46bc759991d",
+    "id": "87fb3a46-7cc3-4c66-804c-ddd40a0a735f",
     "type": "lvl3",
     "url": "/docs/form/input#changing-the-focus-and-error-border-colors",
     "hierarchy": {
@@ -1666,7 +1666,7 @@
   },
   {
     "content": "Props",
-    "id": "9493074b-6fc0-48dd-b984-341bcad67e77",
+    "id": "89367b32-064b-4075-978e-013aae9337ad",
     "type": "lvl2",
     "url": "/docs/form/input#props",
     "hierarchy": {
@@ -1677,14 +1677,14 @@
   },
   {
     "content": "Chakra UI Switch - Horizon UI",
-    "id": "f257462b-cdd2-448d-9963-bd85551432c0",
+    "id": "93f82450-6911-41db-9325-43aa72fdcb93",
     "type": "lvl1",
     "url": "/docs/form/switch",
     "hierarchy": { "lvl1": "Chakra UI Switch - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "a8a80d56-44b1-45c4-8007-0ee05d144064",
+    "id": "4046337a-5899-4631-912d-cff5c77b7c7e",
     "type": "lvl2",
     "url": "/docs/form/switch#import",
     "hierarchy": {
@@ -1695,7 +1695,7 @@
   },
   {
     "content": "Usage",
-    "id": "4ec2fe03-8279-4c74-90bb-5e7e0d4ccb23",
+    "id": "9599a578-4c9f-4d5e-bf18-69870b7642a3",
     "type": "lvl2",
     "url": "/docs/form/switch#usage",
     "hierarchy": {
@@ -1706,7 +1706,7 @@
   },
   {
     "content": "Sizes",
-    "id": "08c85234-ae6e-48f8-b5a7-3609a588c669",
+    "id": "7d550382-f8b7-4e42-a910-ebece845c832",
     "type": "lvl2",
     "url": "/docs/form/switch#sizes",
     "hierarchy": {
@@ -1717,7 +1717,7 @@
   },
   {
     "content": "Switch background color",
-    "id": "58b76392-9518-4682-8912-911a4f46d498",
+    "id": "645c8b44-05ba-4e39-b871-29ab732ca5c8",
     "type": "lvl2",
     "url": "/docs/form/switch#switch-background-color",
     "hierarchy": {
@@ -1728,7 +1728,7 @@
   },
   {
     "content": "Props",
-    "id": "c1ebde84-46c6-4766-a5e4-62ff8b6abe73",
+    "id": "eeb96b8b-31c8-4e9f-8cbd-5f7ee298073f",
     "type": "lvl2",
     "url": "/docs/form/switch#props",
     "hierarchy": {
@@ -1739,14 +1739,14 @@
   },
   {
     "content": "Chakra UI useDisclosure - Horizon UI",
-    "id": "1a83ef69-b798-4dbd-b61d-72768cac9628",
+    "id": "c90ce25f-3c7b-4e9e-be45-a3037491ffe8",
     "type": "lvl1",
     "url": "/docs/hooks/use-disclosure",
     "hierarchy": { "lvl1": "Chakra UI useDisclosure - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "aea81577-642f-49a1-91d4-33a6b26a0866",
+    "id": "b2355f39-5082-40cd-93f5-a8530eb5fc06",
     "type": "lvl2",
     "url": "/docs/hooks/use-disclosure#import",
     "hierarchy": {
@@ -1757,7 +1757,7 @@
   },
   {
     "content": "Return value",
-    "id": "378d4806-2240-46bf-b9b2-8c8e30d4297c",
+    "id": "8d1af24a-c706-45e8-a577-8308cc20e526",
     "type": "lvl2",
     "url": "/docs/hooks/use-disclosure#return-value",
     "hierarchy": {
@@ -1768,7 +1768,7 @@
   },
   {
     "content": "Usage",
-    "id": "9ec17382-b1dd-4ded-9fca-a5500c10bfbb",
+    "id": "5435d5ef-16f1-4b40-979a-f7953971d275",
     "type": "lvl2",
     "url": "/docs/hooks/use-disclosure#usage",
     "hierarchy": {
@@ -1779,7 +1779,7 @@
   },
   {
     "content": "Parameters",
-    "id": "1fa70fac-2b07-4902-be91-d1967f488957",
+    "id": "e4363d8c-354a-4545-8693-b4e78d5d1927",
     "type": "lvl2",
     "url": "/docs/hooks/use-disclosure#parameters",
     "hierarchy": {
@@ -1790,14 +1790,14 @@
   },
   {
     "content": "Installation",
-    "id": "3b861fbf-4949-43d4-8b66-b9a5d68172b2",
+    "id": "3d0d62ee-87ac-4abd-9652-8efbf4aad787",
     "type": "lvl1",
     "url": "/docs/installation",
     "hierarchy": { "lvl1": "Installation" }
   },
   {
     "content": "Add custom theme (Optional)",
-    "id": "35e13907-7357-4b26-b3e5-43e0aecf8608",
+    "id": "5affd784-0924-4244-a24b-a80a3066ca52",
     "type": "lvl2",
     "url": "/docs/installation#add-custom-theme-optional",
     "hierarchy": {
@@ -1808,7 +1808,7 @@
   },
   {
     "content": "ChakraProvider Props",
-    "id": "cfc8817b-f03c-42d0-9d97-a84589416205",
+    "id": "68c17e34-a142-487b-a82d-fb3c6500d85e",
     "type": "lvl3",
     "url": "/docs/installation#chakraprovider-props",
     "hierarchy": {
@@ -1819,14 +1819,14 @@
   },
   {
     "content": "Horizon UI - Trendiest Chakra UI Dashboard",
-    "id": "bfb30cff-a468-4869-9ffd-7d145878cb64",
+    "id": "5b571073-e2d9-4765-93e2-813b8e04ec09",
     "type": "lvl1",
     "url": "/docs/introduction",
     "hierarchy": { "lvl1": "Horizon UI - Trendiest Chakra UI Dashboard" }
   },
   {
     "content": "Introduction",
-    "id": "b7d6572f-eebe-4494-984f-04aeee182fdc",
+    "id": "4a2f3371-b4d5-4c7b-a61c-b5bc2e841c7a",
     "type": "lvl2",
     "url": "/docs/introduction#introduction",
     "hierarchy": {
@@ -1837,7 +1837,7 @@
   },
   {
     "content": "Quick Start",
-    "id": "0ba0ace5-c26d-42cb-bcdb-7dee8f80b4f3",
+    "id": "72f84663-b8fc-4e0c-98b2-586fbcade8f5",
     "type": "lvl2",
     "url": "/docs/introduction#quick-start",
     "hierarchy": {
@@ -1848,7 +1848,7 @@
   },
   {
     "content": "Upgrade to PRO Version",
-    "id": "45234b07-0ac9-427c-aed7-6f8041556f25",
+    "id": "51c81f29-db7a-4f3b-8448-906a14af49ec",
     "type": "lvl2",
     "url": "/docs/introduction#upgrade-to-pro-version",
     "hierarchy": {
@@ -1859,14 +1859,14 @@
   },
   {
     "content": "Chakra UI Box - Horizon UI",
-    "id": "df81a37e-b269-4a50-b94b-7f2936a7f820",
+    "id": "34ac58c4-d12b-4886-b044-b81641c0812a",
     "type": "lvl1",
     "url": "/docs/layout/box",
     "hierarchy": { "lvl1": "Chakra UI Box - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "65dbabc1-5f89-4f48-bd91-56c60223fb7b",
+    "id": "1424f783-9b9b-45ce-a338-4eac0b6a6ec2",
     "type": "lvl2",
     "url": "/docs/layout/box#import",
     "hierarchy": {
@@ -1877,7 +1877,7 @@
   },
   {
     "content": "Usage",
-    "id": "fa378130-200c-483b-a6db-97b237fd43c0",
+    "id": "3f0e49e4-cf88-46e1-b04a-6ee7576a4dc0",
     "type": "lvl2",
     "url": "/docs/layout/box#usage",
     "hierarchy": {
@@ -1888,7 +1888,7 @@
   },
   {
     "content": "Usage",
-    "id": "ea99fd96-de19-46e8-b5d3-6cbd8e95d1f3",
+    "id": "7666c503-10d4-43ec-9040-b7b4a2e0284a",
     "type": "lvl3",
     "url": "/docs/layout/box#usage-1",
     "hierarchy": {
@@ -1899,7 +1899,7 @@
   },
   {
     "content": "as prop",
-    "id": "9fa9799e-1af9-4a12-8a69-dadb72ec7b8a",
+    "id": "85fa9700-af74-49e7-a2ba-069816e719ac",
     "type": "lvl3",
     "url": "/docs/layout/box#as-prop",
     "hierarchy": {
@@ -1910,14 +1910,14 @@
   },
   {
     "content": "Chakra UI Cards - Horizon UI",
-    "id": "e78405d4-0649-4249-a9a7-465a821a4779",
+    "id": "08ba460c-aa93-45b3-ade0-7ff3f0ecfdd7",
     "type": "lvl1",
     "url": "/docs/layout/cards",
     "hierarchy": { "lvl1": "Chakra UI Cards - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "36361290-391b-4ba7-aeab-f41219bfe9ff",
+    "id": "dc5fcdaa-1629-4c1a-8609-ddc9d88ab472",
     "type": "lvl2",
     "url": "/docs/layout/cards#import",
     "hierarchy": {
@@ -1928,7 +1928,7 @@
   },
   {
     "content": "Usage",
-    "id": "7bce0890-0e14-46d3-b413-5aeb53044de9",
+    "id": "7a12f312-e03d-474d-94e8-38b4d0e81290",
     "type": "lvl3",
     "url": "/docs/layout/cards#usage",
     "hierarchy": {
@@ -1939,21 +1939,21 @@
   },
   {
     "content": "Chakra UI Fixed Plugin - Horizon UI",
-    "id": "c4353c69-1b8c-4f8c-a319-ff3ec4edd4a3",
+    "id": "c3714864-1e29-4d0a-ac17-8ee42de2f739",
     "type": "lvl1",
     "url": "/docs/layout/fixed-plugin",
     "hierarchy": { "lvl1": "Chakra UI Fixed Plugin - Horizon UI" }
   },
   {
     "content": "Chakra UI Flex - Horizon UI",
-    "id": "10b97d63-f74b-44d2-a53d-e3ae3bf126a9",
+    "id": "56bad21e-fd23-4735-ac09-471e9255a0da",
     "type": "lvl1",
     "url": "/docs/layout/flex",
     "hierarchy": { "lvl1": "Chakra UI Flex - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "716a8e4a-9d30-4938-91f7-9adc6366657f",
+    "id": "99d55069-7f46-46ed-be5b-eed1778acda6",
     "type": "lvl2",
     "url": "/docs/layout/flex#import",
     "hierarchy": {
@@ -1964,7 +1964,7 @@
   },
   {
     "content": "Usage",
-    "id": "9a27858d-a1d6-46a6-aa98-bd1560d456ba",
+    "id": "cc6881ff-aaef-4e82-b9f0-4d9cdc4a36da",
     "type": "lvl2",
     "url": "/docs/layout/flex#usage",
     "hierarchy": {
@@ -1975,7 +1975,7 @@
   },
   {
     "content": "Using the Spacer",
-    "id": "229c97e5-9db8-4bb6-bb3e-3affc0526895",
+    "id": "e9ca06db-3819-4a3c-a5c6-5a407511e409",
     "type": "lvl3",
     "url": "/docs/layout/flex#using-the-spacer",
     "hierarchy": {
@@ -1986,7 +1986,7 @@
   },
   {
     "content": "Flex and Spacer vs Grid vs Stack",
-    "id": "f8f29448-da52-45e2-8f1c-e5f658ba4c94",
+    "id": "2b58574e-7d3b-4c67-a931-4c187ad9394b",
     "type": "lvl3",
     "url": "/docs/layout/flex#flex-and-spacer-vs-grid-vs-stack",
     "hierarchy": {
@@ -1997,7 +1997,7 @@
   },
   {
     "content": "Props",
-    "id": "a0f63324-213a-452b-b568-8f9678ddfe4f",
+    "id": "0d8ea523-430e-4fff-a9b2-e93f446d52d8",
     "type": "lvl2",
     "url": "/docs/layout/flex#props",
     "hierarchy": {
@@ -2008,14 +2008,14 @@
   },
   {
     "content": "Chakra UI Grid - Horizon UI",
-    "id": "d1d0016f-20a5-4b88-b10c-bbb37803338b",
+    "id": "b28d1109-2106-46da-8045-0d249d292f1d",
     "type": "lvl1",
     "url": "/docs/layout/grid",
     "hierarchy": { "lvl1": "Chakra UI Grid - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "8cf7dbd9-0456-4273-9fb7-a263f4861540",
+    "id": "da31ed2d-83f5-4779-abc7-2b36aca2c3ff",
     "type": "lvl2",
     "url": "/docs/layout/grid#import",
     "hierarchy": {
@@ -2026,7 +2026,7 @@
   },
   {
     "content": "Template columns",
-    "id": "df5aac4e-44ff-40c0-9613-5bde3ad092d9",
+    "id": "9cff38f9-cfe8-4c27-8162-5d97cad5998e",
     "type": "lvl2",
     "url": "/docs/layout/grid#template-columns",
     "hierarchy": {
@@ -2037,7 +2037,7 @@
   },
   {
     "content": "Spanning columns",
-    "id": "05af9f83-1753-4695-9fae-5fb26eb829de",
+    "id": "62a27017-9874-4d09-9a87-093a057dd70d",
     "type": "lvl2",
     "url": "/docs/layout/grid#spanning-columns",
     "hierarchy": {
@@ -2048,7 +2048,7 @@
   },
   {
     "content": "Starting and ending lines",
-    "id": "bacb0ad3-05fc-45f3-b8c1-f187bcd6e86f",
+    "id": "a6049ea7-dc46-47b0-90ba-28ff930e68af",
     "type": "lvl2",
     "url": "/docs/layout/grid#starting-and-ending-lines",
     "hierarchy": {
@@ -2059,7 +2059,7 @@
   },
   {
     "content": "Props",
-    "id": "6a473ebd-3aa4-4f2b-b940-0da9343e8b20",
+    "id": "fe13be34-c6ea-453d-ad71-420787add7af",
     "type": "lvl2",
     "url": "/docs/layout/grid#props",
     "hierarchy": {
@@ -2070,7 +2070,7 @@
   },
   {
     "content": "Grid Props",
-    "id": "77d30385-ed45-4dc4-9d06-3d58fd7dc140",
+    "id": "d3cdd277-4fe4-4165-88a1-5017ebc56d18",
     "type": "lvl3",
     "url": "/docs/layout/grid#grid-props",
     "hierarchy": {
@@ -2081,7 +2081,7 @@
   },
   {
     "content": "GridItem Props",
-    "id": "9a8788e5-3cf7-4162-b45f-c57997d7b7a6",
+    "id": "e6b823ea-d942-4f6b-828c-2d4d979f2de0",
     "type": "lvl3",
     "url": "/docs/layout/grid#griditem-props",
     "hierarchy": {
@@ -2092,14 +2092,14 @@
   },
   {
     "content": "Chakra UI Separator - Horizon UI",
-    "id": "c65b731f-2579-4162-a467-d7605be4eca9",
+    "id": "63784431-46e5-422e-88ec-aa1c2c1ab687",
     "type": "lvl1",
     "url": "/docs/layout/separator",
     "hierarchy": { "lvl1": "Chakra UI Separator - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "4e67091f-40d8-45d3-924a-63ea12744325",
+    "id": "421e282f-6986-4034-bc28-a62648d94ca9",
     "type": "lvl2",
     "url": "/docs/layout/separator#import",
     "hierarchy": {
@@ -2110,7 +2110,7 @@
   },
   {
     "content": "Usage - HSeparator",
-    "id": "881b9377-d478-4b57-9d95-c90a5f4f2270",
+    "id": "c1733b9f-8315-4a69-aa29-436d66f3a1a3",
     "type": "lvl3",
     "url": "/docs/layout/separator#usage---hseparator",
     "hierarchy": {
@@ -2121,7 +2121,7 @@
   },
   {
     "content": "Usage - VSeparator",
-    "id": "7bf8ef6e-7bf5-4d7d-8656-4e65fbef0f9d",
+    "id": "f9458d66-87c5-4d50-b040-89cecb04ba8b",
     "type": "lvl3",
     "url": "/docs/layout/separator#usage---vseparator",
     "hierarchy": {
@@ -2132,14 +2132,14 @@
   },
   {
     "content": "Chakra UI SimpleGrid - Horizon UI",
-    "id": "5f0ff1cc-fdfa-44d0-ae9c-04109f589249",
+    "id": "7461d8b5-44aa-43c7-bedf-878c6db7e78f",
     "type": "lvl1",
     "url": "/docs/layout/simple-grid",
     "hierarchy": { "lvl1": "Chakra UI SimpleGrid - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "c8d618c2-abce-4637-913d-509e31785a8a",
+    "id": "34cee75a-3f7c-413f-b406-0b5e8d4dc3a7",
     "type": "lvl2",
     "url": "/docs/layout/simple-grid#import",
     "hierarchy": {
@@ -2150,7 +2150,7 @@
   },
   {
     "content": "Usage",
-    "id": "193ee0cc-caf2-4162-b754-e38a7753a2da",
+    "id": "94e3052c-c1d3-4ce3-9102-86d6090e251c",
     "type": "lvl2",
     "url": "/docs/layout/simple-grid#usage",
     "hierarchy": {
@@ -2161,7 +2161,7 @@
   },
   {
     "content": "Auto-responsive grid",
-    "id": "1fe08e67-27c4-496d-813b-64914abbcbcd",
+    "id": "ea1966b2-2529-47ed-b120-9db3c2817ede",
     "type": "lvl3",
     "url": "/docs/layout/simple-grid#auto-responsive-grid",
     "hierarchy": {
@@ -2172,7 +2172,7 @@
   },
   {
     "content": "Changing the spacing for columns and rows",
-    "id": "da99cbc5-5e8f-4afe-b10c-5dcc54f70b8e",
+    "id": "5adb31d5-251e-4108-8283-8681dc05f1ca",
     "type": "lvl3",
     "url": "/docs/layout/simple-grid#changing-the-spacing-for-columns-and-rows",
     "hierarchy": {
@@ -2183,7 +2183,7 @@
   },
   {
     "content": "Props",
-    "id": "b8657efa-281f-430d-be8d-633b6a848032",
+    "id": "d3ab8fcc-0ba3-4b06-8584-d296b339402a",
     "type": "lvl2",
     "url": "/docs/layout/simple-grid#props",
     "hierarchy": {
@@ -2194,14 +2194,14 @@
   },
   {
     "content": "Chakra UI Stack - Horizon UI",
-    "id": "f6599d6f-6981-48b3-bb56-4ad288aeb89b",
+    "id": "bbdc47de-f41d-4d48-98de-e29494322ebd",
     "type": "lvl1",
     "url": "/docs/layout/stack",
     "hierarchy": { "lvl1": "Chakra UI Stack - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "83c14026-5f28-4a62-9201-955cdad95d42",
+    "id": "bb5b6664-ea3d-44c5-9cc7-521884d5f3a9",
     "type": "lvl2",
     "url": "/docs/layout/stack#import",
     "hierarchy": {
@@ -2212,7 +2212,7 @@
   },
   {
     "content": "Usage",
-    "id": "ca811d9a-9d84-4a2d-8066-68641a408535",
+    "id": "efa9a706-302f-4551-bb8b-72149b2a1a63",
     "type": "lvl2",
     "url": "/docs/layout/stack#usage",
     "hierarchy": {
@@ -2223,7 +2223,7 @@
   },
   {
     "content": "Responsive direction",
-    "id": "1cd2936f-b254-46c2-8da5-22311425c670",
+    "id": "5a347727-a6fe-4d19-a96c-e675b392493d",
     "type": "lvl3",
     "url": "/docs/layout/stack#responsive-direction",
     "hierarchy": {
@@ -2234,7 +2234,7 @@
   },
   {
     "content": "Adding dividers",
-    "id": "18acd152-4f0e-4a24-bc20-615092463ce0",
+    "id": "b30680a3-cd59-4bb0-a42a-e6ba9c0f5d40",
     "type": "lvl3",
     "url": "/docs/layout/stack#adding-dividers",
     "hierarchy": {
@@ -2245,7 +2245,7 @@
   },
   {
     "content": "Example",
-    "id": "6c084f03-5d2d-41f3-a0b9-926fe4f4c5e9",
+    "id": "f55850a2-8eff-44a9-947c-093f8b2a9a20",
     "type": "lvl3",
     "url": "/docs/layout/stack#example",
     "hierarchy": {
@@ -2256,7 +2256,7 @@
   },
   {
     "content": "Stack items horizontally",
-    "id": "47b32418-79c2-4503-b83a-81e206d1d03f",
+    "id": "d62f55aa-2cea-4597-ab89-12df7e225b30",
     "type": "lvl3",
     "url": "/docs/layout/stack#stack-items-horizontally",
     "hierarchy": {
@@ -2267,7 +2267,7 @@
   },
   {
     "content": "Notes on Stack vs Flex",
-    "id": "833e93c2-ea64-4e35-aded-c8548be2fa67",
+    "id": "4bc01d37-82b7-46a4-b8c5-ff9b9d596173",
     "type": "lvl3",
     "url": "/docs/layout/stack#notes-on-stack-vs-flex",
     "hierarchy": {
@@ -2278,7 +2278,7 @@
   },
   {
     "content": "Props",
-    "id": "06c8208a-7172-4e9a-9229-5e29abb88b87",
+    "id": "9460d707-e6ae-4e15-9e93-76b7c2d79c67",
     "type": "lvl2",
     "url": "/docs/layout/stack#props",
     "hierarchy": {
@@ -2289,14 +2289,14 @@
   },
   {
     "content": "Chakra UI Avatar - Horizon UI",
-    "id": "162bed00-b8b0-4a9d-8bf7-983366a98560",
+    "id": "bf8f6765-e0e9-41a6-a534-f23e4e3bf741",
     "type": "lvl1",
     "url": "/docs/media-and-icons/avatar",
     "hierarchy": { "lvl1": "Chakra UI Avatar - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "81467c0a-e3b2-4850-b412-906af7cd213e",
+    "id": "517da676-8521-411d-9035-6e39a7efeadb",
     "type": "lvl2",
     "url": "/docs/media-and-icons/avatar#import",
     "hierarchy": {
@@ -2307,7 +2307,7 @@
   },
   {
     "content": "Usage",
-    "id": "c77b4853-95ab-48d0-bf4b-e9ec0729e390",
+    "id": "4cecd9f2-a228-4570-805d-3f8cc5043c8d",
     "type": "lvl2",
     "url": "/docs/media-and-icons/avatar#usage",
     "hierarchy": {
@@ -2318,7 +2318,7 @@
   },
   {
     "content": "Avatar Sizes",
-    "id": "7f40fd67-7728-4b27-9f0d-e2a29df65969",
+    "id": "f470bb71-0eb1-4c29-8817-e6bf32e6afcb",
     "type": "lvl3",
     "url": "/docs/media-and-icons/avatar#avatar-sizes",
     "hierarchy": {
@@ -2329,7 +2329,7 @@
   },
   {
     "content": "Avatar Fallbacks",
-    "id": "c69dffd7-488d-40f8-bf36-2c8976efce41",
+    "id": "7eb3650c-b9bc-41ec-bf1f-af984b474bb9",
     "type": "lvl3",
     "url": "/docs/media-and-icons/avatar#avatar-fallbacks",
     "hierarchy": {
@@ -2340,7 +2340,7 @@
   },
   {
     "content": "Customize the fallback avatar",
-    "id": "d050816d-5f81-473e-bfe4-05165b8a8c30",
+    "id": "08157772-d6aa-49d2-9f1b-1505fafc658d",
     "type": "lvl3",
     "url": "/docs/media-and-icons/avatar#customize-the-fallback-avatar",
     "hierarchy": {
@@ -2351,7 +2351,7 @@
   },
   {
     "content": "Avatar with badge",
-    "id": "991cd224-5ef4-4585-8659-9f9affb6ba6e",
+    "id": "a9d054e9-584b-4fef-8982-5f3ea0935d01",
     "type": "lvl3",
     "url": "/docs/media-and-icons/avatar#avatar-with-badge",
     "hierarchy": {
@@ -2362,7 +2362,7 @@
   },
   {
     "content": "AvatarGroup",
-    "id": "2c52fa6b-95ed-458d-90fa-5d166f305797",
+    "id": "19c60376-2f45-434a-8ea9-c7825d4b1318",
     "type": "lvl3",
     "url": "/docs/media-and-icons/avatar#avatargroup",
     "hierarchy": {
@@ -2373,7 +2373,7 @@
   },
   {
     "content": "Changing the initials logic",
-    "id": "19c197d4-a6f3-4882-91df-bcce79cb2128",
+    "id": "ae3bcb70-6e76-410c-a327-4f9f2296a185",
     "type": "lvl3",
     "url": "/docs/media-and-icons/avatar#changing-the-initials-logic",
     "hierarchy": {
@@ -2384,7 +2384,7 @@
   },
   {
     "content": "Props",
-    "id": "6be22fd9-95d1-407a-ae3a-a7ef9d524bef",
+    "id": "1d028044-37fd-46e4-b129-0d17972c6a36",
     "type": "lvl2",
     "url": "/docs/media-and-icons/avatar#props",
     "hierarchy": {
@@ -2395,7 +2395,7 @@
   },
   {
     "content": "Avatar Props",
-    "id": "d4d0740a-4052-4da6-bc67-7522e20e3a14",
+    "id": "5fda287a-21f3-4ab1-862a-abd57cfc1bd4",
     "type": "lvl3",
     "url": "/docs/media-and-icons/avatar#avatar-props",
     "hierarchy": {
@@ -2406,7 +2406,7 @@
   },
   {
     "content": "Avatar Group Props",
-    "id": "ff2ffc16-6d45-42b7-90be-e9b3cb627e35",
+    "id": "9d18399e-9cf0-4c94-9946-b68fe6100597",
     "type": "lvl3",
     "url": "/docs/media-and-icons/avatar#avatar-group-props",
     "hierarchy": {
@@ -2417,14 +2417,14 @@
   },
   {
     "content": "Chakra UI Icon - Horizon UI",
-    "id": "bfe14f9f-5b04-4f4e-9722-d23676e3e199",
+    "id": "1ff227be-b6ee-4a6f-b984-de88acd3212c",
     "type": "lvl1",
     "url": "/docs/media-and-icons/icon",
     "hierarchy": { "lvl1": "Chakra UI Icon - Horizon UI" }
   },
   {
     "content": "Using Chakra UI icons",
-    "id": "23fb36b3-5150-41b0-aeab-d58958cab846",
+    "id": "259a89db-46d6-40cc-8e1b-62b0fea6241d",
     "type": "lvl2",
     "url": "/docs/media-and-icons/icon#using-chakra-ui-icons",
     "hierarchy": {
@@ -2435,7 +2435,7 @@
   },
   {
     "content": "Installation",
-    "id": "0969626d-7d41-474c-8ca5-d56e75a38ca3",
+    "id": "60d56ccd-357a-4006-a6ab-c5d5d9cbb06d",
     "type": "lvl3",
     "url": "/docs/media-and-icons/icon#installation",
     "hierarchy": {
@@ -2446,7 +2446,7 @@
   },
   {
     "content": "Usage",
-    "id": "1bc513ee-14a0-4ddf-8a67-9dba9fcf2616",
+    "id": "e96e5bc6-e247-4b5a-afc3-817a5bba15fa",
     "type": "lvl3",
     "url": "/docs/media-and-icons/icon#usage",
     "hierarchy": {
@@ -2457,7 +2457,7 @@
   },
   {
     "content": "All icons",
-    "id": "287a7ce0-6ce6-4e66-9b21-90d77c220df2",
+    "id": "b9867fe1-b727-4f3e-9445-d4d095052c17",
     "type": "lvl3",
     "url": "/docs/media-and-icons/icon#all-icons",
     "hierarchy": {
@@ -2468,7 +2468,7 @@
   },
   {
     "content": "Using a third-party icon library",
-    "id": "4c5d0a94-7c7d-4f33-b768-92811c2d5ada",
+    "id": "53da4338-5b4d-431c-ad14-a34fe3653f6d",
     "type": "lvl2",
     "url": "/docs/media-and-icons/icon#using-a-third-party-icon-library",
     "hierarchy": {
@@ -2479,7 +2479,7 @@
   },
   {
     "content": "Some examples",
-    "id": "a519d9de-2fac-4264-b02a-6a794da41a9c",
+    "id": "2c7361d3-29ed-41b6-ac96-2d3e55afe3fb",
     "type": "lvl3",
     "url": "/docs/media-and-icons/icon#some-examples",
     "hierarchy": {
@@ -2490,7 +2490,7 @@
   },
   {
     "content": "Creating your custom icons",
-    "id": "9dd94685-b26a-4331-bac7-c0ab96b9d578",
+    "id": "9f56ac31-4553-4155-a3c7-1b37d60a6186",
     "type": "lvl2",
     "url": "/docs/media-and-icons/icon#creating-your-custom-icons",
     "hierarchy": {
@@ -2501,7 +2501,7 @@
   },
   {
     "content": "Using the `Icon` component",
-    "id": "c70a0e47-5f8d-4f82-b054-48397c39646e",
+    "id": "588f1b3a-5daa-489d-9403-c5000fd87367",
     "type": "lvl3",
     "url": "/docs/media-and-icons/icon#using-the-icon-component",
     "hierarchy": {
@@ -2512,7 +2512,7 @@
   },
   {
     "content": "Using the `createIcon` function",
-    "id": "201bd0a6-c8b5-4728-87c3-7589f3367923",
+    "id": "86faefbc-00e7-46bf-a429-a3c7347bf7ce",
     "type": "lvl3",
     "url": "/docs/media-and-icons/icon#using-the-createicon-function",
     "hierarchy": {
@@ -2523,7 +2523,7 @@
   },
   {
     "content": "Tips for generating your own icons",
-    "id": "90ad571f-d315-4230-aece-18db9a7c9354",
+    "id": "502d2d66-daad-4a4b-9df5-f1fdbd6ec535",
     "type": "lvl3",
     "url": "/docs/media-and-icons/icon#tips-for-generating-your-own-icons",
     "hierarchy": {
@@ -2534,7 +2534,7 @@
   },
   {
     "content": "Custom Icons",
-    "id": "6fca2d6b-eed6-416f-80df-ab567542e9ad",
+    "id": "42529987-4041-408c-b5f6-3a18a88b8f18",
     "type": "lvl3",
     "url": "/docs/media-and-icons/icon#custom-icons",
     "hierarchy": {
@@ -2545,7 +2545,7 @@
   },
   {
     "content": "Fallback Icon",
-    "id": "082db386-3703-44b7-89c1-d6ddd90a73f4",
+    "id": "1cc44c27-96b8-4d4f-bc69-6819c1698ea2",
     "type": "lvl2",
     "url": "/docs/media-and-icons/icon#fallback-icon",
     "hierarchy": {
@@ -2556,7 +2556,7 @@
   },
   {
     "content": "Props",
-    "id": "c0acff86-c175-4232-8053-96ed66b38252",
+    "id": "6bf3cec0-3058-40db-8b94-eb32189cbe71",
     "type": "lvl2",
     "url": "/docs/media-and-icons/icon#props",
     "hierarchy": {
@@ -2567,7 +2567,7 @@
   },
   {
     "content": "`Icon` props",
-    "id": "462c122a-c194-4975-a32d-4bd70964dfdd",
+    "id": "05b22334-5481-40a1-88c8-abb5c96e56ca",
     "type": "lvl3",
     "url": "/docs/media-and-icons/icon#icon-props",
     "hierarchy": {
@@ -2578,7 +2578,7 @@
   },
   {
     "content": "`createIcon` options",
-    "id": "f527e145-bb0c-48d9-86af-975f2ad51674",
+    "id": "6b4453f1-4f99-4be5-b7b2-cff035f66a72",
     "type": "lvl2",
     "url": "/docs/media-and-icons/icon#createicon-options",
     "hierarchy": {
@@ -2589,14 +2589,14 @@
   },
   {
     "content": "Chakra UI Image - Horizon UI",
-    "id": "d05a7dfe-4e00-4ef7-baef-5dd8156bec1a",
+    "id": "306ef979-422a-42b1-b797-f5c82efa6b9d",
     "type": "lvl1",
     "url": "/docs/media-and-icons/image",
     "hierarchy": { "lvl1": "Chakra UI Image - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "3bda2896-13c3-4e50-867a-37eef872ba45",
+    "id": "7a0aa476-9f5f-471a-b315-f0f71d39fb8c",
     "type": "lvl2",
     "url": "/docs/media-and-icons/image#import",
     "hierarchy": {
@@ -2607,7 +2607,7 @@
   },
   {
     "content": "Usage",
-    "id": "f546e926-6335-4404-995c-85c01ffd1e33",
+    "id": "bd727eef-5d29-4e29-ad34-6b993e3b28ec",
     "type": "lvl2",
     "url": "/docs/media-and-icons/image#usage",
     "hierarchy": {
@@ -2618,7 +2618,7 @@
   },
   {
     "content": "Size",
-    "id": "2c4e9722-8430-4dfd-b665-c2cb3d306d8b",
+    "id": "b5ceb9fd-aef6-48b6-9ae2-295c8c70a90f",
     "type": "lvl2",
     "url": "/docs/media-and-icons/image#size",
     "hierarchy": {
@@ -2629,7 +2629,7 @@
   },
   {
     "content": "Image with border radius",
-    "id": "5014f6d3-c3c8-4d4a-91fd-556fdb61e433",
+    "id": "696fafee-fcb0-4479-92d2-e4ef2c8ccb6f",
     "type": "lvl2",
     "url": "/docs/media-and-icons/image#image-with-border-radius",
     "hierarchy": {
@@ -2640,7 +2640,7 @@
   },
   {
     "content": "Fallback support",
-    "id": "175a248f-3561-46ab-9e13-9d4a2c2ed9c3",
+    "id": "78d5f5ba-a34c-499c-b5bb-c89677ab36fd",
     "type": "lvl2",
     "url": "/docs/media-and-icons/image#fallback-support",
     "hierarchy": {
@@ -2651,7 +2651,7 @@
   },
   {
     "content": "Improvements from v1",
-    "id": "0ff1046f-1bee-463b-b548-e580b7a61a46",
+    "id": "4fa9b39c-e0a2-4ae3-9f71-7316b2a251c2",
     "type": "lvl3",
     "url": "/docs/media-and-icons/image#improvements-from-v1",
     "hierarchy": {
@@ -2662,7 +2662,7 @@
   },
   {
     "content": "Usage with SSR",
-    "id": "d0b6b227-e970-4c8d-9fc6-a5c5f6322028",
+    "id": "97d9413b-73fa-4bdb-a8ac-e48d379e6245",
     "type": "lvl2",
     "url": "/docs/media-and-icons/image#usage-with-ssr",
     "hierarchy": {
@@ -2673,7 +2673,7 @@
   },
   {
     "content": "Props",
-    "id": "302acd8b-ba1c-4d21-8ea4-3065e4490e87",
+    "id": "3e93baf7-8062-41e9-8298-78364f8346ed",
     "type": "lvl2",
     "url": "/docs/media-and-icons/image#props",
     "hierarchy": {
@@ -2684,14 +2684,14 @@
   },
   {
     "content": "Chakra UI Breadcrumb - Horizon UI",
-    "id": "b0570860-3a84-4498-9407-184d1c1a0289",
+    "id": "1792c2b3-ba30-461d-97b9-6d43566f7909",
     "type": "lvl1",
     "url": "/docs/navigation/breadcrumb",
     "hierarchy": { "lvl1": "Chakra UI Breadcrumb - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "cdff47e1-57bf-4a98-91f3-cbd826b7f7ea",
+    "id": "ce7b7793-2715-4002-bcee-5a822c86a81e",
     "type": "lvl2",
     "url": "/docs/navigation/breadcrumb#import",
     "hierarchy": {
@@ -2702,7 +2702,7 @@
   },
   {
     "content": "Usage",
-    "id": "5b0ed5fe-643b-46c3-b3ac-bdefa080fa76",
+    "id": "958ce71c-8011-483f-8388-f86a71049dd3",
     "type": "lvl2",
     "url": "/docs/navigation/breadcrumb#usage",
     "hierarchy": {
@@ -2713,7 +2713,7 @@
   },
   {
     "content": "Separators",
-    "id": "2c9c38ed-45a9-4604-9642-c89762c8ebb6",
+    "id": "20fd13ea-ee2f-4c5f-b783-7c67241812a6",
     "type": "lvl3",
     "url": "/docs/navigation/breadcrumb#separators",
     "hierarchy": {
@@ -2724,7 +2724,7 @@
   },
   {
     "content": "Using an icon as the separator",
-    "id": "430a8ebf-e009-4d75-ab98-ff7b4ac41fad",
+    "id": "2050f277-ba13-4ad0-b039-dce4437540e3",
     "type": "lvl3",
     "url": "/docs/navigation/breadcrumb#using-an-icon-as-the-separator",
     "hierarchy": {
@@ -2735,7 +2735,7 @@
   },
   {
     "content": "Composition",
-    "id": "917a0197-083f-43ed-93df-c4772a7d3e0c",
+    "id": "00a8be91-922c-4222-80aa-e90db1e28ead",
     "type": "lvl2",
     "url": "/docs/navigation/breadcrumb#composition",
     "hierarchy": {
@@ -2746,7 +2746,7 @@
   },
   {
     "content": "Usage with Routing Library",
-    "id": "ba6d2cb2-c159-4779-9f1c-ba2d1295c49e",
+    "id": "355d3d84-3779-4546-abd3-f4f6c815f64f",
     "type": "lvl2",
     "url": "/docs/navigation/breadcrumb#usage-with-routing-library",
     "hierarchy": {
@@ -2757,7 +2757,7 @@
   },
   {
     "content": "Accessibility",
-    "id": "4c9b45bb-16c5-4230-a8ca-0340f79203d7",
+    "id": "26ed4a60-aa48-4c69-b7ca-db4fd92c9707",
     "type": "lvl2",
     "url": "/docs/navigation/breadcrumb#accessibility",
     "hierarchy": {
@@ -2768,7 +2768,7 @@
   },
   {
     "content": "Props",
-    "id": "4d355cfe-9981-4e14-8915-15f7ea333c90",
+    "id": "7edf0500-0791-401a-a6ee-2f557a018859",
     "type": "lvl2",
     "url": "/docs/navigation/breadcrumb#props",
     "hierarchy": {
@@ -2779,7 +2779,7 @@
   },
   {
     "content": "Breadcrumb Props",
-    "id": "fc1ef9d2-d15b-4166-8a11-0266923a0dd5",
+    "id": "e88ca76b-f92e-45c6-8293-ccd5332d1845",
     "type": "lvl3",
     "url": "/docs/navigation/breadcrumb#breadcrumb-props",
     "hierarchy": {
@@ -2790,7 +2790,7 @@
   },
   {
     "content": "BreadcrumbItem Props",
-    "id": "fba57e3e-f3b6-409c-979b-9ab09675f741",
+    "id": "5dd07198-3e13-4809-a283-e4e674f1f107",
     "type": "lvl3",
     "url": "/docs/navigation/breadcrumb#breadcrumbitem-props",
     "hierarchy": {
@@ -2801,7 +2801,7 @@
   },
   {
     "content": "BreadcrumbLink Props",
-    "id": "666244f6-968e-44f3-ad50-83a2b028fb42",
+    "id": "97ae0962-7e6d-4f45-8968-eed446a0b408",
     "type": "lvl3",
     "url": "/docs/navigation/breadcrumb#breadcrumblink-props",
     "hierarchy": {
@@ -2812,7 +2812,7 @@
   },
   {
     "content": "BreadcrumbSeparator Props",
-    "id": "bac083b0-5135-461f-bf95-ff649d88fa63",
+    "id": "749ce4e5-b7b9-474e-afe9-8c638703f340",
     "type": "lvl3",
     "url": "/docs/navigation/breadcrumb#breadcrumbseparator-props",
     "hierarchy": {
@@ -2823,14 +2823,14 @@
   },
   {
     "content": "Chakra UI Link - Horizon UI",
-    "id": "01bee9ae-2053-4dd4-8d92-f200f698a828",
+    "id": "44b964ac-9ff3-46aa-b961-1b27e234f48e",
     "type": "lvl1",
     "url": "/docs/navigation/link",
     "hierarchy": { "lvl1": "Chakra UI Link - Horizon UI" }
   },
   {
     "content": "Imports",
-    "id": "10e29124-cea3-4327-8cca-790e5c4cc247",
+    "id": "84269adc-d0e8-458d-9145-0d586b896a15",
     "type": "lvl2",
     "url": "/docs/navigation/link#imports",
     "hierarchy": {
@@ -2841,7 +2841,7 @@
   },
   {
     "content": "Usage",
-    "id": "cc12a45e-eec2-43c2-a204-0fae292995b9",
+    "id": "8ba9c1d4-1485-4e1c-b08a-171635134892",
     "type": "lvl2",
     "url": "/docs/navigation/link#usage",
     "hierarchy": {
@@ -2852,7 +2852,7 @@
   },
   {
     "content": "External Link",
-    "id": "c5831798-83f2-482e-9b5a-c62b31a3f96c",
+    "id": "404fbf38-5ee8-4111-82e2-520753a63367",
     "type": "lvl3",
     "url": "/docs/navigation/link#external-link",
     "hierarchy": {
@@ -2863,7 +2863,7 @@
   },
   {
     "content": "Link inline with text",
-    "id": "a0eb546c-fca9-4bf3-8637-419ef202c62f",
+    "id": "573559ad-b743-4b92-ad7e-1cfc71050d5c",
     "type": "lvl3",
     "url": "/docs/navigation/link#link-inline-with-text",
     "hierarchy": {
@@ -2874,7 +2874,7 @@
   },
   {
     "content": "Usage with Routing Library",
-    "id": "bba8bbc6-3c81-4746-b3c4-3815d8354ff8",
+    "id": "d0861cc3-b697-49e4-ac3e-147ae7279f2c",
     "type": "lvl2",
     "url": "/docs/navigation/link#usage-with-routing-library",
     "hierarchy": {
@@ -2885,7 +2885,7 @@
   },
   {
     "content": "Props",
-    "id": "af8602cd-9fe7-4688-aea2-73b7452df35b",
+    "id": "3a63fd07-f18b-4e0d-8682-6ef070db8e2c",
     "type": "lvl2",
     "url": "/docs/navigation/link#props",
     "hierarchy": {
@@ -2896,21 +2896,21 @@
   },
   {
     "content": "Chakra UI Navbar - Horizon UI",
-    "id": "7a87a425-dcdb-4919-ab73-c75973b58fad",
+    "id": "a0fa258c-df97-469b-b4ff-e4fcdf061ba0",
     "type": "lvl1",
     "url": "/docs/navigation/navbar",
     "hierarchy": { "lvl1": "Chakra UI Navbar - Horizon UI" }
   },
   {
     "content": "Chakra UI Sidebar - Horizon UI",
-    "id": "2c5a8b51-a954-4c52-b7e1-5a4cd833e67c",
+    "id": "fe583f34-1834-4af6-b046-8e5181320e46",
     "type": "lvl1",
     "url": "/docs/navigation/sidebar",
     "hierarchy": { "lvl1": "Chakra UI Sidebar - Horizon UI" }
   },
   {
     "content": "Example of code",
-    "id": "feb1aa08-ea1f-400e-b41a-39b09c53824e",
+    "id": "e1a61bd7-9cfb-46b0-bd37-0391f837b1ed",
     "type": "lvl2",
     "url": "/docs/navigation/sidebar#example-of-code",
     "hierarchy": {
@@ -2921,7 +2921,7 @@
   },
   {
     "content": "Props",
-    "id": "aa480c7d-559c-4843-a994-b09d1133c00c",
+    "id": "86fff394-fae6-425c-8dcb-388cf58e8036",
     "type": "lvl2",
     "url": "/docs/navigation/sidebar#props",
     "hierarchy": {
@@ -2932,14 +2932,14 @@
   },
   {
     "content": "Chakra UI Drawer - Horizon UI",
-    "id": "31ab345b-ac0f-4fd3-b0c2-e438201a1264",
+    "id": "c543fab1-26b6-49f8-bb1c-3c5f0ad884ab",
     "type": "lvl1",
     "url": "/docs/overlay/drawer",
     "hierarchy": { "lvl1": "Chakra UI Drawer - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "7198daba-6d60-407c-879f-44bf1483f353",
+    "id": "81d0daee-cbac-4243-8283-81153f4d204e",
     "type": "lvl2",
     "url": "/docs/overlay/drawer#import",
     "hierarchy": {
@@ -2950,7 +2950,7 @@
   },
   {
     "content": "Usage",
-    "id": "33adc110-7ccb-49c9-b0d9-2d6dc5e7ce7e",
+    "id": "e59a344b-238d-4e66-8f89-5289e59101e6",
     "type": "lvl2",
     "url": "/docs/overlay/drawer#usage",
     "hierarchy": {
@@ -2961,7 +2961,7 @@
   },
   {
     "content": "Basic Drawer",
-    "id": "1197632e-a809-4b75-b3a3-1800e01b1378",
+    "id": "7d626a5d-8e76-4f42-8d66-ffcf7af67616",
     "type": "lvl3",
     "url": "/docs/overlay/drawer#basic-drawer",
     "hierarchy": {
@@ -2972,7 +2972,7 @@
   },
   {
     "content": "Drawer placement",
-    "id": "de8a0d92-1322-4c41-b960-e960d842c101",
+    "id": "b80eea93-dd01-48ce-9414-72212afbc267",
     "type": "lvl3",
     "url": "/docs/overlay/drawer#drawer-placement",
     "hierarchy": {
@@ -2983,7 +2983,7 @@
   },
   {
     "content": "Focus on specific element",
-    "id": "894ac151-34e9-4866-bbf9-1b73bb03978d",
+    "id": "6d00556b-eb6c-4c6b-a6ea-a32d7dcebc29",
     "type": "lvl3",
     "url": "/docs/overlay/drawer#focus-on-specific-element",
     "hierarchy": {
@@ -2994,7 +2994,7 @@
   },
   {
     "content": "Drawer Widths",
-    "id": "7b1987eb-ee8c-4bfa-8573-612a050c0c89",
+    "id": "6b866f31-7ec0-49a4-b75b-2f77f892e790",
     "type": "lvl3",
     "url": "/docs/overlay/drawer#drawer-widths",
     "hierarchy": {
@@ -3005,7 +3005,7 @@
   },
   {
     "content": "Using a form in a Drawer",
-    "id": "4d49e5c9-d229-4d12-a6ba-fd698d1e3ffe",
+    "id": "06e3ab90-420b-410f-902e-96e2d90988e7",
     "type": "lvl3",
     "url": "/docs/overlay/drawer#using-a-form-in-a-drawer",
     "hierarchy": {
@@ -3016,7 +3016,7 @@
   },
   {
     "content": "Accessibility",
-    "id": "81f9bef7-6d66-4f59-b512-72f1ef079de2",
+    "id": "6a91ea97-99cf-4da4-9d77-eec205902957",
     "type": "lvl2",
     "url": "/docs/overlay/drawer#accessibility",
     "hierarchy": {
@@ -3027,7 +3027,7 @@
   },
   {
     "content": "Props",
-    "id": "eb7eed79-e287-4aef-9c6d-30edfc8d370a",
+    "id": "8892797b-4173-44d3-a55b-fcf751fc1cb6",
     "type": "lvl2",
     "url": "/docs/overlay/drawer#props",
     "hierarchy": {
@@ -3038,7 +3038,7 @@
   },
   {
     "content": "Drawer Props",
-    "id": "dc086ee8-c356-4d2a-b413-fe54fa40e116",
+    "id": "3a551973-91e9-4981-9b3c-f7d8b09ff99d",
     "type": "lvl3",
     "url": "/docs/overlay/drawer#drawer-props",
     "hierarchy": {
@@ -3049,7 +3049,7 @@
   },
   {
     "content": "Other components",
-    "id": "1830b04e-b6b2-4dc8-af68-60163a502d82",
+    "id": "0d6b8b2c-2a8c-44c5-851f-0b5232688954",
     "type": "lvl3",
     "url": "/docs/overlay/drawer#other-components",
     "hierarchy": {
@@ -3060,14 +3060,14 @@
   },
   {
     "content": "Chakra UI Menu - Horizon UI",
-    "id": "6b633a7e-f43c-4b2b-9298-3832b8f2a280",
+    "id": "db5f27b5-ea85-4b20-8228-d2ce58ed3884",
     "type": "lvl1",
     "url": "/docs/overlay/menu",
     "hierarchy": { "lvl1": "Chakra UI Menu - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "c8623d4d-6761-4d66-8201-e3bc10aea86e",
+    "id": "036eb9c1-dd99-4b68-af86-3fcea4ea04dc",
     "type": "lvl2",
     "url": "/docs/overlay/menu#import",
     "hierarchy": {
@@ -3078,7 +3078,7 @@
   },
   {
     "content": "Usage",
-    "id": "976eeac8-1351-4b62-8728-e31364828638",
+    "id": "7a6abcae-6997-4d17-909d-07dd34859ca0",
     "type": "lvl2",
     "url": "/docs/overlay/menu#usage",
     "hierarchy": {
@@ -3089,7 +3089,7 @@
   },
   {
     "content": "Accessing the internal state",
-    "id": "3924bec5-471a-4abe-a09b-e9351d3528b6",
+    "id": "15f37f70-9382-4b0e-bc6f-c7cff7f5f226",
     "type": "lvl3",
     "url": "/docs/overlay/menu#accessing-the-internal-state",
     "hierarchy": {
@@ -3100,7 +3100,7 @@
   },
   {
     "content": "Customizing the button",
-    "id": "7dc2a8cd-1842-4a21-8ee2-b554b56815bb",
+    "id": "368c9fc1-afa1-4cde-8fcf-5ba7c6aec9c0",
     "type": "lvl3",
     "url": "/docs/overlay/menu#customizing-the-button",
     "hierarchy": {
@@ -3111,7 +3111,7 @@
   },
   {
     "content": "Letter Navigation",
-    "id": "e2440bc0-ed80-47a8-9759-1d1642da7631",
+    "id": "dae7fb74-5964-46f6-a1ef-0cafa9ae8ab1",
     "type": "lvl3",
     "url": "/docs/overlay/menu#letter-navigation",
     "hierarchy": {
@@ -3122,7 +3122,7 @@
   },
   {
     "content": "Just another example",
-    "id": "1bd30221-71f9-41e5-8805-f002acdd2e25",
+    "id": "f39bfb71-5c52-4221-819c-3f785b895e0f",
     "type": "lvl3",
     "url": "/docs/overlay/menu#just-another-example",
     "hierarchy": {
@@ -3133,7 +3133,7 @@
   },
   {
     "content": "Adding icons and commands",
-    "id": "43241903-8fc2-4026-b269-825687a7aec0",
+    "id": "53d23db2-7b81-48fc-8e6b-0473b3b5bdfb",
     "type": "lvl3",
     "url": "/docs/overlay/menu#adding-icons-and-commands",
     "hierarchy": {
@@ -3144,7 +3144,7 @@
   },
   {
     "content": "Lazily mounting MenuItem",
-    "id": "6e842f68-0cbb-490e-906f-07a09732b469",
+    "id": "02235516-e1b4-461d-b724-a9d1a234ae4f",
     "type": "lvl3",
     "url": "/docs/overlay/menu#lazily-mounting-menuitem",
     "hierarchy": {
@@ -3155,7 +3155,7 @@
   },
   {
     "content": "Rendering menu in a portal",
-    "id": "7c1f4786-e5b8-4216-aef5-8f2f2eb216e8",
+    "id": "0444a0b9-5bd9-4bd1-9fa3-2fee0a24bd74",
     "type": "lvl3",
     "url": "/docs/overlay/menu#rendering-menu-in-a-portal",
     "hierarchy": {
@@ -3166,7 +3166,7 @@
   },
   {
     "content": "MenuGroup",
-    "id": "723717c9-235a-4f0c-a2b3-202bf3d0f2a8",
+    "id": "017cc417-09c0-4199-aa0d-01676ab8aecd",
     "type": "lvl3",
     "url": "/docs/overlay/menu#menugroup",
     "hierarchy": {
@@ -3177,7 +3177,7 @@
   },
   {
     "content": "Menu option groups",
-    "id": "2da5ee8b-1521-4740-94e0-69b7e83b832a",
+    "id": "a229b2a4-a5f9-460f-af3b-1135f7758e38",
     "type": "lvl2",
     "url": "/docs/overlay/menu#menu-option-groups",
     "hierarchy": {
@@ -3188,7 +3188,7 @@
   },
   {
     "content": "Accessibility",
-    "id": "1bf8fa0f-2147-4224-b40e-fb056d6164b8",
+    "id": "a6b1ed81-44de-492d-9d47-debf626ceec7",
     "type": "lvl2",
     "url": "/docs/overlay/menu#accessibility",
     "hierarchy": {
@@ -3199,7 +3199,7 @@
   },
   {
     "content": "Keyboard Interaction",
-    "id": "4273956f-029f-4688-8b33-9f03d9e2054a",
+    "id": "972d4246-d33a-4570-b8d1-802f115ae45a",
     "type": "lvl3",
     "url": "/docs/overlay/menu#keyboard-interaction",
     "hierarchy": {
@@ -3210,7 +3210,7 @@
   },
   {
     "content": "ARIA roles",
-    "id": "44f7310a-b066-4f0f-a580-a5d103898489",
+    "id": "40c32580-586b-49b1-a011-a97492cf71e6",
     "type": "lvl3",
     "url": "/docs/overlay/menu#aria-roles",
     "hierarchy": {
@@ -3221,7 +3221,7 @@
   },
   {
     "content": "Props",
-    "id": "ef1f8ad6-d036-48da-9ff9-8f929facb2f0",
+    "id": "22a51044-b0df-4b09-a1e0-29d02f75caf8",
     "type": "lvl2",
     "url": "/docs/overlay/menu#props",
     "hierarchy": {
@@ -3232,7 +3232,7 @@
   },
   {
     "content": "Menu Props",
-    "id": "e20f2408-189f-4bc0-8faf-77aa19fbd86d",
+    "id": "0cc077c1-11df-4cc1-97ab-c7908a65354c",
     "type": "lvl3",
     "url": "/docs/overlay/menu#menu-props",
     "hierarchy": {
@@ -3243,7 +3243,7 @@
   },
   {
     "content": "MenuButton Props",
-    "id": "8f5de896-71d0-452e-9b48-fb812a1b6e38",
+    "id": "b1badf94-e4cd-44d6-90f9-03ccf081fbcf",
     "type": "lvl3",
     "url": "/docs/overlay/menu#menubutton-props",
     "hierarchy": {
@@ -3254,7 +3254,7 @@
   },
   {
     "content": "MenuList Props",
-    "id": "e1b1e62f-f725-459f-9384-0c38d83731f9",
+    "id": "e5ad00f4-e22e-45a4-b1cd-386f4ab40aa7",
     "type": "lvl3",
     "url": "/docs/overlay/menu#menulist-props",
     "hierarchy": {
@@ -3265,7 +3265,7 @@
   },
   {
     "content": "MenuItem Props",
-    "id": "ec287301-e83f-4208-aaef-f99d23f3611b",
+    "id": "a438d6cb-17c9-4a29-8e5e-c0d3dd0f893e",
     "type": "lvl3",
     "url": "/docs/overlay/menu#menuitem-props",
     "hierarchy": {
@@ -3276,7 +3276,7 @@
   },
   {
     "content": "MenuGroup Props",
-    "id": "eb469662-8012-4fb5-9f22-3b5c77bf9752",
+    "id": "1f5a39e7-f38d-4327-9b01-6a8a6bcb8516",
     "type": "lvl3",
     "url": "/docs/overlay/menu#menugroup-props",
     "hierarchy": {
@@ -3287,7 +3287,7 @@
   },
   {
     "content": "MenuOptionGroup Props",
-    "id": "1b086ffc-6cd2-4759-9e14-2c0f0ef2a592",
+    "id": "906fdcfc-0e3c-4d4e-b7d4-927a05519a2d",
     "type": "lvl3",
     "url": "/docs/overlay/menu#menuoptiongroup-props",
     "hierarchy": {
@@ -3298,7 +3298,7 @@
   },
   {
     "content": "MenuItemOption Props",
-    "id": "b6ad481e-6c1a-437d-9f5e-ea38d729bc75",
+    "id": "7abc672d-45a2-4e42-b024-7868af29c98b",
     "type": "lvl3",
     "url": "/docs/overlay/menu#menuitemoption-props",
     "hierarchy": {
@@ -3309,14 +3309,14 @@
   },
   {
     "content": "Chakra UI Modal Dialog - Horizon UI",
-    "id": "cf4b4dfb-39f5-4019-bea3-1b0bd6f85c36",
+    "id": "d2fb0c7f-f7e9-4847-a084-7af02381743f",
     "type": "lvl1",
     "url": "/docs/overlay/modal",
     "hierarchy": { "lvl1": "Chakra UI Modal Dialog - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "b80121e6-f1bd-471b-a3d1-b9932b0e9649",
+    "id": "0ec402af-5ff6-43fd-a2a6-6f16926bc0bc",
     "type": "lvl2",
     "url": "/docs/overlay/modal#import",
     "hierarchy": {
@@ -3327,7 +3327,7 @@
   },
   {
     "content": "Usage",
-    "id": "0b8b73f5-3de1-469f-838b-a1f6a57994f0",
+    "id": "3461c5e5-b56f-46fa-9595-d347e5600aaf",
     "type": "lvl2",
     "url": "/docs/overlay/modal#usage",
     "hierarchy": {
@@ -3338,7 +3338,7 @@
   },
   {
     "content": "Control Focus when Modal closes",
-    "id": "eaf921e6-3d67-4e53-92d0-80893c49febb",
+    "id": "3cdb1994-e1d4-40d4-b7f7-7ed28a0967dc",
     "type": "lvl3",
     "url": "/docs/overlay/modal#control-focus-when-modal-closes",
     "hierarchy": {
@@ -3349,7 +3349,7 @@
   },
   {
     "content": "Block Scrolling when Modal opens",
-    "id": "b56fa95c-1d41-48f6-8eaf-2d5fc19d9451",
+    "id": "0892a78a-288d-4169-9628-5f0a5700b22f",
     "type": "lvl3",
     "url": "/docs/overlay/modal#block-scrolling-when-modal-opens",
     "hierarchy": {
@@ -3360,7 +3360,7 @@
   },
   {
     "content": "Focus on specific element",
-    "id": "35027a4b-49c1-4a59-a7ba-95db61417675",
+    "id": "385bc27c-8ef5-4f9e-8f05-30890909bf15",
     "type": "lvl3",
     "url": "/docs/overlay/modal#focus-on-specific-element",
     "hierarchy": {
@@ -3371,7 +3371,7 @@
   },
   {
     "content": "Close Modal on Overlay Click",
-    "id": "af46bc92-b730-4fdf-a7ea-3291c43f5c88",
+    "id": "29005798-3e78-4553-92b9-9380623faeb6",
     "type": "lvl3",
     "url": "/docs/overlay/modal#close-modal-on-overlay-click",
     "hierarchy": {
@@ -3382,7 +3382,7 @@
   },
   {
     "content": "Make modal vertically centered",
-    "id": "365f8fc6-5386-49c5-894c-6589f0ccff98",
+    "id": "665d4084-9a47-4584-8e46-2830de2ab128",
     "type": "lvl3",
     "url": "/docs/overlay/modal#make-modal-vertically-centered",
     "hierarchy": {
@@ -3393,7 +3393,7 @@
   },
   {
     "content": "Changing the transition",
-    "id": "e4bb08e9-1ccb-45b5-a148-873a9a25a2ec",
+    "id": "1d4b6152-6df1-4a08-a2a9-b4d7639f79a0",
     "type": "lvl3",
     "url": "/docs/overlay/modal#changing-the-transition",
     "hierarchy": {
@@ -3404,7 +3404,7 @@
   },
   {
     "content": "Modal overflow behavior",
-    "id": "4ef2f4e2-0f49-4834-a50a-f9cdc0508e5c",
+    "id": "2fbaf893-6423-4f5f-92d9-343846f0c5c3",
     "type": "lvl3",
     "url": "/docs/overlay/modal#modal-overflow-behavior",
     "hierarchy": {
@@ -3415,7 +3415,7 @@
   },
   {
     "content": "Modal Sizes",
-    "id": "19c1397d-f641-4847-87be-ca18b18f0acc",
+    "id": "8b9bdab8-fc15-4f73-a7a0-65732cac2eb8",
     "type": "lvl3",
     "url": "/docs/overlay/modal#modal-sizes",
     "hierarchy": {
@@ -3426,7 +3426,7 @@
   },
   {
     "content": "Making other elements Inert",
-    "id": "e1aea4b1-2c4e-4e6f-a838-7e7ec14ea670",
+    "id": "30faba5f-0b0a-4c98-b543-008a6f08c031",
     "type": "lvl3",
     "url": "/docs/overlay/modal#making-other-elements-inert",
     "hierarchy": {
@@ -3437,7 +3437,7 @@
   },
   {
     "content": "Prevent focus trapping",
-    "id": "ea17c34f-6deb-4bc8-a2a3-48468f2714dc",
+    "id": "45d520ef-69b0-4466-be8e-4f1736d0a5e7",
     "type": "lvl3",
     "url": "/docs/overlay/modal#prevent-focus-trapping",
     "hierarchy": {
@@ -3448,7 +3448,7 @@
   },
   {
     "content": "Accessibility",
-    "id": "6219c668-9ddc-4c26-8a34-96713f704871",
+    "id": "e37f60b2-0d2a-4992-9da7-3368a24ed8cc",
     "type": "lvl2",
     "url": "/docs/overlay/modal#accessibility",
     "hierarchy": {
@@ -3459,7 +3459,7 @@
   },
   {
     "content": "Keyboard and Focus Management",
-    "id": "f6e90dda-3c7d-4d40-b8d9-a499bcecf6bd",
+    "id": "d44681b8-572b-4581-b060-b7629027f352",
     "type": "lvl3",
     "url": "/docs/overlay/modal#keyboard-and-focus-management",
     "hierarchy": {
@@ -3470,7 +3470,7 @@
   },
   {
     "content": "ARIA",
-    "id": "0cb34ee3-b759-4f19-baa6-bdb0c719e686",
+    "id": "9d872608-4dcb-44dc-80a7-b16ea00db6ff",
     "type": "lvl3",
     "url": "/docs/overlay/modal#aria",
     "hierarchy": {
@@ -3481,7 +3481,7 @@
   },
   {
     "content": "Props",
-    "id": "55d8c5e3-435d-486c-8c3f-d1a89b7f69cd",
+    "id": "b8cc586a-7708-43a4-b665-5f8c0db3e2e9",
     "type": "lvl2",
     "url": "/docs/overlay/modal#props",
     "hierarchy": {
@@ -3492,7 +3492,7 @@
   },
   {
     "content": "Modal Props",
-    "id": "e62c5781-611d-4d7c-89d0-d22971b937cd",
+    "id": "6f87a059-8304-4bdd-9997-95fdc7e56b86",
     "type": "lvl3",
     "url": "/docs/overlay/modal#modal-props",
     "hierarchy": {
@@ -3503,7 +3503,7 @@
   },
   {
     "content": "Other components",
-    "id": "dbfc9437-0e9e-4c0e-8464-0dd07e89751e",
+    "id": "93b236f2-5041-4f47-9b54-6695c68ed10e",
     "type": "lvl3",
     "url": "/docs/overlay/modal#other-components",
     "hierarchy": {
@@ -3514,35 +3514,35 @@
   },
   {
     "content": "Routing",
-    "id": "f8429352-5695-4536-86aa-1058ba39fda1",
+    "id": "16ef2a80-8058-4270-bd87-59206710d3b7",
     "type": "lvl1",
     "url": "/docs/routing",
     "hierarchy": { "lvl1": "Routing" }
   },
   {
     "content": "Legend",
-    "id": "778fdd7f-cc49-4c34-8236-21c16c2ccc7c",
+    "id": "3245f376-ec3d-47ec-b39e-1b20a9cc0340",
     "type": "lvl2",
     "url": "/docs/routing#legend",
     "hierarchy": { "lvl1": "Routing", "lvl2": "Legend", "lvl3": null }
   },
   {
     "content": "Notice",
-    "id": "ea2d214b-69ea-424f-93aa-3e936ca1c9ea",
+    "id": "43995997-9db7-471a-bf83-3defb750ef4f",
     "type": "lvl2",
     "url": "/docs/routing#notice",
     "hierarchy": { "lvl1": "Routing", "lvl2": "Notice", "lvl3": null }
   },
   {
     "content": "Chakra UI Theme (Colors, etc) - Horizon UI",
-    "id": "63dd1566-5983-40fc-bf2e-575af8a3a86a",
+    "id": "451417bf-001e-4134-9219-3d09da8cf0ca",
     "type": "lvl1",
     "url": "/docs/theming/theme",
     "hierarchy": { "lvl1": "Chakra UI Theme (Colors, etc) - Horizon UI" }
   },
   {
     "content": "Colors",
-    "id": "10f740df-4d0b-4392-a856-26d1aec3c21c",
+    "id": "c917668f-29ba-4771-8a8b-019b5c6f555d",
     "type": "lvl2",
     "url": "/docs/theming/theme#colors",
     "hierarchy": {
@@ -3553,7 +3553,7 @@
   },
   {
     "content": "Black & White",
-    "id": "4e15e3f9-38a8-49f5-8e26-9eb51f17ffe8",
+    "id": "2bfdd1ba-9a40-48aa-958f-eef76f29bf8a",
     "type": "lvl3",
     "url": "/docs/theming/theme#black--white",
     "hierarchy": {
@@ -3564,7 +3564,7 @@
   },
   {
     "content": "Brand",
-    "id": "5e31269f-8ef1-4f70-995b-aa59367cbedb",
+    "id": "f3a4506d-fa74-4cf8-ba58-58cd8cc27533",
     "type": "lvl3",
     "url": "/docs/theming/theme#brand",
     "hierarchy": {
@@ -3575,7 +3575,7 @@
   },
   {
     "content": "Gray",
-    "id": "04df0486-5e7e-4ae8-af17-e2e1b56e7f40",
+    "id": "8415293f-3501-4582-b540-1e64a58d8a64",
     "type": "lvl3",
     "url": "/docs/theming/theme#gray",
     "hierarchy": {
@@ -3586,7 +3586,7 @@
   },
   {
     "content": "Red",
-    "id": "632abdd9-5cf9-4656-9a2f-5adfac684bc0",
+    "id": "1a122d40-57b1-4f2f-a237-349e1edaa5ce",
     "type": "lvl3",
     "url": "/docs/theming/theme#red",
     "hierarchy": {
@@ -3597,7 +3597,7 @@
   },
   {
     "content": "Orange",
-    "id": "fc341d1a-ff90-4636-aa6a-3efca11c04dd",
+    "id": "e6049a7e-a271-4547-8f20-ae397a0abc87",
     "type": "lvl3",
     "url": "/docs/theming/theme#orange",
     "hierarchy": {
@@ -3608,7 +3608,7 @@
   },
   {
     "content": "Yellow",
-    "id": "0a871798-0d52-4b07-a216-768593796e69",
+    "id": "2cb8a440-b049-41d3-8af2-565bba191be1",
     "type": "lvl3",
     "url": "/docs/theming/theme#yellow",
     "hierarchy": {
@@ -3619,7 +3619,7 @@
   },
   {
     "content": "Green",
-    "id": "9eee7568-27fe-4fa3-8bc8-01f66a71762f",
+    "id": "468e0939-e189-4653-a5f1-e78af07d5fa2",
     "type": "lvl3",
     "url": "/docs/theming/theme#green",
     "hierarchy": {
@@ -3630,7 +3630,7 @@
   },
   {
     "content": "Teal",
-    "id": "ffa20105-1947-42c7-9fee-8998d75de59e",
+    "id": "1b7f4b0e-5c18-43b3-84a1-064b1d308bf8",
     "type": "lvl3",
     "url": "/docs/theming/theme#teal",
     "hierarchy": {
@@ -3641,7 +3641,7 @@
   },
   {
     "content": "Blue",
-    "id": "b8ef5d08-8ece-4f95-a287-f23f5ad28b1c",
+    "id": "f3569960-540f-45c8-95d7-3d759a6e0459",
     "type": "lvl3",
     "url": "/docs/theming/theme#blue",
     "hierarchy": {
@@ -3652,7 +3652,7 @@
   },
   {
     "content": "Cyan",
-    "id": "bc150b7f-61a4-4a87-aebb-90050febb6d6",
+    "id": "64209f41-d220-4948-9a72-144f60c7ebb9",
     "type": "lvl3",
     "url": "/docs/theming/theme#cyan",
     "hierarchy": {
@@ -3663,7 +3663,7 @@
   },
   {
     "content": "Purple",
-    "id": "1e5e7c10-2acb-4b80-ae77-3ba726963eb2",
+    "id": "182211e6-864b-4e95-8ec0-c752798a022f",
     "type": "lvl3",
     "url": "/docs/theming/theme#purple",
     "hierarchy": {
@@ -3674,7 +3674,7 @@
   },
   {
     "content": "Pink",
-    "id": "a5ff4093-e7aa-42c6-9ea3-07d14bd23e90",
+    "id": "5a9a3702-b00f-4ca0-8c0a-abd85cbe7839",
     "type": "lvl3",
     "url": "/docs/theming/theme#pink",
     "hierarchy": {
@@ -3685,7 +3685,7 @@
   },
   {
     "content": "Typography",
-    "id": "6ed0cee4-03c7-48a5-9136-80ab34e85827",
+    "id": "e1ee3099-9637-4df0-bd7c-6e8c960cecf5",
     "type": "lvl2",
     "url": "/docs/theming/theme#typography",
     "hierarchy": {
@@ -3696,7 +3696,7 @@
   },
   {
     "content": "Breakpoints",
-    "id": "fd84c243-5a62-4b39-8b08-852fff1d7fa0",
+    "id": "1d3a1dbc-de53-4a63-aeaf-689f06d3b0e7",
     "type": "lvl2",
     "url": "/docs/theming/theme#breakpoints",
     "hierarchy": {
@@ -3707,7 +3707,7 @@
   },
   {
     "content": "Spacing",
-    "id": "c469d0fb-198f-4634-8656-eb10e889f0e4",
+    "id": "71ba8230-8a89-4815-8426-f3e833635cf9",
     "type": "lvl2",
     "url": "/docs/theming/theme#spacing",
     "hierarchy": {
@@ -3718,14 +3718,14 @@
   },
   {
     "content": "Chakra UI Heading - Horizon UI",
-    "id": "c9dc9feb-031a-4c12-a12c-3a6b7c0cfb4e",
+    "id": "e69ff269-2e61-498b-bd7c-dba935838986",
     "type": "lvl1",
     "url": "/docs/typography/heading",
     "hierarchy": { "lvl1": "Chakra UI Heading - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "94170f85-c42a-4030-9d35-acdc11465765",
+    "id": "cc8258c5-0dd2-4014-8aee-665f16b3510d",
     "type": "lvl2",
     "url": "/docs/typography/heading#import",
     "hierarchy": {
@@ -3736,7 +3736,7 @@
   },
   {
     "content": "Usage",
-    "id": "6a4adb8a-d35f-4eae-a34e-e3a17c44b65d",
+    "id": "ea9ecde0-2c01-49c6-97c0-31461ecf7666",
     "type": "lvl2",
     "url": "/docs/typography/heading#usage",
     "hierarchy": {
@@ -3747,7 +3747,7 @@
   },
   {
     "content": "Changing font size",
-    "id": "02393962-59c8-401a-a723-5e6f266f9917",
+    "id": "61150abe-6898-4fe4-bbe5-33e63580be5b",
     "type": "lvl3",
     "url": "/docs/typography/heading#changing-font-size",
     "hierarchy": {
@@ -3758,7 +3758,7 @@
   },
   {
     "content": "Truncate heading",
-    "id": "c80a7b1d-c57a-41c8-b9d5-c9b0490d856f",
+    "id": "b72d5bd6-8056-473f-a2fc-0243e4c97b31",
     "type": "lvl3",
     "url": "/docs/typography/heading#truncate-heading",
     "hierarchy": {
@@ -3769,7 +3769,7 @@
   },
   {
     "content": "Override style",
-    "id": "35569fc4-852b-4728-87b9-ed70f56c69d9",
+    "id": "3b79e04e-fd82-45af-933a-125ae58f8ab6",
     "type": "lvl3",
     "url": "/docs/typography/heading#override-style",
     "hierarchy": {
@@ -3780,7 +3780,7 @@
   },
   {
     "content": "Composition",
-    "id": "b47461d3-62ec-4aa4-9dac-9c83d82ab1e1",
+    "id": "36d59a84-1996-40d1-b3a3-a486e82a03c2",
     "type": "lvl2",
     "url": "/docs/typography/heading#composition",
     "hierarchy": {
@@ -3791,7 +3791,7 @@
   },
   {
     "content": "Props",
-    "id": "30e98f97-f6f9-4822-a0fe-63aca37f0006",
+    "id": "1f7e9f9d-2d31-475e-865c-2c1538bde79f",
     "type": "lvl2",
     "url": "/docs/typography/heading#props",
     "hierarchy": {
@@ -3802,14 +3802,14 @@
   },
   {
     "content": "Chakra UI Text - Horizon UI",
-    "id": "60aa5c94-f28a-4d61-9a48-83f7cae258dd",
+    "id": "664f70c4-66fb-438f-88bc-f2c0e4c07949",
     "type": "lvl1",
     "url": "/docs/typography/text",
     "hierarchy": { "lvl1": "Chakra UI Text - Horizon UI" }
   },
   {
     "content": "Import",
-    "id": "24e39cf7-6fbe-4f28-98bd-48835719b63e",
+    "id": "0be281a8-0fb9-4bdc-859d-4205086a3bdb",
     "type": "lvl2",
     "url": "/docs/typography/text#import",
     "hierarchy": {
@@ -3820,7 +3820,7 @@
   },
   {
     "content": "Changing the font size",
-    "id": "af034989-56af-4354-9e3e-64ec590612f3",
+    "id": "279060cc-5900-4606-a317-23222097dee7",
     "type": "lvl2",
     "url": "/docs/typography/text#changing-the-font-size",
     "hierarchy": {
@@ -3831,7 +3831,7 @@
   },
   {
     "content": "Truncate text",
-    "id": "a70a939e-5c37-46e6-89cf-b00d3eb76838",
+    "id": "caca057e-9964-44f9-8dd7-076844ed15a1",
     "type": "lvl3",
     "url": "/docs/typography/text#truncate-text",
     "hierarchy": {
@@ -3842,7 +3842,7 @@
   },
   {
     "content": "Override style",
-    "id": "125fb8a8-da31-4259-a533-517cc14e02a4",
+    "id": "942f316e-b40a-45d0-8a88-1a672c4a3f21",
     "type": "lvl3",
     "url": "/docs/typography/text#override-style",
     "hierarchy": {
@@ -3853,7 +3853,7 @@
   },
   {
     "content": "Override the element",
-    "id": "7dd634cc-dd5b-477f-9679-b632c4650c8f",
+    "id": "3de62176-ac6a-4910-aebf-60c4b2443e23",
     "type": "lvl3",
     "url": "/docs/typography/text#override-the-element",
     "hierarchy": {
@@ -3864,7 +3864,7 @@
   },
   {
     "content": "Props",
-    "id": "ffa1c2f1-608b-4d59-8d87-e5b386895ca2",
+    "id": "cf46e6b1-8099-4184-83eb-d42a8c8e3c95",
     "type": "lvl2",
     "url": "/docs/typography/text#props",
     "hierarchy": {

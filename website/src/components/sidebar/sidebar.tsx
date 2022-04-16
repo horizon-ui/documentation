@@ -130,6 +130,7 @@ const mainNavLinks = [
   {
     href: "/docs/introduction",
     label: "Docs",
+    icon: " ",
   },
 ]
 
