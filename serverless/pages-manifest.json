@@ -1,0 +1,8 @@
+{
+  "/404": "pages/404.html",
+  "/blog/[...slug]": "pages/blog/[...slug].js",
+  "/docs/[[...slug]]": "pages/docs/[[...slug]].js",
+  "/docs/changelog": "pages/docs/changelog.js",
+  "/": "pages/index.js",
+  "/_error": "pages/_error.js"
+}
