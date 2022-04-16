@@ -29,7 +29,7 @@ import { Button, ButtonGroup } from "@chakra-ui/react"
 ```
 
 ```tsx
-<Button colorScheme="brand">Button</Button>
+<Button variant="brand">Button</Button>
 ```
 
 ### Button Sizes
@@ -56,16 +56,16 @@ Use the `size` prop to change the size of the button. You can set the value to
 
 ```tsx
 <Stack spacing={4} direction="row" align="center">
-  <Button borderRadius="12px" colorScheme="brand" size="xs">
+  <Button variant="brand" size="xs">
     Button
   </Button>
-  <Button borderRadius="12px" colorScheme="brand" size="sm">
+  <Button variant="brand" size="sm">
     Button
   </Button>
-  <Button borderRadius="12px" colorScheme="brand" size="md">
+  <Button variant="brand" size="md">
     Button
   </Button>
-  <Button borderRadius="12px" colorScheme="brand" size="lg">
+  <Button variant="brand" size="lg">
     Button
   </Button>
 </Stack>
@@ -95,18 +95,10 @@ value to `solid`, `ghost`, `outline`, or `link`.
 
 ```tsx
 <Stack direction="row" spacing={4} align="center">
-  <Button colorScheme="brand" variant="solid">
-    Button
-  </Button>
-  <Button colorScheme="brand" variant="outline">
-    Button
-  </Button>
-  <Button colorScheme="brand" variant="ghost">
-    Button
-  </Button>
-  <Button colorScheme="brand" variant="link">
-    Button
-  </Button>
+  <Button variant="brand">Button</Button>
+  <Button variant="outline">Button</Button>
+  <Button variant="ghost">Button</Button>
+  <Button variant="link">Button</Button>
 </Stack>
 ```
 
@@ -141,14 +133,10 @@ and `rightIcon` props respectively.
 
 ```tsx
 <Stack direction="row" spacing={4}>
-  <Button leftIcon={<EmailIcon />} colorScheme="brand" variant="solid">
+  <Button leftIcon={<EmailIcon />} variant="brand">
     Email
   </Button>
-  <Button
-    rightIcon={<ArrowForwardIcon />}
-    colorScheme="brand"
-    variant="outline"
-  >
+  <Button rightIcon={<ArrowForwardIcon />} variant="outline">
     Call us
   </Button>
 </Stack>
@@ -166,7 +154,7 @@ button.
     borderRadius="12px"
     leftIcon={<MdBuild />}
     colorScheme="brand"
-    variant="solid"
+    variant="brand"
   >
     Settings
   </Button>
@@ -185,10 +173,10 @@ button.
 // import { MdBuild , MdCall } from "react-icons/md"
 
 <Stack direction="row" spacing={4}>
-  <Button leftIcon={<MdBuild />} colorScheme="brand" variant="solid">
+  <Button leftIcon={<MdBuild />} variant="brand">
     Settings
   </Button>
-  <Button rightIcon={<MdCall />} colorScheme="brand" variant="outline">
+  <Button rightIcon={<MdCall />} variant="outline">
     Call us
   </Button>
 </Stack>
@@ -220,15 +208,10 @@ You can also pass the `loadingText` prop to show a spinner and the loading text.
 
 ```tsx
 <Stack direction="row" spacing={4}>
-  <Button isLoading colorScheme="brand" variant="solid">
+  <Button isLoading variant="brand">
     Email
   </Button>
-  <Button
-    isLoading
-    loadingText="Submitting"
-    colorScheme="brand"
-    variant="outline"
-  >
+  <Button isLoading loadingText="Submitting" variant="outline">
     Submit
   </Button>
 </Stack>
@@ -249,11 +232,7 @@ requirements. Pass the `spinner` prop and set it to a custom react element.
 ```
 
 ```tsx
-<Button
-  isLoading
-  colorScheme="brand"
-  spinner={<BeatLoader size={8} color="white" />}
->
+<Button isLoading spinner={<BeatLoader size={8} color="white" />}>
   Click me
 </Button>
 ```
@@ -300,7 +279,6 @@ element to either `start` or `end`. It is `start` by default.
   <Button
     isLoading
     loadingText="Loading"
-    colorScheme="brand"
     variant="outline"
     spinnerPlacement="end"
   >
@@ -361,7 +339,7 @@ use the `ButtonGroup` component, it allows you to:
 
 ```tsx
 <ButtonGroup variant="outline" spacing="6">
-  <Button colorScheme="brand">Save</Button>
+  <Button>Save</Button>
   <Button>Cancel</Button>
 </ButtonGroup>
 ```
@@ -409,7 +387,7 @@ use the `ButtonGroup` component, it allows you to:
 
 ```tsx
 <ButtonGroup variant="outline" spacing="6">
-  <Button colorScheme="brand">Save</Button>
+  <Button>Save</Button>
   <Button>Cancel</Button>
 </ButtonGroup>
 ```
@@ -465,9 +443,7 @@ function Example() {
 ```
 
 ```tsx
-<Button variant="transparent-with-icon" colorScheme="brand">
-  Email
-</Button>
+<Button variant="transparent-with-icon">Email</Button>
 ```
 
 "no-hover"

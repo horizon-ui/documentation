@@ -90,8 +90,16 @@
               "path": "/docs/form/icon-button"
             },
             {
+              "title": "Pin Input",
+              "path": "/docs/form/pin-input"
+            },
+            {
               "title": "Input",
               "path": "/docs/form/input"
+            },
+            {
+              "title": "Range Slider",
+              "path": "/docs/form/range-slider"
             },
             {
               "title": "Switch",
@@ -269,11 +277,6 @@
               "new": true,
               "title": "Data Display",
               "path": "/docs/components/data-display"
-            },
-            {
-              "new": true,
-              "title": "Products",
-              "path": "/docs/components/products"
             },
             {
               "new": true,

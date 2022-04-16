@@ -73,6 +73,16 @@ async function redirect() {
       permanent: true,
     },
     {
+      source: "/pin-input",
+      destination: "/docs/form/pin-input",
+      permanent: true,
+    },
+    {
+      source: "/range-slider",
+      destination: "/docs/form/range-slider",
+      permanent: true,
+    },
+    {
       source: "/cards",
       destination: "/docs/layout/cards",
       permanent: true,
@@ -125,11 +135,6 @@ async function redirect() {
     {
       source: "/data-display",
       destination: "/docs/components/data-display",
-      permanent: true,
-    },
-    {
-      source: "/products",
-      destination: "/docs/components/products",
       permanent: true,
     },
     {

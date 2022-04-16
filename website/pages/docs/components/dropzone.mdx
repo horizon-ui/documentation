@@ -1,31 +1,43 @@
 ---
-title: Dropzone
-description: Dropzone
+title: Chakra UI Dropzone - Horizon UI
+description: Chakra UI Dropzone - Horizon UI
 ---
-
-For more info on the ThreeJS library you can read
-[here](https://apexcharts.com/react-chart-demos/) .
-
-## Import
-
-```tsx
-import Globe from "components/Globe/Globe"
-```
 
 ## Usage
 
 ```jsx
-function Example() {
+function Dropzone() {
   return (
-    <Box bg="red.400" color="white">
-      <iframe
-        src="https://codesandbox.io/embed/mystifying-parm-4bwdc?fontsize=14&hidenavigation=1&theme=dark&hidedevtools=1&editorsize=0&initialpath=react-globe&module=%2Fsrc%2Fcomponents%2FGlobeExample.js"
-        width="100%"
-        height="700px"
-        ms="-15px"
-        overflow="hidden"
-      ></iframe>
-    </Box>
+    <Flex
+      align="center"
+      justify="center"
+      bg={useColorModeValue("gray.50", "#1B2559")}
+      border="1px dashed"
+      borderColor={useColorModeValue("#E9EDF7", "transparent")}
+      borderRadius="16px"
+      minH="130px"
+      cursor="pointer"
+      pt="80px !important"
+      pb="105px !important"
+    >
+      <Text
+        mx="0"
+        alignSelf="center"
+        color={useColorModeValue("brand.500", "white")}
+        fontSize="md"
+        fontWeight="500"
+      >
+        Browse or drop your files here
+      </Text>
+    </Flex>
   )
 }
+```
+
+```tsx
+import { useDropzone } from "react-dropzone"
+```
+
+```tsx
+<Dropzone />
 ```

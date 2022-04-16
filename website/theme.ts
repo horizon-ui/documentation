@@ -7,6 +7,17 @@ const customTheme = extendTheme({
     body: "Plus Jakarta Display, sans-serif",
   },
   colors: {
+    secondaryGray: {
+      100: "#E0E5F2",
+      200: "#E1E9F8",
+      300: "#F4F7FE",
+      400: "#E9EDF7",
+      500: "#8F9BBA",
+      600: "#A3AED0",
+      700: "#707EAE",
+      800: "#707EAE",
+      900: "#1B2559",
+    },
     gray: {
       700: "#1f2733",
     },
