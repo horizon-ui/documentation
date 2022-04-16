@@ -1,5 +1,5 @@
 {
-  "name": "horizon-ui-dashboard-docs",
+  "name": "horizon-ui-chakra-docs",
   "private": true,
   "workspaces": {
     "packages": [
@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simmmple-web/horizon-ui-dashboard"
+    "url": "git+https://github.com/horizon-ui/horizon-ui-chakra"
   },
-  "author": "Creative Tim & Simmmple",
+  "author": "Horizon UI",
   "license": "MIT",
   "scripts": {
     "pkg": "manypkg run",

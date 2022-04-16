@@ -5,7 +5,7 @@ const withBundleAnalyzer = require("@next/bundle-analyzer")({
 
 const defaultConfig = {
   target: "serverless",
-  basePath: "/docs-horizon-ui-dashboard",
+  basePath: "/docs-horizon-ui-chakra",
   webpack: (config) => ({
     ...config,
     externals: [...config.externals, "sharp"],

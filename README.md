@@ -1,317 +1,112 @@
-# [Horizon UI Dashboard](https://demos.creative-tim.com/horizon-ui-dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fhorizon-ui-dashboard%2F&text=Check%20Horizon%20UI%20Dashboard%20made%20by%20%40documentation%20%26%20%40simmmple_web)
+# [Horizon UI Dashboard](https://live.horizon-ui.com/horizon-ui-chakra) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://horizon-ui.com&text=Check%20Horizon%20UI,%20the%20trendiest%20open-source%20admin%20template%20for%20Chakra%20UI%20&%20React!)
 
-![version](https://img.shields.io/badge/version-1.0.1-blue.svg)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/simmmple-web/horizon-ui-dashboard.svg?maxAge=2592000)](https://github.com/simmmple-web/horizon-ui-dashboard/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/simmmple-web/horizon-ui-dashboard.svg?maxAge=2592000)](https://github.com/simmmple-web/horizon-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-ui-chakra.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/horizon-ui/horizon-ui-chakra.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra/issues?q=is%3Aissue+is%3Aclosed)
 
-![Product Gif](https://i.ibb.co/7NXMZQS/Cover-Horizon-Chakra-FREE-Thumbnail.png)
+Get started and build your dream web app with Horizon UI Dashboard, the most
+trendiest & innovative Open Source Admin Template for Chakra UI, React and
+Figma!
 
-Most trendiest, complex and innovative Dashboard Made by
-[Creative Tim](https://creative-tim.com/?ref=readme-horizon) &
-[Simmmple](https://simmmple.com?ref=readme-horizon). Check our latest Free ReactJS
-Dashboard based on Chakra UI.
+---
+
+### Introduction
 
 Designed for those who like modern UI elements and beautiful websites. Made of
 hundred of elements, designed blocks and fully coded pages, Horizon UI Dashboard
 is ready to help you create stunning websites and webapps.
 
-We created many examples for pages like Sign In, Profile and so on. Just choose
-between a Basic Design, an illustration or a cover and you are good to go!
+Save hundreds of hours trying to create and develop a dashboard from scratch.
+The fastest, most responsive & trendiest dashboard is here. Seriously.
 
-**Fully Coded Elements**
+With Horizon UI Dashboard you will find many examples for pages like NFTs Pages,
+Authentication Pages, Profile and so on. Just choose between a Basic Design or a
+cover and you are good to go!
 
-Horizon UI Dashboard is built with over 70 frontend individual elements, like
-buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of
-choosing and combining. All components can take variations in colour, that you
-can easily modify using Chakra's style props.
+<p>&nbsp;</p>
 
-You will save a lot of time going from prototyping to full-functional code,
-because all elements are implemented. This Free Chakra UI Dashboard is coming
-with prebuilt design blocks, so the development process is seamless, switching
-from our pages to the real website is very easy to be done.
+[<img alt="Horizon UI Dashboard" src="https://i.ibb.co/fdyTwz1/introduction-image-2.png" /> ](https://github.com/horizon-ui/horizon-ui-chakra)
 
-Check all components
-<a href="https://demos.creative-tim.com/docs-horizon-ui-dashboard/?ref=readme-horizon" target="_blank">here</a>.
+<p>&nbsp;</p>
 
-**Documentation built by Developers**
+### Documentation
 
 Each element is well presented in a very complex documentation. You can read
 more about the
-<a href="https://demos.creative-tim.com/docs-horizon-ui-dashboard/?ref=readme-horizon" target="_blank">documentation
-here</a>.
+<a href="https://horizon-ui.com/docs?ref=readme-horizon" target="_blank">documentation
+here.</a>
 
-**Example Pages**
+### Quick Start
+
+Install Horizon UI Dashboard by running either of the following:
+
+- Install NodeJS LTS from
+  [NodeJs Official Page](https://nodejs.org/en/?ref=horizon-documentation)
+  (NOTE: Product only works with LTS version)
+
+Clone the repository with the following command:
+
+```bash
+git clone https://github.com/horizon-ui/horizon-ui-chakra.git
+```
+
+Run in terminal this command:
+
+```bash
+npm install
+```
+
+Then run this command to start your local server
+
+```bash
+npm start
+```
+
+### Example Pages
 
 If you want to get inspiration or just show something directly to your clients,
 you can jump start your development with our pre-built example pages. You will
 be able to quickly set up the basic structure for your web project. View
-<a href="https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-horizon" target="_blank">example
-pages here</a>.
+<a href="https://live.horizon-ui.com/free?ref=readme-horizon" target="_blank">example
+pages here.</a>
 
-**HELPFUL LINKS**
+### Versions
 
-- View
-  <a href="https://github.com/simmmple-web/horizon-ui-dashboard" target="_blank">Github
-  Repository</a>
+| Free Version                                                                                                                 | PRO Version                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [![Horizon UI Dashboard](https://i.ibb.co/fdyTwz1/introduction-image-2.png)](https://www.horizon-ui.com/?ref=readme-horizon) | [![Horizon UI Dashboard PRO](https://i.ibb.co/R6jFKRM/introduction-image-1.png)](https://www.horizon-ui.com/pro?ref=readme-horizon) |
 
-- Check
-  <a href="https://www.creative-tim.com/knowledge-center?ref=readme-horizon" target="_blank">FAQ
-  Page</a>
+### Figma Version
 
-#### Special thanks
+Horizon UI is available in Figma format as well! Check it out on Figma
+Community! 🎨
+[See the Horizon UI Figma design files](https://horizon-ui.com/figma/)
 
-During the development of this dashboard, we have used many existing resources
-from awesome developers. We want to thank them for providing their tools open
-source:
-
-- [Chakra UI](https://www.chakra-ui.com?ref=creative-tim) - Open source ReactJS
-  framework
-- [ApexCharts.js](https://apexcharts.com?ref=creative-tim) - Modern &
-  Interactive Open-source charts
-- [ReactJS](https://reactjs.org?ref=creative-tim) - A popular JavaScript library
-  for building user interfaces
-
-Let us know your thoughts below. And good luck with development!
-
-## Table of Contents
-
-- [Horizon UI Dashboard](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-horizon)
-- [Table of Contents](#table-of-contents)
-- [Versions](#versions)
-- [Demo](#demo)
-- [Quick start](#quick-start)
-- [Documentation](#documentation)
-- [File Structure](#file-structure)
-- [Browser Support](#browser-support)
-- [Resources](#resources)
-- [Reporting Issues](#reporting-issues)
-- [Licensing](#licensing)
-- [Useful Links](#useful-links)
-- [Social Media](#social-media)
-
-## Versions
-
-[<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.horizon-ui.com/?ref=readme-horizon)[<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/figma-logo.jpg?raw=true" width="60" height="60" />](https://www.horizon-ui.com/?ref=readme-horizon)
-
-| React                                                                                                                                                                                        | Figma                                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon Free ReactJS Chakra Dashboard](https://i.ibb.co/Ct9RvRZ/Cover-Horizon-Chakra-FREE-Thumbnail-React-JS.png)](https://www.horizon-ui.com/?ref=readme-horizon) | [![Horizon Free Figma Chakra Dashboard](https://i.ibb.co/wRK0jbK/Cover-Horizon-Chakra-FREE-Thumbnail-Figma.png)](https://www.horizon-ui.com/?ref=readme-horizon) |
-
-## Demo
-
-- [Dashboard](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-horizon)
-- [Tables page](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/tables?ref=readme-horizon)
-- [Billing page](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/billing?ref=readme-horizon)
-- [Profile page](http://demos.creative-tim.com/horizon-ui-dashboard/#/admin/profile?ref=readme-horizon)
-- [Sign in page](https://demos.creative-tim.com/horizon-ui-dashboard/#/auth/signin?ref=readme-horizon)
-- [Sign up page](https://demos.creative-tim.com/horizon-ui-dashboard/#/auth/signup?ref=readme-horizon)
-
-[View More](https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-horizon).
-
-## Quick Start
-
-- Clone the repo:
-  `git clone https://github.com/simmmple-web/horizon-ui-dashboard.git`.
-- `npm install`
-- `npm start`
-- [Download from Github](https://github.com/simmmple-web/horizon-ui-dashboard/archive/main.zip).
-- [Download from Creative Tim](https://www.horizon-ui.com/).
-
-## File Structure
-
-Within the download you'll find the following directories and files:
-
-```
-horizon-ui-dashboard/
-├── .gitattributes
-├── .gitigonore
-├── CHANGELOG.md
-├── commit.sh
-├── gulpfile.js
-├── ISSUE_TEMPLATE.md
-├── jsconfig.json
-├── package-lock.json
-├── package.json
-├── README.md
-├── documentation
-├── node_modules
-├── public
-│   ├── favicon.ico
-│   ├── index.html
-│   └── manifest.json
-└── src
-    ├── assets
-    │   ├── img
-    │   └── svg
-    ├── components
-    │   ├── Card
-    │   │   ├── Card.js
-    │   │   ├── CardBody.js
-    │   │   ├── CardFooter.js
-    │   │   └── CardHeader.js
-    │   ├── Charts
-    │   │   ├── BarChart.js
-    │   │   └── LineChart.js
-    │   ├── Configurator
-    │   │   └── Configurator.js
-    │   ├── FixedPlugin
-    │   │   └── FixedPlugin.js
-    │   ├── Footer
-    │   │   └── Footer.js
-    │   ├── Icons
-    │   │   ├── IconBox.js
-    │   │   └── Icons.js
-    │   ├── Layout
-    │   │   ├── MainPanel.js
-    │   │   ├── PanelContainer.js
-    │   │   └── PanelContent.js
-    │   ├── Menu
-    │   │   └── ItemContent.js
-    │   ├── Navbars
-    │   │   ├── Searchbar
-    │   │   │   └── SearchBar.js
-    │   │   ├── Settings
-    │   │   │   └── SettingsBar.js
-    │   │   ├── AdminNavbar.js
-    │   │   ├── AdminNavbarLinks.js
-    │   │   └── AuthNavbar.js
-    │   ├── Other
-    │   │   ├── BillingRow.js
-    │   │   ├── InvoicesRow.js
-    │   │   └── TransactionRow.js
-    │   ├── Separator
-    │   │   └── Separator.js
-    │   ├── Sidebar
-    │   │   ├── Sidebar.js
-    │   │   └── SidebarHelp.js
-    │   └── Tables
-    │       ├── BillingRow.js
-    │       ├── DashboardTableRow.js
-    │       ├── InvoicesRow.js
-    │       ├── TablesProjectRow.js
-    │       ├── TablesTableRow.js
-    │       ├── TimelineRow.js
-    │       └── TransactionRow.js
-    ├── layouts
-    │   ├── Admin.js
-    │   └── Auth.js
-    ├── theme
-    │   ├── additions
-    │   │   ├── card
-    │   │   │   ├── Card.js
-    │   │   │   ├── CardBody.js
-    │   │   │   ├── CardFooter.js
-    │   │   │   └── CardHeader.js
-    │   │   ├── layout
-    │   │   │   ├── MainPanel.js
-    │   │   │   ├── PanelContainer.js
-    │   │   │   └── PanelContent.js
-    │   ├── components
-    │   │   ├── button.js
-    │   │   ├── link.js
-    │   │   └── drawer.js
-    │   ├── foundations
-    │   │   ├── breakpoints.js
-    │   │   ├── fonts.js
-    │   │   └── text.js
-    │   ├── styles.js
-    │   └── theme.js
-    ├── variables
-    │   ├── charts.js
-    │   └── general.js
-    ├── views
-    │   ├── Dashboard
-    │   │   ├── Billing.js
-    │   │   ├── Dashboard.js
-    │   │   ├── Profile.js
-    │   │   └── Tables.js
-    │   └── Pages
-    │       ├── SignIn.js
-    │       └── SignUp.js
-    ├── index.js
-    └── routes.js
-
-```
-
-## Browser Support
-
-At present, we officially aim to support the last two versions of the following
-browsers:
-
-<img src="https://github.com/simmmple-web/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64">
-<img src="https://raw.githubusercontent.com/simmmple-web/public-assets/master/logos/firefox-logo.png" width="64" height="64">
-<img src="https://raw.githubusercontent.com/simmmple-web/public-assets/master/logos/edge-logo.png" width="64" height="64">
-<img src="https://raw.githubusercontent.com/simmmple-web/public-assets/master/logos/safari-logo.png" width="64" height="64">
-<img src="https://raw.githubusercontent.com/simmmple-web/public-assets/master/logos/opera-logo.png" width="64" height="64">
-
-## Resources
-
-- Demo:
-  <https://demos.creative-tim.com/horizon-ui-dashboard/#/admin/dashboard?ref=readme-horizon>
-- Download Page:
-  <https://www.horizon-ui.com/?ref=readme-horizon>
-- License Agreement: <https://www.creative-tim.com/license?ref=readme-horizon>
-- Support: <https://www.creative-tim.com/contact-us?ref=readme-horizon>
-- Issues:
-  [Github Issues Page](https://github.com/simmmple-web/horizon-ui-dashboard/issues)
-
-## Reporting Issues
+### Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Horizon UI Dashboard.
 Here are some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Horizon UI Dashbaord.
    Check the CHANGELOG from your dashboard on our
-   [CHANGE LOG File](https://github.com/simmmple-web/horizon-ui-dashboard/blob/main/CHANGELOG.md?ref=readme-horizon).
+   [CHANGE LOG File](https://github.com/horizon-ui/horizon-ui-chakra/blob/main/CHANGELOG.md?ref=readme-horizon).
 2. Providing us reproducible steps for the issue will shorten the time it takes
    for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you
    encountered the issue might help.
 
-## Licensing
+---
 
-- Copyright 2021 Creative Tim (https://www.creative-tim.com/?ref=readme-horizon)
+### Community
 
-- Creative Tim License (https://www.creative-tim.com/license)
+Connect with the community! Feel free to ask questions, report issues, and meet
+new people that already use Horizon UI!
 
-## Useful Links
+💬 [Join the #HorizonUI Discord Community!](https://discord.gg/4eeurUVvTy)
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-horizon)
-  (earn money)
-- [Blog Creative Tim](http://creative-tim.com/blog?ref=readme-horizon)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-horizon)
-  from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=readme-horizon)
-  from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=readme-horizon)
-  from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=readme-horizon)
-  from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=readme-horizon)
-  from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=readme-horizon)
-  from Creative Tim
-- [More products](https://simmmple.gumroad.com?ref=readme-horizon) from Simmmple
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=readme-horizon)
+### Copyright and license
 
-### Social Media - Creative Tim
+⭐️ [Copyright 2022 Simmmple ](https://www.simmmple.com/?ref=readme-horizon)
 
-Twitter: <https://twitter.com/documentation>
-
-Facebook: <https://www.facebook.com/documentation>
-
-Dribbble: <https://dribbble.com/documentation>
-
-Instagram: <https://www.instagram.com/simmmple-web>
-
-### Social Media - Simmmple
-
-Twitter: <https://twitter.com/simmmple_web>
-
-Facebook: <https://www.facebook.com/simmmple.web>
-
-Dribbble: <https://dribbble.com/simmmple>
-
-Instagram: <https://www.instagram.com/simmmple.web>
+📄 [Horizon UI License](https://www.horizon-ui.com/license?ref=readme-horizon)

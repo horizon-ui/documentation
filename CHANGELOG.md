@@ -15,7 +15,7 @@ To better understand the changelog, here are some legends we use:
 - 🐛 Bug fix
 - 🛠 Refactor
 
-## 14-04-2022 - Official Release
+## 18-04-2022 - Official Release
 
 **Form Control** `v1.0.0`
 

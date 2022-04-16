@@ -90,8 +90,8 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
   return (
     <>
       <SEO
-        title="Horizon UI Documentation - The official documentation for Horizon UI. The most trendiest, complex and innovative Premium Dashboard for React."
-        description="Most trendiest, complex and innovative Premium Dashboard for React. Check Horizon UI Dashboard based on Chakra UI."
+        title="Horizon UI Documentation - The official documentation for Horizon UI. Trendiest Open Source Admin Template for React & Chakra UI"
+        description="Start building your dashboard with Horizon UI, the most trendiest Open Source free Admin Dashboard for Chakra UI, React and Figma!"
       />
       <Header />
       <Box mb={20}>
@@ -108,7 +108,7 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                 mb="16px"
                 lineHeight="1.2"
               >
-                Horizon UI Dashboard
+                Horizon UI
                 <Box
                   as="span"
                   color={useColorModeValue("brand.500", "brand.400")}
@@ -125,8 +125,9 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                 fontSize={{ base: "lg", lg: "xl" }}
                 mt="6"
               >
-                Most trendiest, complex and innovative Premium Dashboard for
-                React. Check Horizon UI Dashboard based on Chakra UI.
+                Start building your dashboard with Horizon UI, the most
+                trendiest Open Source free Admin Dashboard for Chakra UI, React
+                and Figma!
               </Text>
 
               <Stack
@@ -158,7 +159,7 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                   h="4rem"
                   px="40px"
                   fontSize="1.2rem"
-                  href="https://github.com/simmmple-web/horizon-ui-dashboard"
+                  href="https://github.com/horizon-ui/horizon-ui-chakra"
                   target="__blank"
                 >
                   Free Download

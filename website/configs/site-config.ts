@@ -1,15 +1,15 @@
-const baseUrl = "https://github.com/simmmple-web/horizon-ui-dashboard"
+const baseUrl = "https://github.com/horizon-ui/horizon-ui-chakra/"
 
 const siteConfig = {
   copyright: `Copyright © ${new Date().getFullYear()} Horizon UI. All Rights Reserved.`,
   algolia: {
     apiKey: "655968634437471",
-    indexName: "horizon-ui-dashboard",
+    indexName: "horizon-ui-chakra",
     inputSelector: "#algolia-search",
   },
   author: {
-    name: "Simmmple",
-    github: "https://github.com/simmmple-web",
+    name: "Horizon",
+    github: "https://github.com/horizon-ui",
     twitter: "https://twitter.com/simmmple_web",
     email: "",
   },
@@ -19,17 +19,14 @@ const siteConfig = {
     blobUrl: `${baseUrl}/blob/main`,
   },
   livePreview: {
-    url:
-      "https://demo.simmmple.com/horizon-ui-dashboard/",
+    url: "https://live.horizon-ui.com/horizon-ui-chakra/",
   },
-  youtube: "https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w",
   seo: {
-    title: "Horizon UI Documentation",
+    title: "Horizon UI - Trendiest Open Source Admin Template for React",
     titleTemplate: "%s",
     description:
-      "Simple, Modular and Accessible UI Components for your React Applications.",
-    siteUrl:
-      "https://www.horizon-ui.com/?ref=docs-pud",
+      "Start building your dashboard with Horizon UI, the most trendiest Open Source free Admin Dashboard for Chakra UI, React and Figma!",
+    siteUrl: "https://horizon-ui.com/",
     twitter: {
       handle: "@simmmple",
       site: "@simmmple",
@@ -38,28 +35,26 @@ const siteConfig = {
     openGraph: {
       type: "website",
       locale: "en_US",
-      url: "https://www.horizon-ui.com?ref=docs-pud",
+      url: "https://horizon-ui.com/",
       title: "Horizon UI Dashboard",
       description:
-        "Horizon UI Dashboard is a beautiful Chakra UI ReactJS admin dashboard with a large number of components, designed to look beautiful, clean and organized. If you are looking for a tool to manage dates about your business, this dashboard is the thing for you.",
+        "Horizon UI - Trendiest Open Source Admin Template for React",
       site_name:
-        "Most trendiest, complex and innovative Premium Dashboard for React. Check Horizon UI Dashboard based on Chakra UI.",
+        "Start building your dashboard with Horizon UI, the most trendiest Open Source free Admin Dashboard for Chakra UI, React and Figma!",
       images: [
         {
-          url:
-            "https://i.ibb.co/7NXMZQS/Cover-Horizon-Chakra-FREE-Thumbnail.png",
+          url: "https://i.ibb.co/fdyTwz1/introduction-image-2.png",
           width: 1240,
           height: 480,
           alt:
-            "Most trendiest, complex and innovative Premium Dashboard for React. Check Horizon UI Dashboard based on Chakra UI.",
+            "Start building your dashboard with Horizon UI, the most trendiest Open Source free Admin Dashboard for Chakra UI, React and Figma!",
         },
         {
-          url:
-            "https://i.ibb.co/7NXMZQS/Cover-Horizon-Chakra-FREE-Thumbnail.png",
+          url: "https://i.ibb.co/fdyTwz1/introduction-image-2.png",
           width: 1012,
           height: 506,
           alt:
-            "Most trendiest, complex and innovative Premium Dashboard for React. Check Horizon UI Dashboard based on Chakra UI.",
+            "Start building your dashboard with Horizon UI, the most trendiest Open Source free Admin Dashboard for Chakra UI, React and Figma!",
         },
       ],
     },
