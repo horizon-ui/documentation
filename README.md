@@ -102,7 +102,7 @@ some advices for our users that want to report an issue:
 Connect with the community! Feel free to ask questions, report issues, and meet
 new people that already use Horizon UI!
 
-💬 [Join the #HorizonUI Discord Community!](https://discord.gg/4eeurUVvTy)
+💬 [Join the #HorizonUI Discord Community!](https://discord.gg/f6tEKFBd4m)
 
 ### Copyright and license
 

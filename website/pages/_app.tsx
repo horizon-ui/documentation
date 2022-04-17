@@ -17,7 +17,7 @@ const App = ({ Component, pageProps }) => {
           rel="icon"
           type="image/png"
           sizes="96x96"
-          href="/docs-horizon-ui-chakra/favicon.png"
+          href="/public/favicon.png"
         />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://static.cloudflareinsights.com" />
