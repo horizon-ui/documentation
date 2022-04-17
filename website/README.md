@@ -1,3 +1,3 @@
 # Horizon UI Docs
 
-The Documentation website for Horizon UI Dashboard
+The Documentation website for Horizon UI

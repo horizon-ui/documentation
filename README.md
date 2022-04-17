@@ -1,32 +1,31 @@
-# [Horizon UI Dashboard](https://live.horizon-ui.com/horizon-ui-chakra) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://horizon-ui.com&text=Check%20Horizon%20UI,%20the%20trendiest%20open-source%20admin%20template%20for%20Chakra%20UI%20&%20React!)
+# [Horizon UI](https://live.horizon-ui.com/horizon-ui-chakra) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://horizon-ui.com&text=Check%20Horizon%20UI,%20the%20trendiest%20open-source%20admin%20template%20for%20Chakra%20UI%20&%20React!)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 [![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-ui-chakra.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/horizon-ui/horizon-ui-chakra.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-ui-chakra/issues?q=is%3Aissue+is%3Aclosed)
 
-Get started and build your dream web app with Horizon UI Dashboard, the most
-trendiest & innovative Open Source Admin Template for Chakra UI, React and
-Figma!
+Get started and build your dream web app with Horizon UI, the most trendiest &
+innovative Open Source Framework based on Chakra UI!
 
 ---
 
 ### Introduction
 
 Designed for those who like modern UI elements and beautiful websites. Made of
-hundred of elements, designed blocks and fully coded pages, Horizon UI Dashboard
-is ready to help you create stunning websites and webapps.
+hundred of elements, designed blocks and fully coded pages, Horizon UI is ready
+to help you create stunning websites and webapps.
 
 Save hundreds of hours trying to create and develop a dashboard from scratch.
 The fastest, most responsive & trendiest dashboard is here. Seriously.
 
-With Horizon UI Dashboard you will find many examples for pages like NFTs Pages,
+With Horizon UI you will find many examples for pages like NFTs Pages,
 Authentication Pages, Profile and so on. Just choose between a Basic Design or a
 cover and you are good to go!
 
 <p>&nbsp;</p>
 
-[<img alt="Horizon UI Dashboard" src="https://i.ibb.co/fdyTwz1/introduction-image-2.png" /> ](https://github.com/horizon-ui/horizon-ui-chakra)
+[<img alt="Horizon UI" src="https://i.ibb.co/fdyTwz1/introduction-image-2.png" /> ](https://github.com/horizon-ui/horizon-ui-chakra)
 
 <p>&nbsp;</p>
 
@@ -39,7 +38,7 @@ here.</a>
 
 ### Quick Start
 
-Install Horizon UI Dashboard by running either of the following:
+Install Horizon UI by running either of the following:
 
 - Install NodeJS LTS from
   [NodeJs Official Page](https://nodejs.org/en/?ref=horizon-documentation)
@@ -73,9 +72,9 @@ pages here.</a>
 
 ### Versions
 
-| Free Version                                                                                                                 | PRO Version                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon UI Dashboard](https://i.ibb.co/fdyTwz1/introduction-image-2.png)](https://www.horizon-ui.com/?ref=readme-horizon) | [![Horizon UI Dashboard PRO](https://i.ibb.co/R6jFKRM/introduction-image-1.png)](https://www.horizon-ui.com/pro?ref=readme-horizon) |
+| Free Version                                                                                                       | PRO Version                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| [![Horizon UI](https://i.ibb.co/fdyTwz1/introduction-image-2.png)](https://www.horizon-ui.com/?ref=readme-horizon) | [![Horizon UI PRO](https://i.ibb.co/R6jFKRM/introduction-image-1.png)](https://www.horizon-ui.com/pro?ref=readme-horizon) |
 
 ### Figma Version
 
@@ -85,8 +84,8 @@ Community! 🎨
 
 ### Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Horizon UI Dashboard.
-Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Horizon UI. Here are
+some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Horizon UI Dashbaord.
    Check the CHANGELOG from your dashboard on our

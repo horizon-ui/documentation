@@ -90,8 +90,8 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
   return (
     <>
       <SEO
-        title="Horizon UI Documentation - The official documentation for Horizon UI. Trendiest Open Source Admin Template for React & Chakra UI"
-        description="Start building your dashboard with Horizon UI, the most trendiest Open Source free Admin Dashboard for Chakra UI, React and Figma!"
+        title="Horizon UI Documentation - The official documentation for Horizon UI. Trendiest Open Source Framework for Chakra UI"
+        description="Start building your dashboard with Horizon UI, the most trendiest Open Source Framework for Chakra UI!"
       />
       <Header />
       <Box mb={20}>
@@ -126,8 +126,7 @@ const HomePage = ({ members, sponsors, githubStars }: HomePageProps) => {
                 mt="6"
               >
                 Start building your dashboard with Horizon UI, the most
-                trendiest Open Source free Admin Dashboard for Chakra UI, React
-                and Figma!
+                trendiest Open Source Framework based on Chakra UI!
               </Text>
 
               <Stack

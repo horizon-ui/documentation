@@ -22,10 +22,10 @@ const siteConfig = {
     url: "https://live.horizon-ui.com/horizon-ui-chakra/",
   },
   seo: {
-    title: "Horizon UI - Trendiest Open Source Admin Template for React",
+    title: "Horizon UI - Trendiest Open-Source Framework based on Chakra UI",
     titleTemplate: "%s",
     description:
-      "Start building your dashboard with Horizon UI, the most trendiest Open Source free Admin Dashboard for Chakra UI, React and Figma!",
+      "Start building your dashboard with Horizon UI, the most trendiest Open-Source Framework based on Chakra UI!",
     siteUrl: "https://horizon-ui.com/",
     twitter: {
       handle: "@simmmple",
@@ -36,25 +36,25 @@ const siteConfig = {
       type: "website",
       locale: "en_US",
       url: "https://horizon-ui.com/",
-      title: "Horizon UI Dashboard",
+      title: "Horizon UI",
       description:
-        "Horizon UI - Trendiest Open Source Admin Template for React",
+        "Horizon UI - Trendiest Open-Source Framework based on Chakra UI",
       site_name:
-        "Start building your dashboard with Horizon UI, the most trendiest Open Source free Admin Dashboard for Chakra UI, React and Figma!",
+        "Start building your dashboard with Horizon UI, the most trendiest Open-Source Framework based on Chakra UI!",
       images: [
         {
           url: "https://i.ibb.co/fdyTwz1/introduction-image-2.png",
           width: 1240,
           height: 480,
           alt:
-            "Start building your dashboard with Horizon UI, the most trendiest Open Source free Admin Dashboard for Chakra UI, React and Figma!",
+            "Start building your dashboard with Horizon UI, the most trendiest Open-Source Framework based on Chakra UI!",
         },
         {
           url: "https://i.ibb.co/fdyTwz1/introduction-image-2.png",
           width: 1012,
           height: 506,
           alt:
-            "Start building your dashboard with Horizon UI, the most trendiest Open Source free Admin Dashboard for Chakra UI, React and Figma!",
+            "Start building your dashboard with Horizon UI, the most trendiest Open Source Framework based on Chakra UI!",
         },
       ],
     },

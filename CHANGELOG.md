@@ -1,6 +1,6 @@
 ---
 title: Changelog
-description: The changelog for Horizon UI Dashboard React
+description: The changelog for Horizon UI React
 slug: "/changelog"
 ---
 

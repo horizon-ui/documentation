@@ -60,7 +60,7 @@ function HeaderContent() {
               display="flex"
               alignItems="center"
               justifyContent="center"
-              aria-label="Horizon UI Dashboard, Back to homepage"
+              aria-label="Horizon UI, Back to homepage"
               minW={{ base: "0px", md: "180px" }}
             >
               <Logo display={{ base: "none", md: "block" }} />
@@ -81,7 +81,7 @@ function HeaderContent() {
           <HStack spacing="5" display={{ base: "none", md: "flex" }}>
             <Link
               isExternal
-              aria-label="Go to Simmmple GitHub page"
+              aria-label="Go to Horizon UI GitHub page"
               href={siteConfig.repo.url}
             >
               <Icon
