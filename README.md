@@ -1,4 +1,4 @@
-# [Horizon UI](https://live.horizon-ui.com/horizon-ui-chakra) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://horizon-ui.com&text=Check%20Horizon%20UI,%20the%20trendiest%20open-source%20framework%20based%20on%20Chakra%20UI!)
+# [Horizon UI](https://horizon-ui.com/horizon-ui-chakra) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://horizon-ui.com&text=Check%20Horizon%20UI,%20the%20trendiest%20open-source%20framework%20based%20on%20Chakra%20UI!)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -67,7 +67,7 @@ npm start
 If you want to get inspiration or just show something directly to your clients,
 you can jump start your development with our pre-built example pages. You will
 be able to quickly set up the basic structure for your web project. View
-<a href="https://live.horizon-ui.com/free?ref=readme-horizon" target="_blank">example
+<a href="https://horizon-ui.com/free?ref=readme-horizon" target="_blank">example
 pages here.</a>
 
 ### Versions

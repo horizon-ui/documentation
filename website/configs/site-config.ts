@@ -19,7 +19,7 @@ const siteConfig = {
     blobUrl: `${baseUrl}/blob/main`,
   },
   livePreview: {
-    url: "https://live.horizon-ui.com/horizon-ui-chakra/",
+    url: "https://horizon-ui.com/horizon-ui-chakra/",
   },
   seo: {
     title: "Horizon UI - Trendiest Open-Source Framework based on Chakra UI",
