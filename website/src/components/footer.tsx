@@ -21,7 +21,6 @@ const FooterLink: React.FC<FooterLinkProps> = ({ icon, href, label }) => (
   </Link>
 )
 
-
 export const Footer = () => (
   <Flex
     justifyContent="space-between"
@@ -31,7 +30,8 @@ export const Footer = () => (
     mx="auto"
     boxSizing="border-box"
     flexDirection={{
-      base: "column", xl:"row"
+      base: "column",
+      xl: "row",
     }}
     px="0px"
     pb="20px"
@@ -45,15 +45,17 @@ export const Footer = () => (
       }}
       me="0px"
       mb={{
-        base: "20px", xl:"0px"
+        base: "20px",
+        xl: "0px",
       }}
     >
-      &copy; 2022 <Text as="span">Horizon UI. All Rights Reserved. Made with love by</Text>
+      &copy; 2022{" "}
+      <Text as="span">Horizon UI. All Rights Reserved. Made with love by</Text>
       <Link
         // color={linkTeal}
         color={useColorModeValue("gray.600", "white")}
         fontWeight="500"
-        href="https://www.simmmple.com?ref=simmmple-pud"
+        href="https://www.simmmple.com?ref=horizon-docs"
         target="_blank"
       >
         {" "}
@@ -69,7 +71,7 @@ export const Footer = () => (
       >
         <Link
           color={useColorModeValue("gray.400", "white")}
-          href="https://blog.simmmple.com/?ref=horizon-documentation-pud"
+          href="https://blog.simmmple.com/?ref=horizon-docs"
         >
           Blog
         </Link>
@@ -77,7 +79,7 @@ export const Footer = () => (
       <ListItem>
         <Link
           color={useColorModeValue("gray.400", "white")}
-          href="https://www.simmmple.com/licenses?ref=horizon-documentation-pud"
+          href="https://www.simmmple.com/licenses?ref=horizon-docs"
         >
           License
         </Link>
@@ -85,6 +87,5 @@ export const Footer = () => (
     </List>
   </Flex>
 )
-
 
 export default Footer
