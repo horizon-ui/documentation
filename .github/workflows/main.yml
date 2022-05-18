@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm install yarn
-      - run: yarn set version 1.16.0
+      - run: yarn set version 1.22.10
       - run: yarn boot
       - run: yarn docs:deploy
       - run: mkdir ./website/.next/_next
